@@ -12,10 +12,10 @@ With the Loader running locally, open the repository route. Example URLs (substi
 
 ```text
 http://127.0.0.1:4173/blcklab/aeternum-museum?ref=main
-http://127.0.0.1:4173/blcklab/aeternum-museum?ref=v1.0.0-rc.4
+http://127.0.0.1:4173/blcklab/aeternum-museum?ref=v1.0.0
 ```
 
-GitHub Pages is not required for repository loading. Use an explicit ref for reproducible testing; do not move existing release tags.
+GitHub Pages is not required for repository loading. Use an explicit ref for reproducible testing; do not move existing release tags. The stable tag is created only after the publication-rights and acceptance gates are satisfied. A new tag may require fresh navigation approval.
 
 ## GitHub Pages (optional)
 
