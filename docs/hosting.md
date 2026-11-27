@@ -1,32 +1,43 @@
-# M8.3 — GitHub Pages deployment
+# Hosting AETERNUM
 
-Technical setup only. M8.2 is deferred, not passed. Keep the source repository private while rights are unresolved; a public source repository exposes the original recordings too. Pages may be public even for a private repository. Do not confirm publication until you have the required rights. The workflow does not run on push or tag.
+AETERNUM is a static Anyo world. Rendering happens in the separate World Loader, in the visitor's browser. No museum-specific backend or Loader environment variable is needed with current Loader releases.
 
-## Museum
+**Before public distribution:** verify content rights and attribution; a public repository itself distributes the included binaries. See [content rights](rights.md).
 
-1. From a connected machine, run `npm install`, `npm run check`, then commit `package-lock.json`. Confirm `npm ci` succeeds.
-2. Create or use the private `blcklab/aeternum-museum` repository (example name; adapt to your actual repo). Push the source to its default branch. Do not commit `dist` or `node_modules`.
-3. Once publication rights are confirmed, set Settings → Pages → Build and deployment → Source to **GitHub Actions**. Run **Publish museum to Pages** from the default branch and explicitly confirm rights. The workflow checks, exports, and publishes only `dist/site-preview` plus a small static landing page copied into that directory after the review export.
-4. Use the Pages URL reported by the workflow. Example: `https://blcklab.github.io/aeternum-museum/world.anyo.json`. The site is a data repository; its landing page is not a standalone player. Treat this exact world URL as trusted and control all writes to it. Pages deployments replace the site; they are not immutable version archives. For immutable reviewed releases, use versioned static hosting that retains old versions.
+## Direct GitHub repository
 
-## Loader
+Once rights are cleared, push the canonical world files, `anyo.project.json`, `assets/` and `web-surface/` to a public repository. Commit real model and animation binaries, not Git LFS pointers. Keep generated `dist/`, `node_modules/` and local `.internal/` records untracked.
 
-Install and commit its lockfile separately. For U6 and later, no repository-specific Loader variable is needed. For older museum releases only, the optional legacy Actions variable `AETERNUM_WORLD_URL` can contain the exact approved HTTPS world document URL. Select Pages → GitHub Actions and run **Publish Loader to Pages**. This builds with the Pages base path (including a repository subpath). Use the final URL reported by GitHub. Example:
+With the Loader running locally, open the repository route. Example URLs (substitute your owner, repository, branch or existing tag):
 
-`https://blcklab.github.io/anyo-world-loader/?registryRoot=https%3A%2F%2Fblcklab.github.io%2Faeternum-museum%2F`
+```text
+http://127.0.0.1:4173/blcklab/aeternum-museum?ref=main
+http://127.0.0.1:4173/blcklab/aeternum-museum?ref=v1.0.0-rc.4
+```
 
-Replace both example URLs with actual values; no repository creation or deployment is performed by this source update.
+GitHub Pages is not required for repository loading. Use an explicit ref for reproducible testing; do not move existing release tags.
 
-## HTTP acceptance smoke test
+## GitHub Pages (optional)
 
-After deployment, from the museum source run:
+1. Run `npm install`, `npm run check`, and `npm run export:review`. Commit the real `package-lock.json` and verify `npm ci` in a clean checkout.
+2. In repository Settings → Pages, choose GitHub Actions as the source.
+3. Once publication rights are confirmed, run **Publish museum to Pages** from the default branch and confirm the rights input. The existing workflow publishes only the review runtime tree plus `docs/pages-index.html` as its landing page.
+4. Open the deployed world with the Loader's `registryRoot` query, using the actual Pages URL. Example:
+
+```text
+http://127.0.0.1:4173/?registryRoot=https%3A%2F%2Fblcklab.github.io%2Faeternum-museum%2F
+```
+
+The museum's Pages landing page is a data-site entry, not a standalone 3D player. Pages replaces the deployed site on updates; it does not provide immutable per-tag URLs by default.
+
+## Other static hosts
+
+Serve the canonical world and project JSON files with `assets/` and `web-surface/` at the same root. Use HTTPS, correct media and module MIME types, cross-origin access (including opaque sandbox origins where needed), and single byte-range support for audio. Do not publish the source checkout or grant credentialed wildcard CORS.
+
+Verify deployed responses using the actual world root and Loader origin:
 
 ```sh
 npm run verify:hosting -- https://blcklab.github.io/aeternum-museum/ https://blcklab.github.io
 ```
 
-This samples the world document, artwork, directory/viewer modules and JSON from opaque sandbox origins, both music files, waveform JSON and the ambience ranges. It rejects redirects, unexpected MIME types, missing CORS on cross-origin requests, or ignored audio byte ranges. A successful check is not a browser/physical-device acceptance test. Pages controls response headers; if it fails these checks, use a static HTTPS host with configurable MIME, CORS (including `Origin: null`) and range support rather than weakening the Loader. The Pages workflows require committed lockfiles and do not claim deployment success until GitHub reports it.
-
-## Rollback
-
-Re-run an approved previous source on the default branch (e.g. revert the offending commit), verify the selected ref and URLs again. Rebuilding the Loader for a changed approval is only necessary for legacy integration. Do not expose unreviewed updates on an approved URL. No v1.0.0 tag until the pending rights and physical-device gates pass.
+This is an HTTP smoke test, not a substitute for browser or physical-device acceptance. Test both GPU backends, character selection, navigation, audio, artwork and world switching. Navigation permission is owned by the Loader; a changed or unrecognized snapshot may require approval.
