@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "default": null,
+  "avatars": {
+    "pilot": {
+      "name": "Cyan Museum Scout",
+      "src": "./pilot.vrm",
+      "transform": {
+        "autoFit": true,
+        "targetHeight": 1.7
+      },
+      "description": "Test visitor avatar using the museum shared animation catalog."
+    },
+    "pilot0": {
+      "name": "Amber Museum Scout",
+      "src": "./pilot0.vrm",
+      "animations": "../animations/independent.json",
+      "transform": {
+        "autoFit": true,
+        "targetHeight": 1.7
+      },
+      "description": "Test visitor avatar using an independent animation catalog."
+    }
+  }
+}

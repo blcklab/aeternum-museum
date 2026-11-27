@@ -1,0 +1,379 @@
+{
+  "schema": "aeternum-floor-plan@1",
+  "worldId": "aeternum-museum",
+  "rooms": [
+    {
+      "id": "spine",
+      "bounds": [
+        -3,
+        -84,
+        6,
+        84
+      ],
+      "landing": [
+        0,
+        -2
+      ]
+    },
+    {
+      "id": "lobby",
+      "bounds": [
+        -7,
+        0,
+        14,
+        12
+      ],
+      "landing": [
+        0,
+        8.8
+      ]
+    },
+    {
+      "id": "01-renaissance",
+      "bounds": [
+        -17,
+        -11.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        -6.5,
+        -6
+      ]
+    },
+    {
+      "id": "02-baroque-rococo",
+      "bounds": [
+        3,
+        -11.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        6.5,
+        -6
+      ]
+    },
+    {
+      "id": "03-romantic-neoclassical-realist",
+      "bounds": [
+        -17,
+        -23.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        -6.5,
+        -18
+      ]
+    },
+    {
+      "id": "04-impressionism-post-impressionism",
+      "bounds": [
+        3,
+        -23.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        6.5,
+        -18
+      ]
+    },
+    {
+      "id": "05-modern-surrealism",
+      "bounds": [
+        -17,
+        -35.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        -6.5,
+        -30
+      ]
+    },
+    {
+      "id": "06-world-art",
+      "bounds": [
+        3,
+        -35.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        6.5,
+        -30
+      ]
+    },
+    {
+      "id": "07-philippine-art",
+      "bounds": [
+        -17,
+        -47.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        -6.5,
+        -42
+      ]
+    },
+    {
+      "id": "08-science-discovery",
+      "bounds": [
+        3,
+        -47.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        6.5,
+        -42
+      ]
+    },
+    {
+      "id": "09-philosophy-reason",
+      "bounds": [
+        -17,
+        -59.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        -6.5,
+        -54
+      ]
+    },
+    {
+      "id": "10-cosmos-reality",
+      "bounds": [
+        3,
+        -59.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        6.5,
+        -54
+      ]
+    },
+    {
+      "id": "11-mathematics-engineering-medicine",
+      "bounds": [
+        -17,
+        -71.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        -6.5,
+        -66
+      ]
+    },
+    {
+      "id": "12-einstein",
+      "bounds": [
+        3,
+        -71.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        6.5,
+        -66
+      ]
+    },
+    {
+      "id": "13-architects-of-reality",
+      "bounds": [
+        -17,
+        -83.75,
+        14,
+        11.5
+      ],
+      "landing": [
+        -6.5,
+        -78
+      ]
+    }
+  ],
+  "portals": [
+    {
+      "rooms": [
+        "lobby",
+        "spine"
+      ],
+      "point": [
+        0,
+        0
+      ],
+      "axis": 1,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "01-renaissance",
+        "spine"
+      ],
+      "point": [
+        -3,
+        -6
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "02-baroque-rococo",
+        "spine"
+      ],
+      "point": [
+        3,
+        -6
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "03-romantic-neoclassical-realist",
+        "spine"
+      ],
+      "point": [
+        -3,
+        -18
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "04-impressionism-post-impressionism",
+        "spine"
+      ],
+      "point": [
+        3,
+        -18
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "05-modern-surrealism",
+        "spine"
+      ],
+      "point": [
+        -3,
+        -30
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "06-world-art",
+        "spine"
+      ],
+      "point": [
+        3,
+        -30
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "07-philippine-art",
+        "spine"
+      ],
+      "point": [
+        -3,
+        -42
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "08-science-discovery",
+        "spine"
+      ],
+      "point": [
+        3,
+        -42
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "09-philosophy-reason",
+        "spine"
+      ],
+      "point": [
+        -3,
+        -54
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "10-cosmos-reality",
+        "spine"
+      ],
+      "point": [
+        3,
+        -54
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "11-mathematics-engineering-medicine",
+        "spine"
+      ],
+      "point": [
+        -3,
+        -66
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "12-einstein",
+        "spine"
+      ],
+      "point": [
+        3,
+        -66
+      ],
+      "axis": 0,
+      "width": 2.8
+    },
+    {
+      "rooms": [
+        "13-architects-of-reality",
+        "spine"
+      ],
+      "point": [
+        -3,
+        -78
+      ],
+      "axis": 0,
+      "width": 2.8
+    }
+  ],
+  "start": {
+    "roomId": "lobby",
+    "point": [
+      0,
+      8.8
+    ],
+    "label": "Entrance reference point"
+  }
+}

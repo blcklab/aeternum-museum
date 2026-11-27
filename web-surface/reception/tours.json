@@ -1,0 +1,135 @@
+{
+  "schema": "aeternum-tours@1",
+  "tours": [
+    {
+      "id": "renaissance",
+      "title": "The Renaissance & Its Legacy",
+      "description": "From proportion and perspective to dramatic light and the enduring study of humanity.",
+      "stops": [
+        {
+          "roomId": "01-renaissance",
+          "exhibitId": "exhibit-01-the-school-of-athens--raphael",
+          "title": "The School of Athens",
+          "note": "Observe how architecture and perspective organize the gathering of thinkers."
+        },
+        {
+          "roomId": "02-baroque-rococo",
+          "exhibitId": "exhibit-02-the-art-of-painting--johannes-vermeer",
+          "title": "The Art of Painting",
+          "note": "Compare the carefully composed interior with the Renaissance interest in representation."
+        },
+        {
+          "roomId": "09-philosophy-reason",
+          "exhibitId": "exhibit-09-vitruvian-man--leonardo-da-vinci",
+          "title": "Vitruvian Man",
+          "note": "Consider how drawing becomes a way to investigate the proportions of the human body."
+        }
+      ]
+    },
+    {
+      "id": "imagination",
+      "title": "The History of Human Imagination",
+      "description": "A journey through changing ways to represent the world, across five galleries.",
+      "stops": [
+        {
+          "roomId": "01-renaissance",
+          "exhibitId": "exhibit-01-mona-lisa--leonardo-da-vinci",
+          "title": "Mona Lisa",
+          "note": "Look at the subtle transitions of light and expression."
+        },
+        {
+          "roomId": "02-baroque-rococo",
+          "exhibitId": "exhibit-02-girl-with-a-pearl-earring--johannes-vermeer",
+          "title": "Girl with a Pearl Earring",
+          "note": "Notice the concentrated light and direct encounter with the figure."
+        },
+        {
+          "roomId": "03-romantic-neoclassical-realist",
+          "exhibitId": "exhibit-03-wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+          "title": "Wanderer Above the Sea of Fog",
+          "note": "Consider the relationship between the lone figure and the vast landscape."
+        },
+        {
+          "roomId": "04-impressionism-post-impressionism",
+          "exhibitId": "exhibit-04-impression-sunrise--claude-monet",
+          "title": "Impression, Sunrise",
+          "note": "Observe how brushwork and color suggest the changing atmosphere."
+        },
+        {
+          "roomId": "05-modern-surrealism",
+          "exhibitId": "exhibit-05-black-square--kazimir-malevich",
+          "title": "Black Square",
+          "note": "Ask what an artwork can communicate when recognizable subject matter is removed."
+        }
+      ]
+    },
+    {
+      "id": "art-science",
+      "title": "Art Meets Science",
+      "description": "Explore observation, experiment, anatomy and the visual culture of scientific inquiry.",
+      "stops": [
+        {
+          "roomId": "08-science-discovery",
+          "exhibitId": "exhibit-08-a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+          "title": "A Philosopher Lecturing on the Orrery",
+          "note": "Notice how the light source and the group of observers turn a demonstration into a shared experience."
+        },
+        {
+          "roomId": "09-philosophy-reason",
+          "exhibitId": "exhibit-09-vitruvian-man--leonardo-da-vinci",
+          "title": "Vitruvian Man",
+          "note": "Study the relationship between geometric figures and bodily proportions."
+        },
+        {
+          "roomId": "11-mathematics-engineering-medicine",
+          "exhibitId": "exhibit-11-the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+          "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+          "note": "Look at how the painter arranges the demonstration and its observers."
+        },
+        {
+          "roomId": "12-einstein",
+          "exhibitId": "exhibit-12-portrait-of-albert-einstein-1917--erich-buttner",
+          "title": "Portrait of Albert Einstein (1917)",
+          "note": "Reflect on how a portrait represents the person behind scientific ideas."
+        },
+        {
+          "roomId": "13-architects-of-reality",
+          "exhibitId": "exhibit-13-nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+          "title": "Nikola Tesla (Blue Portrait)",
+          "note": "Consider the contrast between scientific achievement and the artistic language of portraiture."
+        }
+      ]
+    },
+    {
+      "id": "reality",
+      "title": "The Architects of Reality",
+      "description": "A reflective route through philosophy, the sublime, physics and invention.",
+      "stops": [
+        {
+          "roomId": "09-philosophy-reason",
+          "exhibitId": "exhibit-09-the-death-of-socrates--jacques-louis-david",
+          "title": "The Death of Socrates",
+          "note": "Consider how gesture and composition present a philosophical choice."
+        },
+        {
+          "roomId": "10-cosmos-reality",
+          "exhibitId": "exhibit-10-wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+          "title": "Wanderer Above the Sea of Fog",
+          "note": "Reflect on the limits of human perspective in the face of the unknown."
+        },
+        {
+          "roomId": "12-einstein",
+          "exhibitId": "exhibit-12-albert-einstein-1924--leonid-pasternak",
+          "title": "Albert Einstein (1924)",
+          "note": "Consider how artistic portraiture connects abstract ideas with a human presence."
+        },
+        {
+          "roomId": "13-architects-of-reality",
+          "exhibitId": "exhibit-13-isaac-newton--godfrey-kneller",
+          "title": "Isaac Newton",
+          "note": "Compare this portrait with the Tesla portrait nearby and reflect on changing models of the physical world."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "$schema": "https://anyo.blcklab.dev/schemas/world-0.9.schema.json",
+  "version": "0.9",
+  "metadata": {
+    "title": "Hello World",
+    "description": "Hello World, a portable Anyo world for World Loader."
+  },
+  "environment": {
+    "background": "#111827",
+    "ambientLight": {
+      "color": "#eef2ff",
+      "intensity": 0.28
+    },
+    "lighting": {
+      "enabled": true,
+      "skyColor": "#aab8d0",
+      "groundColor": "#1c2533",
+      "diffuseIntensity": 0.34,
+      "specularIntensity": 0.22
+    },
+    "colorManagement": {
+      "toneMapping": "aces",
+      "exposure": 1,
+      "outputColorSpace": "srgb"
+    },
+    "shadows": {
+      "enabled": true,
+      "mapSize": 1024,
+      "bias": 0.0008,
+      "normalBias": 0.015,
+      "softness": 1,
+      "cameraPadding": 2
+    },
+    "imageQuality": {
+      "dithering": true,
+      "maxAnisotropy": 4
+    },
+    "sun": {
+      "color": "#ffffff",
+      "intensity": 0.78,
+      "position": [
+        7,
+        10,
+        6
+      ],
+      "castShadow": true
+    }
+  },
+  "materials": {
+    "wall": {
+      "color": "#e8edf5",
+      "roughness": 0.9,
+      "receiveShadow": true,
+      "castShadow": true
+    },
+    "floor": {
+      "color": "#65748a",
+      "roughness": 0.7,
+      "receiveShadow": true,
+      "castShadow": true
+    },
+    "accent": {
+      "color": "#7dd3fc",
+      "roughness": 0.35,
+      "metalness": 0.2,
+      "receiveShadow": true,
+      "castShadow": true
+    },
+    "map-exit-marker": {
+      "color": "#f5c76d",
+      "roughness": 0.24,
+      "emissive": "#f5b942",
+      "emissiveIntensity": 0.7,
+      "transparent": true,
+      "opacity": 0.78
+    }
+  },
+  "building": {
+    "id": "hello-world",
+    "name": "Hello World",
+    "floors": [
+      {
+        "id": "ground",
+        "elevation": 0,
+        "rooms": [
+          {
+            "id": "main",
+            "size": [
+              8,
+              8
+            ],
+            "materials": {
+              "wall": "wall",
+              "floor": "floor"
+            },
+            "openings": [
+              {
+                "id": "entrance",
+                "type": "door",
+                "wall": "south",
+                "offset": "center",
+                "width": 2,
+                "height": 2.5,
+                "open": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "id": "welcome",
+      "type": "text",
+      "content": "HELLO WORLD",
+      "size": [
+        4.6,
+        0.8
+      ],
+      "surface": {
+        "room": "main",
+        "wall": "north",
+        "offset": [
+          0,
+          0.65
+        ]
+      },
+      "style": {
+        "fontSize": 0.22,
+        "fontWeight": 750,
+        "color": "#172033"
+      }
+    },
+    {
+      "id": "centerpiece",
+      "type": "box",
+      "room": "main",
+      "position": [
+        0,
+        1,
+        -1.5
+      ],
+      "size": [
+        1.4,
+        1.4,
+        1.4
+      ],
+      "material": "accent",
+      "collision": true
+    }
+  ],
+  "exploration": {
+    "spawn": {
+      "room": "main",
+      "position": [
+        0,
+        1.65,
+        2.5
+      ]
+    },
+    "pointerLock": true
+  },
+  "revision": 0
+}

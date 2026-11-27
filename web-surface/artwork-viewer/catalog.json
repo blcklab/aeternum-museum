@@ -1,0 +1,3061 @@
+{
+  "schema": "aeternum-artwork-viewer@1",
+  "galleries": [
+    {
+      "id": "01-renaissance",
+      "name": "Renaissance"
+    },
+    {
+      "id": "02-baroque-rococo",
+      "name": "Baroque & Rococo"
+    },
+    {
+      "id": "03-romantic-neoclassical-realist",
+      "name": "Romanticism, Neoclassicism & Realism"
+    },
+    {
+      "id": "04-impressionism-post-impressionism",
+      "name": "Impressionism & Post-Impressionism"
+    },
+    {
+      "id": "05-modern-surrealism",
+      "name": "Modern Art & Surrealism"
+    },
+    {
+      "id": "06-world-art",
+      "name": "World Art"
+    },
+    {
+      "id": "07-philippine-art",
+      "name": "Philippine Art"
+    },
+    {
+      "id": "08-science-discovery",
+      "name": "Science & Discovery"
+    },
+    {
+      "id": "09-philosophy-reason",
+      "name": "Philosophy & Reason"
+    },
+    {
+      "id": "10-cosmos-reality",
+      "name": "Cosmos & Reality"
+    },
+    {
+      "id": "11-mathematics-engineering-medicine",
+      "name": "Mathematics, Engineering & Medicine"
+    },
+    {
+      "id": "12-einstein",
+      "name": "Albert Einstein"
+    },
+    {
+      "id": "13-architects-of-reality",
+      "name": "Architects of Reality"
+    }
+  ],
+  "exhibits": [
+    {
+      "entityId": "exhibit-01-mona-lisa--leonardo-da-vinci",
+      "artworkId": "mona-lisa--leonardo-da-vinci",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.24116,
+        1.85
+      ],
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "date": "1503–1519",
+      "description": "A softly modeled portrait whose enigmatic expression and atmospheric landscape exemplify Leonardo's sfumato technique.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+      "originalImage": "./assets/museum/paintings/mona-lisa--leonardo-da-vinci.webp",
+      "gallery": "Renaissance",
+      "width": 1374,
+      "height": 2048,
+      "credit": "Cropped and relevelled from File:Mona Lisa, by Leonardo da Vinci, from C2RMF.jpg . Originally C2RMF: Galerie de tableaux en très haute définition : image page"
+    },
+    {
+      "entityId": "exhibit-01-the-school-of-athens--raphael",
+      "artworkId": "the-school-of-athens--raphael",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.38439,
+        1.85
+      ],
+      "title": "The School of Athens",
+      "artist": "Raphael",
+      "date": "1509–1511",
+      "description": "Ancient philosophers gather in an idealized architectural space celebrating reason, mathematics and inquiry.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+      "originalImage": "./assets/museum/paintings/the-school-of-athens--raphael.webp",
+      "gallery": "Renaissance",
+      "width": 2048,
+      "height": 1589,
+      "credit": "Stitched together from vatican.va"
+    },
+    {
+      "entityId": "exhibit-01-lady-with-an-ermine--leonardo-da-vinci",
+      "artworkId": "lady-with-an-ermine--leonardo-da-vinci",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        1.37576,
+        1.85
+      ],
+      "title": "Lady with an Ermine",
+      "artist": "Leonardo da Vinci",
+      "date": "c. 1489–1491",
+      "description": "A young woman turns while holding an ermine, combining psychological presence with graceful movement.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_(adjusted_levels).jpg",
+      "originalImage": "./assets/museum/paintings/lady-with-an-ermine--leonardo-da-vinci.webp",
+      "gallery": "Renaissance",
+      "width": 1523,
+      "height": 2048,
+      "credit": "File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg"
+    },
+    {
+      "entityId": "exhibit-01-the-annunciation--fra-angelico",
+      "artworkId": "the-annunciation--fra-angelico",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.77769
+      ],
+      "title": "The Annunciation (San Marco fresco)",
+      "artist": "Fra Angelico",
+      "date": "c. 1440s",
+      "description": "Gabriel kneels before Mary beneath a simple arcaded loggia. The spare architecture, quiet gestures and soft color create a contemplative devotional scene.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Annunciation.jpg",
+      "originalImage": "./assets/museum/paintings/the-annunciation--fra-angelico.webp",
+      "gallery": "Renaissance",
+      "width": 2048,
+      "height": 1486,
+      "credit": "Self-photographed Gleb Simonov"
+    },
+    {
+      "entityId": "exhibit-01-the-last-supper--leonardo-da-vinci",
+      "artworkId": "the-last-supper--leonardo-da-vinci",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": -5.1,
+      "displaySize": [
+        2.45,
+        1.225
+      ],
+      "title": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "date": "1495–1498",
+      "description": "Christ announces his impending betrayal at a communal meal, while the apostles respond with dramatically varied gestures.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+      "originalImage": "./assets/museum/paintings/the-last-supper--leonardo-da-vinci.webp",
+      "gallery": "Renaissance",
+      "width": 2048,
+      "height": 1024,
+      "credit": "Online Taken on 23 July 2013"
+    },
+    {
+      "entityId": "exhibit-01-primavera--sandro-botticelli",
+      "artworkId": "primavera--sandro-botticelli",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.60901
+      ],
+      "title": "Primavera",
+      "artist": "Sandro Botticelli",
+      "date": "c. 1482",
+      "description": "Mythological figures assemble in a richly detailed grove, evoking spring, love and renewal.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg",
+      "originalImage": "./assets/museum/paintings/primavera--sandro-botticelli.webp",
+      "gallery": "Renaissance",
+      "width": 2048,
+      "height": 1345,
+      "credit": "http://www.googleartproject.com/collection/uffizi-gallery/artwork/la-primavera-spring-botticelli-filipepi/331460/"
+    },
+    {
+      "entityId": "exhibit-01-sistine-madonna--raphael",
+      "artworkId": "sistine-madonna--raphael",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.34956,
+        1.85
+      ],
+      "title": "Sistine Madonna",
+      "artist": "Raphael",
+      "date": "c. 1512",
+      "description": "The Virgin and Child appear among clouds, accompanied by saints and two famous cherubs.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:RAFAEL_-_Madonna_Sixtina_(Gem%C3%A4ldegalerie_Alter_Meister,_Dresden,_1513-14._%C3%93leo_sobre_lienzo,_265_x_196_cm).jpg",
+      "originalImage": "./assets/museum/paintings/sistine-madonna--raphael.webp",
+      "gallery": "Renaissance",
+      "width": 1494,
+      "height": 2048,
+      "credit": "Google Art Project: Home - pic Maximum resolution."
+    },
+    {
+      "entityId": "exhibit-01-the-lamentation--giotto",
+      "artworkId": "the-lamentation--giotto",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": 5.1,
+      "displaySize": [
+        1.96719,
+        1.85
+      ],
+      "title": "The Lamentation",
+      "artist": "Giotto",
+      "date": "c. 1305",
+      "description": "Mourners gather around Christ's body in an emotionally direct fresco that helped transform European painting.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Compianto_sul_Cristo_morto.jpg",
+      "originalImage": "./assets/museum/paintings/the-lamentation--giotto.webp",
+      "gallery": "Renaissance",
+      "width": 2048,
+      "height": 1926,
+      "credit": "Own work"
+    },
+    {
+      "entityId": "exhibit-01-the-creation-of-adam--michelangelo",
+      "artworkId": "the-creation-of-adam--michelangelo",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "west",
+      "offset": -3.4,
+      "displaySize": [
+        2.45,
+        1.11135
+      ],
+      "title": "The Creation of Adam",
+      "artist": "Michelangelo",
+      "date": "c. 1511",
+      "description": "God and Adam reach toward one another in a fresco exploring creation and the origin of human life.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg",
+      "originalImage": "./assets/museum/paintings/the-creation-of-adam--michelangelo.webp",
+      "gallery": "Renaissance",
+      "width": 2048,
+      "height": 929,
+      "credit": "See below."
+    },
+    {
+      "entityId": "exhibit-01-the-arnolfini-portrait--jan-van-eyck",
+      "artworkId": "the-arnolfini-portrait--jan-van-eyck",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        1.35227,
+        1.85
+      ],
+      "title": "The Arnolfini Portrait",
+      "artist": "Jan van Eyck",
+      "date": "1434",
+      "description": "A richly furnished domestic interior uses a convex mirror, intricate objects and light to create layers of meaning.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg",
+      "originalImage": "./assets/museum/paintings/the-arnolfini-portrait--jan-van-eyck.webp",
+      "gallery": "Renaissance",
+      "width": 1497,
+      "height": 2048,
+      "credit": "Gennadii Saus i Segura"
+    },
+    {
+      "entityId": "exhibit-01-venus-of-urbino--titian",
+      "artworkId": "venus-of-urbino--titian",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "west",
+      "offset": 3.4,
+      "displaySize": [
+        2.45,
+        1.72266
+      ],
+      "title": "Venus of Urbino",
+      "artist": "Titian",
+      "date": "1538",
+      "description": "A reclining woman meets the viewer's gaze in a richly colored Venetian interior.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/venus-of-urbino--titian.webp",
+      "gallery": "Renaissance",
+      "width": 2048,
+      "height": 1440,
+      "credit": "Google Arts & Culture — bQGS8pnP5vr2Jg"
+    },
+    {
+      "entityId": "exhibit-02-girl-with-a-pearl-earring--johannes-vermeer",
+      "artworkId": "girl-with-a-pearl-earring--johannes-vermeer",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.56184,
+        1.85
+      ],
+      "title": "Girl with a Pearl Earring",
+      "artist": "Johannes Vermeer",
+      "date": "c. 1665",
+      "description": "A young figure turns toward the viewer, with luminous fabric and an oversized pearl-like earring.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg",
+      "originalImage": "./assets/museum/paintings/girl-with-a-pearl-earring--johannes-vermeer.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 1729,
+      "height": 2048,
+      "credit": "https://www.mauritshuis.nl/"
+    },
+    {
+      "entityId": "exhibit-02-the-milkmaid--johannes-vermeer",
+      "artworkId": "the-milkmaid--johannes-vermeer",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        1.64585,
+        1.85
+      ],
+      "title": "The Milkmaid",
+      "artist": "Johannes Vermeer",
+      "date": "c. 1658–1659",
+      "description": "A servant pours milk in a quiet domestic scene distinguished by meticulous observation of light and texture.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png",
+      "originalImage": "./assets/museum/paintings/the-milkmaid--johannes-vermeer.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 1822,
+      "height": 2048,
+      "credit": "Google Arts & Culture — 9AHrwZ3Av6Zhjg"
+    },
+    {
+      "entityId": "exhibit-02-the-storm-on-the-sea-of-galilee--rembrandt",
+      "artworkId": "the-storm-on-the-sea-of-galilee--rembrandt",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        1.48867,
+        1.85
+      ],
+      "title": "The Storm on the Sea of Galilee",
+      "artist": "Rembrandt",
+      "date": "1633",
+      "description": "Christ and his disciples confront a turbulent sea in a dramatic study of faith and human vulnerability.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+      "originalImage": "./assets/museum/paintings/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 1648,
+      "height": 2048,
+      "credit": "www.gardnermuseum.org : Home : Info : Pic"
+    },
+    {
+      "entityId": "exhibit-02-the-supper-at-emmaus--caravaggio",
+      "artworkId": "the-supper-at-emmaus--caravaggio",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.7418
+      ],
+      "title": "The Supper at Emmaus",
+      "artist": "Caravaggio",
+      "date": "1601",
+      "description": "Disciples recognize the risen Christ during a meal, their gestures heightening the moment of revelation.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:1602-3_Caravaggio,Supper_at_Emmaus_National_Gallery,_London.jpg",
+      "originalImage": "./assets/museum/paintings/the-supper-at-emmaus--caravaggio.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 2048,
+      "height": 1456,
+      "credit": "National Gallery, London web site"
+    },
+    {
+      "entityId": "exhibit-02-the-night-watch--rembrandt",
+      "artworkId": "the-night-watch--rembrandt",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": -5.1,
+      "displaySize": [
+        2.27419,
+        1.85
+      ],
+      "title": "The Night Watch",
+      "artist": "Rembrandt",
+      "date": "1642",
+      "description": "A civic guard company emerges in a dynamic group portrait distinguished by dramatic illumination.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg",
+      "originalImage": "./assets/museum/paintings/the-night-watch--rembrandt.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 2048,
+      "height": 1666,
+      "credit": "https://www.rijksmuseum.nl/en/collection/SK-C-5"
+    },
+    {
+      "entityId": "exhibit-02-the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.84587
+      ],
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist": "Rembrandt",
+      "date": "1632",
+      "description": "Surgeons gather around a dissected arm, demonstrating anatomical observation and professional learning.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+      "originalImage": "./assets/museum/paintings/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 2048,
+      "height": 1543,
+      "credit": "Mauritshuis online catalogue ."
+    },
+    {
+      "entityId": "exhibit-02-the-swing--jean-honore-fragonard",
+      "artworkId": "the-swing--jean-honore-fragonard",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.43279,
+        1.85
+      ],
+      "title": "The Swing",
+      "artist": "Jean-Honoré Fragonard",
+      "date": "1767",
+      "description": "A young woman swings through a lush garden in a playful scene associated with Rococo elegance.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Swing_(P430).jpg",
+      "originalImage": "./assets/museum/paintings/the-swing--jean-honore-fragonard.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 1487,
+      "height": 1920,
+      "credit": "The Trustees of the Wallace Collection"
+    },
+    {
+      "entityId": "exhibit-02-the-art-of-painting--johannes-vermeer",
+      "artworkId": "the-art-of-painting--johannes-vermeer",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": 5.1,
+      "displaySize": [
+        1.55732,
+        1.85
+      ],
+      "title": "The Art of Painting",
+      "artist": "Johannes Vermeer",
+      "date": "c. 1666–1668",
+      "description": "An artist paints an allegorical model in a carefully arranged studio, reflecting on the nature of painting.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/the-art-of-painting--johannes-vermeer.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 1724,
+      "height": 2048,
+      "credit": "Google Arts & Culture — lAHeqBoLaePtEA"
+    },
+    {
+      "entityId": "exhibit-02-the-calling-of-saint-matthew--caravaggio",
+      "artworkId": "the-calling-of-saint-matthew--caravaggio",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": -4.3125,
+      "displaySize": [
+        1.95905,
+        1.85
+      ],
+      "title": "The Calling of Saint Matthew",
+      "artist": "Caravaggio",
+      "date": "1599–1600",
+      "description": "A shaft of light emphasizes the moment of Matthew's calling in a contemporary-looking interior.",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+      "originalImage": "./assets/museum/paintings/the-calling-of-saint-matthew--caravaggio.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 2048,
+      "height": 1934,
+      "credit": "Own work"
+    },
+    {
+      "entityId": "exhibit-02-judith-beheading-holofernes--artemisia-gentileschi",
+      "artworkId": "judith-beheading-holofernes--artemisia-gentileschi",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": -1.4375,
+      "displaySize": [
+        1.52119,
+        1.85
+      ],
+      "title": "Judith Beheading Holofernes",
+      "artist": "Artemisia Gentileschi",
+      "date": "c. 1620",
+      "description": "Judith and her maid overpower Holofernes in a dramatic rendering of the biblical story.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Judit_decapitando_a_Holofernes,_por_Artemisia_Gentileschi.jpg",
+      "originalImage": "./assets/museum/paintings/judith-beheading-holofernes--artemisia-gentileschi.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 1684,
+      "height": 2048,
+      "credit": "Uffizi"
+    },
+    {
+      "entityId": "exhibit-02-the-elevation-of-the-cross--peter-paul-rubens",
+      "artworkId": "the-elevation-of-the-cross--peter-paul-rubens",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": 1.4375,
+      "displaySize": [
+        2.45,
+        1.76094
+      ],
+      "title": "The Elevation of the Cross",
+      "artist": "Peter Paul Rubens",
+      "date": "1610–1611",
+      "description": "Figures strain to raise the cross in a powerful composition defined by diagonals and muscular movement.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Raising_of_the_Cross_(Antwerp_Cathedral).JPG",
+      "originalImage": "./assets/museum/paintings/the-elevation-of-the-cross--peter-paul-rubens.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 2048,
+      "height": 1472,
+      "credit": "https://www.dekathedraal.be/nl/rubens-kruisoprichting"
+    },
+    {
+      "entityId": "exhibit-02-the-rokeby-venus--diego-velazquez",
+      "artworkId": "the-rokeby-venus--diego-velazquez",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": 4.3125,
+      "displaySize": [
+        2.45,
+        1.68079
+      ],
+      "title": "The Rokeby Venus",
+      "artist": "Diego Velázquez",
+      "date": "c. 1647–1651",
+      "description": "A reclining Venus looks toward a mirror held by Cupid in a study of beauty and reflected vision.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg",
+      "originalImage": "./assets/museum/paintings/the-rokeby-venus--diego-velazquez.webp",
+      "gallery": "Baroque & Rococo",
+      "width": 2048,
+      "height": 1405,
+      "credit": "Key facts . The National Gallery, London. Retrieved on 25 June 2013 ."
+    },
+    {
+      "entityId": "exhibit-03-wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.4426,
+        1.85
+      ],
+      "title": "Wanderer Above the Sea of Fog",
+      "artist": "Caspar David Friedrich",
+      "date": "c. 1818",
+      "description": "A solitary figure surveys a sea of fog, embodying the Romantic sublime and the unknowable scale of nature.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+      "originalImage": "./assets/museum/paintings/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 1597,
+      "height": 2048,
+      "credit": "https://www.tiqets.com/ja/hamburg-attractions-c64886/tickets-for-hamburger-kunsthalle-skip-the-line-p976728/"
+    },
+    {
+      "entityId": "exhibit-03-the-death-of-socrates--jacques-louis-david",
+      "artworkId": "the-death-of-socrates--jacques-louis-david",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.60901
+      ],
+      "title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "date": "1787",
+      "description": "Socrates faces death while continuing to teach, embodying philosophical conviction and intellectual courage.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:David_-_The_Death_of_Socrates.jpg",
+      "originalImage": "./assets/museum/paintings/the-death-of-socrates--jacques-louis-david.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1345,
+      "credit": "https://www.metmuseum.org/collection/the-collection-online/search/436105"
+    },
+    {
+      "entityId": "exhibit-03-the-oath-of-the-horatii--jacques-louis-david",
+      "artworkId": "the-oath-of-the-horatii--jacques-louis-david",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        2.38589,
+        1.85
+      ],
+      "title": "The Oath of the Horatii",
+      "artist": "Jacques-Louis David",
+      "date": "1784",
+      "description": "Three brothers pledge loyalty before their father, dramatizing civic duty and personal sacrifice.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_Serment_des_Horaces_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3692_;_MR_1432.jpg",
+      "originalImage": "./assets/museum/paintings/the-oath-of-the-horatii--jacques-louis-david.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1588,
+      "credit": "photo Shonagon 2025-03-15"
+    },
+    {
+      "entityId": "exhibit-03-the-hay-wain--john-constable",
+      "artworkId": "the-hay-wain--john-constable",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.68916
+      ],
+      "title": "The Hay Wain",
+      "artist": "John Constable",
+      "date": "1821",
+      "description": "A rural wagon crosses a shallow river in a detailed study of the English countryside.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg",
+      "originalImage": "./assets/museum/paintings/the-hay-wain--john-constable.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1412,
+      "credit": "National Gallery, London via gallerix.ru"
+    },
+    {
+      "entityId": "exhibit-03-liberty-leading-the-people--eugene-delacroix",
+      "artworkId": "liberty-leading-the-people--eugene-delacroix",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": -5.1,
+      "displaySize": [
+        2.31165,
+        1.85
+      ],
+      "title": "Liberty Leading the People",
+      "artist": "Eugène Delacroix",
+      "date": "1830",
+      "description": "An allegorical figure of Liberty leads revolutionaries over a barricade in a vision of political upheaval.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+      "originalImage": "./assets/museum/paintings/liberty-leading-the-people--eugene-delacroix.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1639,
+      "credit": "photo Shonagon 2024-05-02"
+    },
+    {
+      "entityId": "exhibit-03-saturn-devouring-his-son--francisco-goya",
+      "artworkId": "saturn-devouring-his-son--francisco-goya",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        1.0072,
+        1.85
+      ],
+      "title": "Saturn Devouring His Son",
+      "artist": "Francisco Goya",
+      "date": "c. 1819–1823",
+      "description": "A mythological father consumes his child in a disturbing vision of fear, power and destruction.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+      "originalImage": "./assets/museum/paintings/saturn-devouring-his-son--francisco-goya.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 1115,
+      "height": 2048,
+      "credit": "[1]"
+    },
+    {
+      "entityId": "exhibit-03-the-death-of-marat--jacques-louis-david",
+      "artworkId": "the-death-of-marat--jacques-louis-david",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.43809,
+        1.85
+      ],
+      "title": "The Death of Marat",
+      "artist": "Jacques-Louis David",
+      "date": "1793",
+      "description": "The murdered revolutionary Jean-Paul Marat is depicted in a spare, idealized scene of political martyrdom.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Death_of_Marat_by_David.jpg",
+      "originalImage": "./assets/museum/paintings/the-death-of-marat--jacques-louis-david.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 1592,
+      "height": 2048,
+      "credit": "Google Art & Culture : upload by user FDRMRZUSA. Web Gallery of Art"
+    },
+    {
+      "entityId": "exhibit-03-the-gleaners--jean-francois-millet",
+      "artworkId": "the-gleaners--jean-francois-millet",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.83271
+      ],
+      "title": "The Gleaners",
+      "artist": "Jean-François Millet",
+      "date": "1857",
+      "description": "Three women collect leftover grain, making rural labor and social inequality the subject of monumental art.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+      "originalImage": "./assets/museum/paintings/the-gleaners--jean-francois-millet.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1532,
+      "credit": "Google Arts & Culture — GgHsT2RumWxbtw"
+    },
+    {
+      "entityId": "exhibit-03-the-raft-of-the-medusa--theodore-gericault",
+      "artworkId": "the-raft-of-the-medusa--theodore-gericault",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": -4.3125,
+      "displaySize": [
+        2.45,
+        1.67241
+      ],
+      "title": "The Raft of the Medusa",
+      "artist": "Théodore Géricault",
+      "date": "1818–1819",
+      "description": "Shipwreck survivors struggle toward rescue in a monumental composition exploring suffering and hope.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg",
+      "originalImage": "./assets/museum/paintings/the-raft-of-the-medusa--theodore-gericault.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1398,
+      "credit": "Unknown source Unknown source"
+    },
+    {
+      "entityId": "exhibit-03-the-nightmare--henry-fuseli",
+      "artworkId": "the-nightmare--henry-fuseli",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": -1.4375,
+      "displaySize": [
+        2.30462,
+        1.85
+      ],
+      "title": "The Nightmare",
+      "artist": "Henry Fuseli",
+      "date": "1781",
+      "description": "A sleeping woman and uncanny figures create a haunting meditation on dreams and terror.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_-_The_Nightmare_55.5.A-d1-2019-04-15.jpg",
+      "originalImage": "./assets/museum/paintings/the-nightmare--henry-fuseli.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1644,
+      "credit": "https://dia.org/collection/nightmare-45573 https://dia.widen.net/content/ecc0wgpx38/original/55.5.A-d1-2019-04-15.tif?u=u3bnol&download=true"
+    },
+    {
+      "entityId": "exhibit-03-the-fighting-temeraire--j-m-w-turner",
+      "artworkId": "the-fighting-temeraire--j-m-w-turner",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": 1.4375,
+      "displaySize": [
+        2.45,
+        1.82075
+      ],
+      "title": "The Fighting Temeraire",
+      "artist": "J. M. W. Turner",
+      "date": "1839",
+      "description": "An aging warship is towed toward dismantling as sunset and steam power evoke historical change.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg",
+      "originalImage": "./assets/museum/paintings/the-fighting-temeraire--j-m-w-turner.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1522,
+      "credit": "National Gallery of Art"
+    },
+    {
+      "entityId": "exhibit-03-the-ninth-wave--ivan-aivazovsky",
+      "artworkId": "the-ninth-wave--ivan-aivazovsky",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": 4.3125,
+      "displaySize": [
+        2.45,
+        1.64609
+      ],
+      "title": "The Ninth Wave",
+      "artist": "Ivan Aivazovsky",
+      "date": "1850",
+      "description": "Survivors face immense waves beneath a luminous sky in a dramatic image of nature's power.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/the-ninth-wave--ivan-aivazovsky.webp",
+      "gallery": "Romanticism, Neoclassicism & Realism",
+      "width": 2048,
+      "height": 1376,
+      "credit": "jgHuL-7yxgrOSw at Google Cultural Institute maximum zoom level"
+    },
+    {
+      "entityId": "exhibit-04-the-scream--edvard-munch",
+      "artworkId": "the-scream--edvard-munch",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.49048,
+        1.85
+      ],
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "date": "1893",
+      "description": "An anguished figure stands against a violently colored sky in an enduring image of existential anxiety.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg",
+      "originalImage": "./assets/museum/paintings/the-scream--edvard-munch.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 1650,
+      "height": 2048,
+      "credit": "National Museum of Art, Architecture and Design"
+    },
+    {
+      "entityId": "exhibit-04-cafe-terrace-at-night--vincent-van-gogh",
+      "artworkId": "cafe-terrace-at-night--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        1.48325,
+        1.85
+      ],
+      "title": "Café Terrace at Night",
+      "artist": "Vincent van Gogh",
+      "date": "1888",
+      "description": "A warmly illuminated café terrace contrasts with the deep blue of an evening street and sky.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg",
+      "originalImage": "./assets/museum/paintings/cafe-terrace-at-night--vincent-van-gogh.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 1642,
+      "height": 2048,
+      "credit": "https://data.collectienederland.nl/page/aggregation/kroller-muller/44529"
+    },
+    {
+      "entityId": "exhibit-04-the-night-cafe--vincent-van-gogh",
+      "artworkId": "the-night-cafe--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        2.3431,
+        1.85
+      ],
+      "title": "The Night Café",
+      "artist": "Vincent van Gogh",
+      "date": "1888",
+      "description": "An intensely colored café interior expresses unease through exaggerated perspective and contrasting hues.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_The_Night_Caf%C3%A9_(1888).jpg",
+      "originalImage": "./assets/museum/paintings/the-night-cafe--vincent-van-gogh.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 2048,
+      "height": 1617,
+      "credit": "1. The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 . 2. Unknown source Unknown source 3. Yale University Art Gallery"
+    },
+    {
+      "entityId": "exhibit-04-the-card-players--paul-cezanne",
+      "artworkId": "the-card-players--paul-cezanne",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.25524,
+        1.85
+      ],
+      "title": "The Card Players (Musée d’Orsay version)",
+      "artist": "Paul Cézanne",
+      "date": "1890s",
+      "description": "Two men sit across a small table playing cards, with a bottle between them. Cézanne builds the composition from restrained color and solid geometric forms. This is the Musée d’Orsay version of the series.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg",
+      "originalImage": "./assets/museum/paintings/the-card-players--paul-cezanne.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 2048,
+      "height": 1680,
+      "credit": "https://www.sothebys.com/en/videos/from-picasso-to-motherwell-one-collections-vision-of-20th-century-artistic-innovation direct link"
+    },
+    {
+      "entityId": "exhibit-04-the-kiss--gustav-klimt",
+      "artworkId": "the-kiss--gustav-klimt",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "south",
+      "offset": -3.4,
+      "displaySize": [
+        1.84368,
+        1.85
+      ],
+      "title": "The Kiss",
+      "artist": "Gustav Klimt",
+      "date": "1907–1908",
+      "description": "Two embracing figures dissolve into intricate gilded ornament in a celebration of intimacy.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+      "originalImage": "./assets/museum/paintings/the-kiss--gustav-klimt.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 2041,
+      "height": 2048,
+      "credit": "Google Art Project"
+    },
+    {
+      "entityId": "exhibit-04-starry-night-over-the-rhone--vincent-van-gogh",
+      "artworkId": "starry-night-over-the-rhone--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        2.39494,
+        1.85
+      ],
+      "title": "Starry Night Over the Rhône",
+      "artist": "Vincent van Gogh",
+      "date": "1888",
+      "description": "Stars and artificial lights shimmer on the Rhône in a nocturnal study of reflected color.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/starry-night-over-the-rhone--vincent-van-gogh.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 2048,
+      "height": 1582,
+      "credit": "uQE3XORhSK37Dw at Google Cultural Institute maximum zoom level"
+    },
+    {
+      "entityId": "exhibit-04-wheatfield-with-crows--vincent-van-gogh",
+      "artworkId": "wheatfield-with-crows--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "south",
+      "offset": 3.4,
+      "displaySize": [
+        2.45,
+        1.17356
+      ],
+      "title": "Wheatfield with Crows",
+      "artist": "Vincent van Gogh",
+      "date": "1890",
+      "description": "A turbulent sky, wheat fields and dark birds create a powerful late landscape.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+      "originalImage": "./assets/museum/paintings/wheatfield-with-crows--vincent-van-gogh.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 2048,
+      "height": 981,
+      "credit": "Van Gogh Museum This is a retouched picture , which means that it has been digitally altered from its original version. Modifications: The exposure of the original picture has been significantly increased. As a result, the colors recorded in JPG format have been altered and may differ from the authentic artwork. ."
+    },
+    {
+      "entityId": "exhibit-04-impression-sunrise--claude-monet",
+      "artworkId": "impression-sunrise--claude-monet",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "east",
+      "offset": -3.4,
+      "displaySize": [
+        2.38439,
+        1.85
+      ],
+      "title": "Impression, Sunrise",
+      "artist": "Claude Monet",
+      "date": "1872",
+      "description": "A hazy harbor and orange sun capture the fleeting effect of atmosphere that gave Impressionism its name.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg",
+      "originalImage": "./assets/museum/paintings/impression-sunrise--claude-monet.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 2048,
+      "height": 1589,
+      "credit": "art database"
+    },
+    {
+      "entityId": "exhibit-04-sunflowers--vincent-van-gogh",
+      "artworkId": "sunflowers--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "east",
+      "offset": 0,
+      "displaySize": [
+        1.46609,
+        1.85
+      ],
+      "title": "Sunflowers (National Gallery version)",
+      "artist": "Vincent van Gogh",
+      "date": "1888",
+      "description": "A vase of sunflowers in varied stages of bloom stands against a yellow background. This is the 1888 London National Gallery version (NG3863), one of Van Gogh’s series of sunflower still lifes.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_127.jpg",
+      "originalImage": "./assets/museum/paintings/sunflowers--vincent-van-gogh.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 1623,
+      "height": 2048,
+      "credit": "National Gallery ( NG3863 ), London"
+    },
+    {
+      "entityId": "exhibit-04-luncheon-of-the-boating-party--pierre-auguste-renoir",
+      "artworkId": "luncheon-of-the-boating-party--pierre-auguste-renoir",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "east",
+      "offset": 3.4,
+      "displaySize": [
+        2.45,
+        1.81477
+      ],
+      "title": "Luncheon of the Boating Party",
+      "artist": "Pierre-Auguste Renoir",
+      "date": "1880–1881",
+      "description": "Friends gather around a table on a sunny terrace in an intimate study of social life and color.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+      "gallery": "Impressionism & Post-Impressionism",
+      "width": 2048,
+      "height": 1517,
+      "credit": "Google Arts & Culture — mgHsTKDNJVzPAg"
+    },
+    {
+      "entityId": "exhibit-05-nighthawks--edward-hopper",
+      "artworkId": "nighthawks--edward-hopper",
+      "category": "05-modern-surrealism",
+      "room": "05-modern-surrealism",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.33745
+      ],
+      "title": "Nighthawks",
+      "artist": "Edward Hopper",
+      "date": "1942",
+      "description": "Late-night customers occupy a brightly lit diner surrounded by an empty urban street.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Nighthawks_by_Edward_Hopper_1942.jpg",
+      "originalImage": "./assets/museum/paintings/nighthawks--edward-hopper.webp",
+      "gallery": "Modern Art & Surrealism",
+      "width": 2048,
+      "height": 1118,
+      "credit": "http://www.artic.edu/aic/collections/artwork/111628"
+    },
+    {
+      "entityId": "exhibit-05-american-gothic--grant-wood",
+      "artworkId": "american-gothic--grant-wood",
+      "category": "05-modern-surrealism",
+      "room": "05-modern-surrealism",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.53022,
+        1.85
+      ],
+      "title": "American Gothic",
+      "artist": "Grant Wood",
+      "date": "1930",
+      "description": "A stern pair stands before a Gothic-windowed house in an iconic image of rural American identity.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg",
+      "originalImage": "./assets/museum/paintings/american-gothic--grant-wood.webp",
+      "gallery": "Modern Art & Surrealism",
+      "width": 1694,
+      "height": 2048,
+      "credit": "Art Institute of Chicago : online database: entry 6565"
+    },
+    {
+      "entityId": "exhibit-05-black-square--kazimir-malevich",
+      "artworkId": "black-square--kazimir-malevich",
+      "category": "05-modern-surrealism",
+      "room": "05-modern-surrealism",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        1.85,
+        1.85
+      ],
+      "title": "Black Square",
+      "artist": "Kazimir Malevich",
+      "date": "1915",
+      "description": "A black square on a pale ground radically reduces painting to a nonrepresentational statement.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Kazimir_Malevich,_1915,_Black_Suprematic_Square,_oil_on_linen_canvas,_79.5_x_79.5_cm,_Tretyakov_Gallery,_Moscow.jpg",
+      "originalImage": "./assets/museum/paintings/black-square--kazimir-malevich.webp",
+      "gallery": "Modern Art & Surrealism",
+      "width": 1718,
+      "height": 1718,
+      "credit": "Tretyakov Gallery, Moscow , My Tretyakov"
+    },
+    {
+      "entityId": "exhibit-06-the-great-wave-off-kanagawa--katsushika-hokusai",
+      "artworkId": "the-great-wave-off-kanagawa--katsushika-hokusai",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "north",
+      "offset": -3.4,
+      "displaySize": [
+        2.45,
+        1.64729
+      ],
+      "title": "The Great Wave off Kanagawa",
+      "artist": "Katsushika Hokusai",
+      "date": "c. 1831",
+      "description": "An enormous wave towers over boats and distant Mount Fuji in a celebrated Japanese woodblock print.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg",
+      "originalImage": "./assets/museum/paintings/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+      "gallery": "World Art",
+      "width": 2048,
+      "height": 1377,
+      "credit": "Metropolitan Museum of Art : entry 45434"
+    },
+    {
+      "entityId": "exhibit-06-red-fuji--katsushika-hokusai",
+      "artworkId": "red-fuji--katsushika-hokusai",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.68916
+      ],
+      "title": "Red Fuji",
+      "artist": "Katsushika Hokusai",
+      "date": "c. 1830–1832",
+      "description": "Mount Fuji glows red beneath a patterned sky in one of Hokusai's celebrated woodblock views.",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E5%AF%8C%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E5%87%B1%E9%A2%A8%E5%BF%AB%E6%99%B4%E3%80%8D-South_Wind,_Clear_Sky_(Gaif%C5%AB_kaisei),_also_known_as_Red_Fuji,_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141062.jpg",
+      "originalImage": "./assets/museum/paintings/red-fuji--katsushika-hokusai.webp",
+      "gallery": "World Art",
+      "width": 2048,
+      "height": 1412,
+      "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy"
+    },
+    {
+      "entityId": "exhibit-06-the-tortoise-trainer--osman-hamdi-bey",
+      "artworkId": "the-tortoise-trainer--osman-hamdi-bey",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "north",
+      "offset": 3.4,
+      "displaySize": [
+        0.98914,
+        1.85
+      ],
+      "title": "The Tortoise Trainer",
+      "artist": "Osman Hamdi Bey",
+      "date": "1906",
+      "description": "A figure attends to tortoises in a tiled interior, a scene often interpreted in relation to reform and patience.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Osman_Hamdi_Bey_-_The_Tortoise_Trainer_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/the-tortoise-trainer--osman-hamdi-bey.webp",
+      "gallery": "World Art",
+      "width": 1095,
+      "height": 2048,
+      "credit": "Google Arts & Culture — 3AFvsWCD87FIWg"
+    },
+    {
+      "entityId": "exhibit-06-along-the-river-during-the-qingming-festival--zhang-zeduan",
+      "artworkId": "along-the-river-during-the-qingming-festival--zhang-zeduan",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.75496
+      ],
+      "title": "Along the River During the Qingming Festival (city gate detail)",
+      "artist": "Zhang Zeduan",
+      "date": "12th century",
+      "description": "This excerpt from Zhang Zeduan’s Song-dynasty handscroll shows a city gate and the activity surrounding it. The complete scroll traces daily life across rural and urban settings; only one section is reproduced here.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Bianjing_city_gate.JPG",
+      "originalImage": "./assets/museum/paintings/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+      "gallery": "World Art",
+      "width": 2048,
+      "height": 1467,
+      "credit": "Image:Alongtheriver QingMing.jpg"
+    },
+    {
+      "entityId": "exhibit-06-red-and-white-plum-blossoms--ogata-korin",
+      "artworkId": "red-and-white-plum-blossoms--ogata-korin",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        2.45,
+        1.07546
+      ],
+      "title": "Red and White Plum Blossoms",
+      "artist": "Ogata Kōrin",
+      "date": "c. 1710s",
+      "description": "Flowering trees flank a stylized stream across a pair of richly decorative Japanese screens.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Ogata_Korin_-_RED_AND_WHITE_PLUM_BLOSSOMS_(National_Treasure)_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/red-and-white-plum-blossoms--ogata-korin.webp",
+      "gallery": "World Art",
+      "width": 2048,
+      "height": 899,
+      "credit": "1QHaWaqlJnZ_Kg at Google Cultural Institute , zoom level maximum"
+    },
+    {
+      "entityId": "exhibit-06-a-thousand-li-of-rivers-and-mountains--wang-ximeng",
+      "artworkId": "a-thousand-li-of-rivers-and-mountains--wang-ximeng",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "east",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.71145
+      ],
+      "title": "A Thousand Li of Rivers and Mountains (detail)",
+      "artist": "Wang Ximeng",
+      "date": "1113",
+      "description": "A section of Wang Ximeng’s blue-green landscape handscroll, featuring layered mountain forms, water and inscriptions. The original is a long panoramic composition; this image is an excerpt.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Thousand_Li_of_Rivers_and_Mountains_part.jpg",
+      "originalImage": "./assets/museum/paintings/a-thousand-li-of-rivers-and-mountains--wang-ximeng.webp",
+      "gallery": "World Art",
+      "width": 690,
+      "height": 482,
+      "credit": "https://wx2.sinaimg.cn/mw690/a7295e45ly1g99ifv4o13j21e90z3b2b.jpg"
+    },
+    {
+      "entityId": "exhibit-06-shakuntala--raja-ravi-varma",
+      "artworkId": "shakuntala--raja-ravi-varma",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "east",
+      "offset": 1.7,
+      "displaySize": [
+        1.12915,
+        1.85
+      ],
+      "title": "Shakuntala",
+      "artist": "Raja Ravi Varma",
+      "date": "Late 19th century (exact date unverified)",
+      "description": "Shakuntala, a heroine of Sanskrit literature, turns back as her companions stand nearby in a wooded setting. The painting evokes the story of her love for King Dushyanta.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg",
+      "originalImage": "./assets/museum/paintings/shakuntala--raja-ravi-varma.webp",
+      "gallery": "World Art",
+      "width": 1250,
+      "height": 2048,
+      "credit": "https://artsandculture.google.com/asset/shakuntala-removing-a-thorn-from-her-foot-raja-ravi-varma/UgFGr-9kgW8y7g"
+    },
+    {
+      "entityId": "exhibit-07-spoliarium--juan-luna",
+      "artworkId": "spoliarium--juan-luna",
+      "category": "07-philippine-art",
+      "room": "07-philippine-art",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.3207
+      ],
+      "title": "Spoliarium",
+      "artist": "Juan Luna",
+      "date": "1884",
+      "description": "Fallen gladiators are dragged into a Roman arena's service area in a monumental image of suffering and injustice.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Spoliarium.jpg",
+      "originalImage": "./assets/museum/paintings/spoliarium--juan-luna.webp",
+      "gallery": "Philippine Art",
+      "width": 2048,
+      "height": 1104,
+      "credit": "National Museum of the Philippines"
+    },
+    {
+      "entityId": "exhibit-07-the-parisian-life--juan-luna",
+      "artworkId": "the-parisian-life--juan-luna",
+      "category": "07-philippine-art",
+      "room": "07-philippine-art",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.72625
+      ],
+      "title": "The Parisian Life",
+      "artist": "Juan Luna",
+      "date": "1892",
+      "description": "A woman sits in a Parisian café near a group of men in an enigmatic scene of metropolitan life.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Parisian_Life_by_Juan_Luna.jpg",
+      "originalImage": "./assets/museum/paintings/the-parisian-life--juan-luna.webp",
+      "gallery": "Philippine Art",
+      "width": 1002,
+      "height": 706,
+      "credit": "Reproduction from art book"
+    },
+    {
+      "entityId": "exhibit-07-las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo",
+      "artworkId": "las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo",
+      "category": "07-philippine-art",
+      "room": "07-philippine-art",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.8375
+      ],
+      "title": "Las Virgenes Cristianas Expuestas al Populacho",
+      "artist": "Félix Resurrección Hidalgo",
+      "date": "1884",
+      "description": "Christian women face public humiliation in an academic historical painting of persecution.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Las_Virgenes_Cristianas_Expuestas_Al_Populacho_(The_Christian_Virgins_Being_Exposed_to_the_Populace)_by_Felix_Ressureccion_Hidalgo_1884.jpg",
+      "originalImage": "./assets/museum/paintings/las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo.webp",
+      "gallery": "Philippine Art",
+      "width": 1024,
+      "height": 768,
+      "credit": "Reproduction from art book http://foto.nizm.us/photos/4125285151 http://www.flickr.com/photos/eazy360/4125285151/"
+    },
+    {
+      "entityId": "exhibit-08-a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+      "artworkId": "a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.71907
+      ],
+      "title": "A Philosopher Lecturing on the Orrery",
+      "artist": "Joseph Wright of Derby",
+      "date": "1766",
+      "description": "A group watches a model of the solar system illuminated by an artificial sun, dramatizing Enlightenment curiosity.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Wright_of_Derby,_The_Orrery.jpg",
+      "originalImage": "./assets/museum/paintings/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+      "gallery": "Science & Discovery",
+      "width": 2048,
+      "height": 1437,
+      "credit": "europeana.eu"
+    },
+    {
+      "entityId": "exhibit-08-the-astronomer--johannes-vermeer",
+      "artworkId": "the-astronomer--johannes-vermeer",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        1.62869,
+        1.85
+      ],
+      "title": "The Astronomer",
+      "artist": "Johannes Vermeer",
+      "date": "1668",
+      "description": "A scholar examines a celestial globe in a quiet interior devoted to astronomical study.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+      "originalImage": "./assets/museum/paintings/the-astronomer--johannes-vermeer.webp",
+      "gallery": "Science & Discovery",
+      "width": 1803,
+      "height": 2048,
+      "credit": "https://artsandculture.google.com/asset/wd/bQELiVC_QJaAlQ"
+    },
+    {
+      "entityId": "exhibit-08-the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+      "artworkId": "the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        1.42634,
+        1.85
+      ],
+      "title": "The Alchemist Discovering Phosphorus",
+      "artist": "Joseph Wright of Derby",
+      "date": "1771",
+      "description": "An alchemist encounters luminous phosphorus, making a historical discovery the focus of dramatic illumination.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_The_Alchemist.jpg",
+      "originalImage": "./assets/museum/paintings/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+      "gallery": "Science & Discovery",
+      "width": 1579,
+      "height": 2048,
+      "credit": "http://www.tms.org/pubs/journals/JOM/0706/fig3.jpg http://www.culturevoyage.co.uk/wp-content/uploads/2013/03/Alchymist.jpg"
+    },
+    {
+      "entityId": "exhibit-08-the-geographer--johannes-vermeer",
+      "artworkId": "the-geographer--johannes-vermeer",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.65037,
+        1.85
+      ],
+      "title": "The Geographer",
+      "artist": "Johannes Vermeer",
+      "date": "1669",
+      "description": "A scholar pauses over maps and instruments in a study of observation and geographical knowledge.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/the-geographer--johannes-vermeer.webp",
+      "gallery": "Science & Discovery",
+      "width": 1827,
+      "height": 2048,
+      "credit": "Google Arts & Culture — xQFs38J6ShT4nA"
+    },
+    {
+      "entityId": "exhibit-08-an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+      "artworkId": "an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "east",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.8363
+      ],
+      "title": "An Experiment on a Bird in the Air Pump",
+      "artist": "Joseph Wright of Derby",
+      "date": "1768",
+      "description": "Observers respond to an air-pump demonstration, raising questions about experimentation and scientific ethics.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg",
+      "originalImage": "./assets/museum/paintings/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+      "gallery": "Science & Discovery",
+      "width": 2048,
+      "height": 1535,
+      "credit": "National Gallery, London"
+    },
+    {
+      "entityId": "exhibit-08-portrait-of-the-lavoisiers--jacques-louis-david",
+      "artworkId": "portrait-of-the-lavoisiers--jacques-louis-david",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "east",
+      "offset": 1.7,
+      "displaySize": [
+        1.3875,
+        1.85
+      ],
+      "title": "Portrait of the Lavoisiers",
+      "artist": "Jacques-Louis David",
+      "date": "1788",
+      "description": "The chemist Antoine Lavoisier and Marie-Anne Paulze Lavoisier appear with laboratory instruments, emphasizing scientific partnership.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg",
+      "originalImage": "./assets/museum/paintings/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+      "gallery": "Science & Discovery",
+      "width": 1536,
+      "height": 2048,
+      "credit": "Metropolitan Museum of Art : entry 436106 (accession number: 1977.10)"
+    },
+    {
+      "entityId": "exhibit-09-the-school-of-athens--raphael",
+      "artworkId": "the-school-of-athens--raphael",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.38439,
+        1.85
+      ],
+      "title": "The School of Athens",
+      "artist": "Raphael",
+      "date": "1509–1511",
+      "description": "Ancient philosophers gather in an idealized architectural space celebrating reason, mathematics and inquiry.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+      "originalImage": "./assets/museum/paintings/the-school-of-athens--raphael.webp",
+      "gallery": "Philosophy & Reason",
+      "width": 2048,
+      "height": 1589,
+      "credit": "Stitched together from vatican.va"
+    },
+    {
+      "entityId": "exhibit-09-philosopher-in-meditation--rembrandt",
+      "artworkId": "philosopher-in-meditation--rembrandt",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        2.22836,
+        1.85
+      ],
+      "title": "Philosopher in Meditation",
+      "artist": "Rembrandt",
+      "date": "1632",
+      "description": "A quiet interior with a spiral staircase and a seated figure evokes contemplation; the traditional philosopher title is interpretive.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Philosopher_in_Meditation.jpg",
+      "originalImage": "./assets/museum/paintings/philosopher-in-meditation--rembrandt.webp",
+      "gallery": "Philosophy & Reason",
+      "width": 1013,
+      "height": 841,
+      "credit": "internet"
+    },
+    {
+      "entityId": "exhibit-09-the-death-of-socrates--jacques-louis-david",
+      "artworkId": "the-death-of-socrates--jacques-louis-david",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.60901
+      ],
+      "title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "date": "1787",
+      "description": "Socrates faces death while continuing to teach, embodying philosophical conviction and intellectual courage.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:David_-_The_Death_of_Socrates.jpg",
+      "originalImage": "./assets/museum/paintings/the-death-of-socrates--jacques-louis-david.webp",
+      "gallery": "Philosophy & Reason",
+      "width": 2048,
+      "height": 1345,
+      "credit": "https://www.metmuseum.org/collection/the-collection-online/search/436105"
+    },
+    {
+      "entityId": "exhibit-09-vitruvian-man--leonardo-da-vinci",
+      "artworkId": "vitruvian-man--leonardo-da-vinci",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.3604,
+        1.85
+      ],
+      "title": "Vitruvian Man",
+      "artist": "Leonardo da Vinci",
+      "date": "c. 1490",
+      "description": "Leonardo's pen-and-ink study places the human body inside a circle and square, connecting anatomy and geometry.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
+      "originalImage": "./assets/museum/paintings/vitruvian-man--leonardo-da-vinci.webp",
+      "gallery": "Philosophy & Reason",
+      "width": 1506,
+      "height": 2048,
+      "credit": "Leonardo Da Vinci - Photo from www.lucnix.be . 2007-09-08 (photograph). Photograpy: This image is the work of Luc Viatour Please credit it with: Luc Viatour / https://Lucnix.be in the immediate vicinity of the image. A link to my website https://lucnix.be is much appreciated but not mandatory. An email to Viatour Luc would be appreciated too. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me Viatour Luc to negotiate terms. More free pictures in my personal gallery [Note: this is in the public domain, despite the photographer's contradictory claim. Any use is permissible, and no credit to the photographer is necessary.] Nikon case D80 optical Sigma 17-70mm F2,8/4,5 Macro"
+    },
+    {
+      "entityId": "exhibit-09-newton--william-blake",
+      "artworkId": "newton--william-blake",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        2.40559,
+        1.85
+      ],
+      "title": "Newton",
+      "artist": "William Blake",
+      "date": "1795–c. 1805",
+      "description": "Newton bends over a geometric diagram with a compass, absorbed in measurement. Blake’s image can be read as a critique of a worldview restricted to rational calculation. It is a color print finished by hand, not a conventional oil portrait.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake.jpg",
+      "originalImage": "./assets/museum/paintings/newton--william-blake.webp",
+      "gallery": "Philosophy & Reason",
+      "width": 2048,
+      "height": 1575,
+      "credit": "The William Blake Archive"
+    },
+    {
+      "entityId": "exhibit-10-wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "category": "10-cosmos-reality",
+      "room": "10-cosmos-reality",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        1.4426,
+        1.85
+      ],
+      "title": "Wanderer Above the Sea of Fog",
+      "artist": "Caspar David Friedrich",
+      "date": "c. 1818",
+      "description": "A solitary figure surveys a sea of fog, embodying the Romantic sublime and the unknowable scale of nature.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+      "originalImage": "./assets/museum/paintings/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+      "gallery": "Cosmos & Reality",
+      "width": 1597,
+      "height": 2048,
+      "credit": "https://www.tiqets.com/ja/hamburg-attractions-c64886/tickets-for-hamburger-kunsthalle-skip-the-line-p976728/"
+    },
+    {
+      "entityId": "exhibit-11-the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "category": "11-mathematics-engineering-medicine",
+      "room": "11-mathematics-engineering-medicine",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.84587
+      ],
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist": "Rembrandt",
+      "date": "1632",
+      "description": "Surgeons gather around a dissected arm, demonstrating anatomical observation and professional learning.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+      "originalImage": "./assets/museum/paintings/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+      "gallery": "Mathematics, Engineering & Medicine",
+      "width": 2048,
+      "height": 1543,
+      "credit": "Mauritshuis online catalogue ."
+    },
+    {
+      "entityId": "exhibit-11-the-gross-clinic--thomas-eakins",
+      "artworkId": "the-gross-clinic--thomas-eakins",
+      "category": "11-mathematics-engineering-medicine",
+      "room": "11-mathematics-engineering-medicine",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.49138,
+        1.85
+      ],
+      "title": "The Gross Clinic",
+      "artist": "Thomas Eakins",
+      "date": "1875",
+      "description": "A surgeon leads an operation before students in a striking representation of medical teaching.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Eakins,_American_-_Portrait_of_Dr._Samuel_D._Gross_(The_Gross_Clinic)_-_Google_Art_Project.jpg",
+      "originalImage": "./assets/museum/paintings/the-gross-clinic--thomas-eakins.webp",
+      "gallery": "Mathematics, Engineering & Medicine",
+      "width": 1651,
+      "height": 2048,
+      "credit": "tQFcdDEg20osqg at Google Cultural Institute maximum zoom level"
+    },
+    {
+      "entityId": "exhibit-12-portrait-of-albert-einstein-1917--erich-buttner",
+      "artworkId": "portrait-of-albert-einstein-1917--erich-buttner",
+      "category": "12-einstein",
+      "room": "12-einstein",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        1.554,
+        1.85
+      ],
+      "title": "Portrait of Albert Einstein (1917)",
+      "artist": "Erich Büttner",
+      "date": "1917",
+      "description": "A historical portrait of Albert Einstein from the years immediately following his formulation of general relativity.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Erich_B%C3%BCttner_-_Portrait_of_Albert_Einstein,_1917.jpg",
+      "originalImage": "./assets/museum/paintings/portrait-of-albert-einstein-1917--erich-buttner.webp",
+      "gallery": "Albert Einstein",
+      "width": 588,
+      "height": 700,
+      "credit": "https://www.meisterdrucke.com/kunstdrucke/Erich-B%C3%BCttner/778755/Portrait-of-Albert-Einstein-1879-1955,-1917.-.html"
+    },
+    {
+      "entityId": "exhibit-12-albert-einstein-1924--leonid-pasternak",
+      "artworkId": "albert-einstein-1924--leonid-pasternak",
+      "category": "12-einstein",
+      "room": "12-einstein",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.47105,
+        1.85
+      ],
+      "title": "Albert Einstein (1924)",
+      "artist": "Leonid Pasternak",
+      "date": "1924",
+      "description": "Leonid Pasternak's portrait offers an artistic interpretation of Einstein during his years of scientific prominence.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonid_Pasternak_-_Albert_Einstein_(1924).jpg",
+      "originalImage": "./assets/museum/paintings/albert-einstein-1924--leonid-pasternak.webp",
+      "gallery": "Albert Einstein",
+      "width": 1545,
+      "height": 1943,
+      "credit": "https://arthive.com/publications/879~Zabytyj_Pasternak_otets_Borisa_10_faktov_o_khudozhnike_kotoromu_pozirovali_Tolstoj_i_Ejnshtejn"
+    },
+    {
+      "entityId": "exhibit-13-isaac-newton--godfrey-kneller",
+      "artworkId": "isaac-newton--godfrey-kneller",
+      "category": "13-architects-of-reality",
+      "room": "13-architects-of-reality",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        1.31701,
+        1.85
+      ],
+      "title": "Isaac Newton",
+      "artist": "Godfrey Kneller",
+      "date": "1689",
+      "description": "A portrait of the mathematician and physicist whose laws of motion and gravitation shaped classical mechanics.",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg",
+      "originalImage": "./assets/museum/paintings/isaac-newton--godfrey-kneller.webp",
+      "gallery": "Architects of Reality",
+      "width": 1364,
+      "height": 1916,
+      "credit": "http://www.newton.cam.ac.uk/art/portrait.html"
+    },
+    {
+      "entityId": "exhibit-13-nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+      "artworkId": "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+      "category": "13-architects-of-reality",
+      "room": "13-architects-of-reality",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.3062,
+        1.85
+      ],
+      "title": "Nikola Tesla (Blue Portrait)",
+      "artist": "Vilma Lwoff-Parlaghy",
+      "date": "1916",
+      "description": "A portrait of the inventor known for contributions to alternating-current power and electrical engineering.",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Blue_Portrait_-_Nikola_Tesla.jpg",
+      "originalImage": "./assets/museum/paintings/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+      "gallery": "Architects of Reality",
+      "width": 1446,
+      "height": 2048,
+      "credit": "The Nikola Tesla Museum"
+    }
+  ],
+  "artists": [
+    {
+      "name": "Zhang Zeduan",
+      "dates": "Active early 12th century",
+      "timelineYear": 1100,
+      "movement": "Northern Song handscroll painting",
+      "biography": "Zhang Zeduan is associated with the celebrated Qingming handscroll. Secure biographical information is limited; the work offers a densely observed panorama of urban and river life.",
+      "context": "A handscroll unfolds in stages, allowing the viewer to explore numerous incidents rather than a single fixed scene.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "along-the-river-during-the-qingming-festival--zhang-zeduan",
+          "entityId": "exhibit-06-along-the-river-during-the-qingming-festival--zhang-zeduan",
+          "title": "Along the River During the Qingming Festival (city gate detail)",
+          "date": "12th century",
+          "galleries": [
+            "World Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wang Ximeng",
+      "dates": "Active early 12th century",
+      "timelineYear": 1113,
+      "movement": "Northern Song landscape",
+      "biography": "Wang Ximeng is known for the monumental blue-and-green landscape handscroll A Thousand Li of Rivers and Mountains, dated 1113. Little is securely known of his life beyond the court context associated with the work.",
+      "context": "Mineral colors, layered mountain forms and the unfolding handscroll format create a vast imagined landscape.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "a-thousand-li-of-rivers-and-mountains--wang-ximeng",
+          "entityId": "exhibit-06-a-thousand-li-of-rivers-and-mountains--wang-ximeng",
+          "title": "A Thousand Li of Rivers and Mountains (detail)",
+          "date": "1113",
+          "galleries": [
+            "World Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giotto",
+      "dates": "c. 1267–1337",
+      "timelineYear": 1267,
+      "movement": "Late medieval / Proto-Renaissance",
+      "biography": "Giotto helped transform Italian painting through substantial figures, spatial settings and emotionally direct storytelling. His fresco cycles became influential models for later painters.",
+      "context": "The Lamentation uses gestures and a shared direction of attention to express grief.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-lamentation--giotto",
+          "entityId": "exhibit-01-the-lamentation--giotto",
+          "title": "The Lamentation",
+          "date": "c. 1305",
+          "galleries": [
+            "Renaissance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jan van Eyck",
+      "dates": "c. 1390–1441",
+      "timelineYear": 1390,
+      "movement": "Early Netherlandish painting",
+      "biography": "Van Eyck refined the expressive possibilities of oil painting, creating richly detailed surfaces and convincing reflections. He worked at the Burgundian court.",
+      "context": "Observe the mirror, textiles and tiny details in the Arnolfini Portrait.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-arnolfini-portrait--jan-van-eyck",
+          "entityId": "exhibit-01-the-arnolfini-portrait--jan-van-eyck",
+          "title": "The Arnolfini Portrait",
+          "date": "1434",
+          "galleries": [
+            "Renaissance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fra Angelico",
+      "dates": "c. 1395–1455",
+      "timelineYear": 1395,
+      "movement": "Early Renaissance",
+      "biography": "A Dominican friar and painter, Fra Angelico combined devotional imagery with emerging Renaissance approaches to space and light. His frescoes at San Marco in Florence were made for a religious community.",
+      "context": "Notice the quiet gestures, restrained architecture and contemplative use of color.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-annunciation--fra-angelico",
+          "entityId": "exhibit-01-the-annunciation--fra-angelico",
+          "title": "The Annunciation (San Marco fresco)",
+          "date": "c. 1440s",
+          "galleries": [
+            "Renaissance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sandro Botticelli",
+      "dates": "c. 1445–1510",
+      "timelineYear": 1445,
+      "movement": "Florentine Renaissance",
+      "biography": "Botticelli painted religious and mythological subjects in Florence. His graceful contours, rhythmic figures and poetic imagery reflect the city's humanist culture.",
+      "context": "Primavera invites attention to allegory, movement and the arrangement of figures.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "primavera--sandro-botticelli",
+          "entityId": "exhibit-01-primavera--sandro-botticelli",
+          "title": "Primavera",
+          "date": "c. 1482",
+          "galleries": [
+            "Renaissance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "dates": "1452–1519",
+      "timelineYear": 1452,
+      "movement": "Italian Renaissance",
+      "biography": "Painter, engineer and investigator of nature, Leonardo treated observation and drawing as complementary tools. His studies of anatomy, optics and proportion connect painting with scientific inquiry.",
+      "context": "Look for soft transitions of light and shade (sfumato), natural gestures and carefully observed anatomy.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "mona-lisa--leonardo-da-vinci",
+          "entityId": "exhibit-01-mona-lisa--leonardo-da-vinci",
+          "title": "Mona Lisa",
+          "date": "1503–1519",
+          "galleries": [
+            "Renaissance"
+          ]
+        },
+        {
+          "artworkId": "lady-with-an-ermine--leonardo-da-vinci",
+          "entityId": "exhibit-01-lady-with-an-ermine--leonardo-da-vinci",
+          "title": "Lady with an Ermine",
+          "date": "c. 1489–1491",
+          "galleries": [
+            "Renaissance"
+          ]
+        },
+        {
+          "artworkId": "the-last-supper--leonardo-da-vinci",
+          "entityId": "exhibit-01-the-last-supper--leonardo-da-vinci",
+          "title": "The Last Supper",
+          "date": "1495–1498",
+          "galleries": [
+            "Renaissance"
+          ]
+        },
+        {
+          "artworkId": "vitruvian-man--leonardo-da-vinci",
+          "entityId": "exhibit-09-vitruvian-man--leonardo-da-vinci",
+          "title": "Vitruvian Man",
+          "date": "c. 1490",
+          "galleries": [
+            "Philosophy & Reason"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Michelangelo",
+      "dates": "1475–1564",
+      "timelineYear": 1475,
+      "movement": "High Renaissance",
+      "biography": "Michelangelo was a sculptor, painter and architect whose study of the human body shaped monumental works. His Sistine Chapel ceiling combines biblical narrative with complex figure compositions.",
+      "context": "The Creation of Adam uses the tension between two nearly touching hands as a visual focal point.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-creation-of-adam--michelangelo",
+          "entityId": "exhibit-01-the-creation-of-adam--michelangelo",
+          "title": "The Creation of Adam",
+          "date": "c. 1511",
+          "galleries": [
+            "Renaissance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raphael",
+      "dates": "1483–1520",
+      "timelineYear": 1483,
+      "movement": "High Renaissance",
+      "biography": "Raphael developed harmonious compositions combining classical architecture, idealized figures and clear spatial organization. He worked in Florence and Rome, including major Vatican fresco commissions.",
+      "context": "The School of Athens places philosophical inquiry within a balanced architectural setting.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-school-of-athens--raphael",
+          "entityId": "exhibit-01-the-school-of-athens--raphael",
+          "title": "The School of Athens",
+          "date": "1509–1511",
+          "galleries": [
+            "Renaissance",
+            "Philosophy & Reason"
+          ]
+        },
+        {
+          "artworkId": "sistine-madonna--raphael",
+          "entityId": "exhibit-01-sistine-madonna--raphael",
+          "title": "Sistine Madonna",
+          "date": "c. 1512",
+          "galleries": [
+            "Renaissance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Titian",
+      "dates": "c. 1488–1576",
+      "timelineYear": 1488,
+      "movement": "Venetian Renaissance",
+      "biography": "Titian became a leading Venetian painter, known for his portraits, mythological pictures and sophisticated color. His handling of paint grew increasingly free over his long career.",
+      "context": "Compare the warm flesh tones and fabric in Venus of Urbino with Florentine emphasis on line.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "venus-of-urbino--titian",
+          "entityId": "exhibit-01-venus-of-urbino--titian",
+          "title": "Venus of Urbino",
+          "date": "1538",
+          "galleries": [
+            "Renaissance"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caravaggio",
+      "dates": "1571–1610",
+      "timelineYear": 1571,
+      "movement": "Italian Baroque",
+      "biography": "Caravaggio brought direct naturalism and strong contrasts of light into religious and narrative painting. His work influenced painters across Europe.",
+      "context": "Notice how a dramatic shaft of light and ordinary human gestures guide the narrative.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-supper-at-emmaus--caravaggio",
+          "entityId": "exhibit-02-the-supper-at-emmaus--caravaggio",
+          "title": "The Supper at Emmaus",
+          "date": "1601",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        },
+        {
+          "artworkId": "the-calling-of-saint-matthew--caravaggio",
+          "entityId": "exhibit-02-the-calling-of-saint-matthew--caravaggio",
+          "title": "The Calling of Saint Matthew",
+          "date": "1599–1600",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peter Paul Rubens",
+      "dates": "1577–1640",
+      "timelineYear": 1577,
+      "movement": "Flemish Baroque",
+      "biography": "Rubens led a prominent Antwerp workshop and worked as a diplomat. His large altarpieces and mythological paintings are distinguished by energetic figures, color and movement.",
+      "context": "The Elevation of the Cross organizes the scene around a powerful diagonal.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-elevation-of-the-cross--peter-paul-rubens",
+          "entityId": "exhibit-02-the-elevation-of-the-cross--peter-paul-rubens",
+          "title": "The Elevation of the Cross",
+          "date": "1610–1611",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Artemisia Gentileschi",
+      "dates": "1593–c. 1654",
+      "timelineYear": 1593,
+      "movement": "Italian Baroque",
+      "biography": "Gentileschi became an accomplished painter in a profession dominated by men. Her biblical and historical scenes often feature determined women, dramatic lighting and forceful action.",
+      "context": "Consider the physical effort and directional movement in her depiction of Judith.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "judith-beheading-holofernes--artemisia-gentileschi",
+          "entityId": "exhibit-02-judith-beheading-holofernes--artemisia-gentileschi",
+          "title": "Judith Beheading Holofernes",
+          "date": "c. 1620",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diego Velázquez",
+      "dates": "1599–1660",
+      "timelineYear": 1599,
+      "movement": "Spanish Baroque",
+      "biography": "Velázquez served as a painter at the Spanish royal court. His portraits and other subjects display an economical handling of paint and keen observation of space and appearance.",
+      "context": "The Rokeby Venus explores reflection, pose and the relationship between viewer and subject.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-rokeby-venus--diego-velazquez",
+          "entityId": "exhibit-02-the-rokeby-venus--diego-velazquez",
+          "title": "The Rokeby Venus",
+          "date": "c. 1647–1651",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rembrandt",
+      "dates": "1606–1669",
+      "timelineYear": 1606,
+      "movement": "Dutch Golden Age",
+      "biography": "Rembrandt produced portraits, narrative paintings, drawings and prints. His expressive brushwork and contrast of light and shadow gave faces and scenes psychological depth.",
+      "context": "Compare the group portrait in The Night Watch with the intimate atmosphere of his other works.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-storm-on-the-sea-of-galilee--rembrandt",
+          "entityId": "exhibit-02-the-storm-on-the-sea-of-galilee--rembrandt",
+          "title": "The Storm on the Sea of Galilee",
+          "date": "1633",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        },
+        {
+          "artworkId": "the-night-watch--rembrandt",
+          "entityId": "exhibit-02-the-night-watch--rembrandt",
+          "title": "The Night Watch",
+          "date": "1642",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        },
+        {
+          "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+          "entityId": "exhibit-02-the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+          "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+          "date": "1632",
+          "galleries": [
+            "Baroque & Rococo",
+            "Mathematics, Engineering & Medicine"
+          ]
+        },
+        {
+          "artworkId": "philosopher-in-meditation--rembrandt",
+          "entityId": "exhibit-09-philosopher-in-meditation--rembrandt",
+          "title": "Philosopher in Meditation",
+          "date": "1632",
+          "galleries": [
+            "Philosophy & Reason"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Johannes Vermeer",
+      "dates": "1632–1675",
+      "timelineYear": 1632,
+      "movement": "Dutch Golden Age",
+      "biography": "Vermeer worked in Delft and is celebrated for carefully composed interiors and luminous effects. His paintings often transform everyday activities into quiet studies of light and attention.",
+      "context": "Compare window light, reflective surfaces and the geometry of his interior scenes.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "girl-with-a-pearl-earring--johannes-vermeer",
+          "entityId": "exhibit-02-girl-with-a-pearl-earring--johannes-vermeer",
+          "title": "Girl with a Pearl Earring",
+          "date": "c. 1665",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        },
+        {
+          "artworkId": "the-milkmaid--johannes-vermeer",
+          "entityId": "exhibit-02-the-milkmaid--johannes-vermeer",
+          "title": "The Milkmaid",
+          "date": "c. 1658–1659",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        },
+        {
+          "artworkId": "the-art-of-painting--johannes-vermeer",
+          "entityId": "exhibit-02-the-art-of-painting--johannes-vermeer",
+          "title": "The Art of Painting",
+          "date": "c. 1666–1668",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        },
+        {
+          "artworkId": "the-astronomer--johannes-vermeer",
+          "entityId": "exhibit-08-the-astronomer--johannes-vermeer",
+          "title": "The Astronomer",
+          "date": "1668",
+          "galleries": [
+            "Science & Discovery"
+          ]
+        },
+        {
+          "artworkId": "the-geographer--johannes-vermeer",
+          "entityId": "exhibit-08-the-geographer--johannes-vermeer",
+          "title": "The Geographer",
+          "date": "1669",
+          "galleries": [
+            "Science & Discovery"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Godfrey Kneller",
+      "dates": "1646–1723",
+      "timelineYear": 1646,
+      "movement": "Baroque portraiture",
+      "biography": "German-born Kneller became a prominent portrait painter in Britain, working for royal and aristocratic patrons as well as intellectual figures.",
+      "context": "His Newton portrait presents the scientist through the conventions of formal portraiture.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "isaac-newton--godfrey-kneller",
+          "entityId": "exhibit-13-isaac-newton--godfrey-kneller",
+          "title": "Isaac Newton",
+          "date": "1689",
+          "galleries": [
+            "Architects of Reality"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ogata Kōrin",
+      "dates": "1658–1716",
+      "timelineYear": 1658,
+      "movement": "Rinpa school",
+      "biography": "Kōrin developed a highly decorative Japanese painting style using stylized natural motifs, bold design and lavish surfaces. His work is central to the tradition later called Rinpa.",
+      "context": "The plum blossom screens transform trees and water into rhythmic patterns.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "red-and-white-plum-blossoms--ogata-korin",
+          "entityId": "exhibit-06-red-and-white-plum-blossoms--ogata-korin",
+          "title": "Red and White Plum Blossoms",
+          "date": "c. 1710s",
+          "galleries": [
+            "World Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jean-Honoré Fragonard",
+      "dates": "1732–1806",
+      "timelineYear": 1732,
+      "movement": "Rococo",
+      "biography": "Fragonard painted playful, intimate and decorative scenes using energetic brushwork. His art belongs to the culture of eighteenth-century French Rococo.",
+      "context": "The Swing uses lush foliage, movement and a theatrical arrangement of figures.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-swing--jean-honore-fragonard",
+          "entityId": "exhibit-02-the-swing--jean-honore-fragonard",
+          "title": "The Swing",
+          "date": "1767",
+          "galleries": [
+            "Baroque & Rococo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Joseph Wright of Derby",
+      "dates": "1734–1797",
+      "timelineYear": 1734,
+      "movement": "Enlightenment painting",
+      "biography": "Wright made scientific demonstrations, industrial subjects and candlelit scenes central to his art. His paintings reflect eighteenth-century interest in experiment, observation and discovery.",
+      "context": "Compare the spectators and carefully staged light in his three scientific scenes.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+          "entityId": "exhibit-08-a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+          "title": "A Philosopher Lecturing on the Orrery",
+          "date": "1766",
+          "galleries": [
+            "Science & Discovery"
+          ]
+        },
+        {
+          "artworkId": "the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+          "entityId": "exhibit-08-the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+          "title": "The Alchemist Discovering Phosphorus",
+          "date": "1771",
+          "galleries": [
+            "Science & Discovery"
+          ]
+        },
+        {
+          "artworkId": "an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+          "entityId": "exhibit-08-an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+          "title": "An Experiment on a Bird in the Air Pump",
+          "date": "1768",
+          "galleries": [
+            "Science & Discovery"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Henry Fuseli",
+      "dates": "1741–1825",
+      "timelineYear": 1741,
+      "movement": "Romantic-era painting",
+      "biography": "Swiss-born Fuseli worked in Britain, painting literary, supernatural and imaginative subjects. His exaggerated figures and dramatic staging explore dreams and fear.",
+      "context": "The Nightmare combines familiar surroundings with unsettling supernatural imagery.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-nightmare--henry-fuseli",
+          "entityId": "exhibit-03-the-nightmare--henry-fuseli",
+          "title": "The Nightmare",
+          "date": "1781",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Francisco Goya",
+      "dates": "1746–1828",
+      "timelineYear": 1746,
+      "movement": "Spanish Romantic-era painting",
+      "biography": "Goya worked as a court painter while also making penetrating prints and images of violence, fear and social criticism. His late Black Paintings explore disturbing subjects.",
+      "context": "Saturn belongs to the late works made for the walls of his home, rather than a conventional public commission.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "saturn-devouring-his-son--francisco-goya",
+          "entityId": "exhibit-03-saturn-devouring-his-son--francisco-goya",
+          "title": "Saturn Devouring His Son",
+          "date": "c. 1819–1823",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jacques-Louis David",
+      "dates": "1748–1825",
+      "timelineYear": 1748,
+      "movement": "Neoclassicism",
+      "biography": "David revived the visual language of classical antiquity in paintings of moral choice, politics and public life. His career spanned the French Revolution and the Napoleonic period.",
+      "context": "Compare the clear outlines, staged gestures and carefully organized groups in his historical scenes.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-death-of-socrates--jacques-louis-david",
+          "entityId": "exhibit-03-the-death-of-socrates--jacques-louis-david",
+          "title": "The Death of Socrates",
+          "date": "1787",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism",
+            "Philosophy & Reason"
+          ]
+        },
+        {
+          "artworkId": "the-oath-of-the-horatii--jacques-louis-david",
+          "entityId": "exhibit-03-the-oath-of-the-horatii--jacques-louis-david",
+          "title": "The Oath of the Horatii",
+          "date": "1784",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        },
+        {
+          "artworkId": "the-death-of-marat--jacques-louis-david",
+          "entityId": "exhibit-03-the-death-of-marat--jacques-louis-david",
+          "title": "The Death of Marat",
+          "date": "1793",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        },
+        {
+          "artworkId": "portrait-of-the-lavoisiers--jacques-louis-david",
+          "entityId": "exhibit-08-portrait-of-the-lavoisiers--jacques-louis-david",
+          "title": "Portrait of the Lavoisiers",
+          "date": "1788",
+          "galleries": [
+            "Science & Discovery"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "William Blake",
+      "dates": "1757–1827",
+      "timelineYear": 1757,
+      "movement": "Romantic-era visionary art",
+      "biography": "Blake was a poet, printmaker and painter who developed a personal symbolic universe. He often questioned the limits of narrowly rational explanations of human experience.",
+      "context": "Newton is a symbolic representation, not a documentary portrait of the scientist.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "newton--william-blake",
+          "entityId": "exhibit-09-newton--william-blake",
+          "title": "Newton",
+          "date": "1795–c. 1805",
+          "galleries": [
+            "Philosophy & Reason"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Katsushika Hokusai",
+      "dates": "1760–1849",
+      "timelineYear": 1760,
+      "movement": "Edo-period ukiyo-e",
+      "biography": "Hokusai was a Japanese print designer and painter whose subjects ranged from landscape to everyday life. His Thirty-six Views of Mount Fuji became especially influential.",
+      "context": "Compare the dramatic cropping of The Great Wave with the simplified silhouette of Red Fuji.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-great-wave-off-kanagawa--katsushika-hokusai",
+          "entityId": "exhibit-06-the-great-wave-off-kanagawa--katsushika-hokusai",
+          "title": "The Great Wave off Kanagawa",
+          "date": "c. 1831",
+          "galleries": [
+            "World Art"
+          ]
+        },
+        {
+          "artworkId": "red-fuji--katsushika-hokusai",
+          "entityId": "exhibit-06-red-fuji--katsushika-hokusai",
+          "title": "Red Fuji",
+          "date": "c. 1830–1832",
+          "galleries": [
+            "World Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caspar David Friedrich",
+      "dates": "1774–1840",
+      "timelineYear": 1774,
+      "movement": "German Romanticism",
+      "biography": "Friedrich made landscapes that express solitude, contemplation and the encounter between humanity and nature. His figures often face away from the viewer toward expansive scenery.",
+      "context": "The wanderer becomes a stand-in for the viewer confronting the sublime landscape.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+          "entityId": "exhibit-03-wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+          "title": "Wanderer Above the Sea of Fog",
+          "date": "c. 1818",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism",
+            "Cosmos & Reality"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "J. M. W. Turner",
+      "dates": "1775–1851",
+      "timelineYear": 1775,
+      "movement": "British Romanticism",
+      "biography": "Turner explored atmospheric light, weather and the changing relationship between nature and technology. His increasingly expressive landscapes influenced later painters.",
+      "context": "The Fighting Temeraire contrasts an old sailing warship with a steam-powered tug.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-fighting-temeraire--j-m-w-turner",
+          "entityId": "exhibit-03-the-fighting-temeraire--j-m-w-turner",
+          "title": "The Fighting Temeraire",
+          "date": "1839",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "John Constable",
+      "dates": "1776–1837",
+      "timelineYear": 1776,
+      "movement": "British Romantic landscape",
+      "biography": "Constable painted the countryside of southern England with close attention to weather, clouds and familiar rural places. His outdoor studies informed ambitious finished landscapes.",
+      "context": "The Hay Wain rewards close attention to changing light and the relationship of water, sky and land.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-hay-wain--john-constable",
+          "entityId": "exhibit-03-the-hay-wain--john-constable",
+          "title": "The Hay Wain",
+          "date": "1821",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Théodore Géricault",
+      "dates": "1791–1824",
+      "timelineYear": 1791,
+      "movement": "French Romanticism",
+      "biography": "Géricault pursued intense, contemporary subjects and studied anatomy and movement. His large paintings challenged conventional heroic history painting.",
+      "context": "The Raft of the Medusa turns a recent maritime disaster into a dramatic composition of desperation and hope.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-raft-of-the-medusa--theodore-gericault",
+          "entityId": "exhibit-03-the-raft-of-the-medusa--theodore-gericault",
+          "title": "The Raft of the Medusa",
+          "date": "1818–1819",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eugène Delacroix",
+      "dates": "1798–1863",
+      "timelineYear": 1798,
+      "movement": "French Romanticism",
+      "biography": "Delacroix used expressive color and dynamic compositions in historical, literary and political subjects. His approach became influential for later explorations of color.",
+      "context": "Liberty Leading the People uses an allegorical figure amid the upheaval of the July Revolution of 1830.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "liberty-leading-the-people--eugene-delacroix",
+          "entityId": "exhibit-03-liberty-leading-the-people--eugene-delacroix",
+          "title": "Liberty Leading the People",
+          "date": "1830",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jean-François Millet",
+      "dates": "1814–1875",
+      "timelineYear": 1814,
+      "movement": "Realism / Barbizon School",
+      "biography": "Millet made rural labor central to his art, lending dignity and monumentality to agricultural workers. He worked in Barbizon, near the forest of Fontainebleau.",
+      "context": "The Gleaners emphasizes repetitive labor through the bent figures and expansive harvest landscape.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-gleaners--jean-francois-millet",
+          "entityId": "exhibit-03-the-gleaners--jean-francois-millet",
+          "title": "The Gleaners",
+          "date": "1857",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ivan Aivazovsky",
+      "dates": "1817–1900",
+      "timelineYear": 1817,
+      "movement": "Romantic marine painting",
+      "biography": "Aivazovsky, an Armenian painter born in the Russian Empire, became renowned for seascapes and the expressive depiction of waves and light.",
+      "context": "The Ninth Wave contrasts the danger of the sea with luminous atmospheric effects.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-ninth-wave--ivan-aivazovsky",
+          "entityId": "exhibit-03-the-ninth-wave--ivan-aivazovsky",
+          "title": "The Ninth Wave",
+          "date": "1850",
+          "galleries": [
+            "Romanticism, Neoclassicism & Realism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paul Cézanne",
+      "dates": "1839–1906",
+      "timelineYear": 1839,
+      "movement": "Post-Impressionism",
+      "biography": "Cézanne investigated how color and simplified forms can construct pictorial space. His landscapes, still lifes and figure paintings influenced twentieth-century modernism.",
+      "context": "The Card Players reduces a familiar activity to a concentrated arrangement of shapes and tones.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-card-players--paul-cezanne",
+          "entityId": "exhibit-04-the-card-players--paul-cezanne",
+          "title": "The Card Players (Musée d’Orsay version)",
+          "date": "1890s",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claude Monet",
+      "dates": "1840–1926",
+      "timelineYear": 1840,
+      "movement": "Impressionism",
+      "biography": "Monet explored changing light and atmosphere through repeated observations of landscapes and everyday settings. He was a central figure in the Impressionist exhibitions.",
+      "context": "Impression, Sunrise emphasizes the fleeting effect of light over sharply defined detail.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "impression-sunrise--claude-monet",
+          "entityId": "exhibit-04-impression-sunrise--claude-monet",
+          "title": "Impression, Sunrise",
+          "date": "1872",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pierre-Auguste Renoir",
+      "dates": "1841–1919",
+      "timelineYear": 1841,
+      "movement": "Impressionism",
+      "biography": "Renoir painted figures, portraits and scenes of social life with luminous color and a lively handling of paint. His later work increasingly emphasized solid figure forms.",
+      "context": "Luncheon of the Boating Party brings together varied gestures and interactions in a sunlit setting.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "luncheon-of-the-boating-party--pierre-auguste-renoir",
+          "entityId": "exhibit-04-luncheon-of-the-boating-party--pierre-auguste-renoir",
+          "title": "Luncheon of the Boating Party",
+          "date": "1880–1881",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Osman Hamdi Bey",
+      "dates": "1842–1910",
+      "timelineYear": 1842,
+      "movement": "Late Ottoman painting",
+      "biography": "An Ottoman painter, archaeologist and museum administrator, Osman Hamdi Bey helped establish institutions for art education and the preservation of antiquities. His paintings engage with historical architecture and cultural identity.",
+      "context": "The Tortoise Trainer sets a solitary figure within an intricately ornamented architectural space.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://www.peramuseum.org/Publications/Detail/osman-hamdi-bey-/235"
+        }
+      ],
+      "works": [
+        {
+          "artworkId": "the-tortoise-trainer--osman-hamdi-bey",
+          "entityId": "exhibit-06-the-tortoise-trainer--osman-hamdi-bey",
+          "title": "The Tortoise Trainer",
+          "date": "1906",
+          "galleries": [
+            "World Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thomas Eakins",
+      "dates": "1844–1916",
+      "timelineYear": 1844,
+      "movement": "American Realism",
+      "biography": "Eakins pursued precise observation of the human body through painting, drawing and photography. His portraits and scenes of medical and sporting activity reflect this interest.",
+      "context": "The Gross Clinic portrays surgery as an arena of professional skill and observation.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-gross-clinic--thomas-eakins",
+          "entityId": "exhibit-11-the-gross-clinic--thomas-eakins",
+          "title": "The Gross Clinic",
+          "date": "1875",
+          "galleries": [
+            "Mathematics, Engineering & Medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raja Ravi Varma",
+      "dates": "1848–1906",
+      "timelineYear": 1848,
+      "movement": "Indian academic painting",
+      "biography": "Ravi Varma combined European academic oil-painting techniques with subjects drawn from Indian literature, mythology and society. Reproductions of his work helped circulate these images widely.",
+      "context": "Shakuntala brings a literary narrative into a closely observed figurative scene.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "shakuntala--raja-ravi-varma",
+          "entityId": "exhibit-06-shakuntala--raja-ravi-varma",
+          "title": "Shakuntala",
+          "date": "Late 19th century (exact date unverified)",
+          "galleries": [
+            "World Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vincent van Gogh",
+      "dates": "1853–1890",
+      "timelineYear": 1853,
+      "movement": "Post-Impressionism",
+      "biography": "Van Gogh developed a distinctive language of intense color, directional brushwork and expressive observation. His landscapes, interiors and still lifes record the places and objects around him.",
+      "context": "Compare the emotional effects of color and brushwork in his night scenes and still lifes.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "cafe-terrace-at-night--vincent-van-gogh",
+          "entityId": "exhibit-04-cafe-terrace-at-night--vincent-van-gogh",
+          "title": "Café Terrace at Night",
+          "date": "1888",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        },
+        {
+          "artworkId": "the-night-cafe--vincent-van-gogh",
+          "entityId": "exhibit-04-the-night-cafe--vincent-van-gogh",
+          "title": "The Night Café",
+          "date": "1888",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        },
+        {
+          "artworkId": "starry-night-over-the-rhone--vincent-van-gogh",
+          "entityId": "exhibit-04-starry-night-over-the-rhone--vincent-van-gogh",
+          "title": "Starry Night Over the Rhône",
+          "date": "1888",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        },
+        {
+          "artworkId": "wheatfield-with-crows--vincent-van-gogh",
+          "entityId": "exhibit-04-wheatfield-with-crows--vincent-van-gogh",
+          "title": "Wheatfield with Crows",
+          "date": "1890",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        },
+        {
+          "artworkId": "sunflowers--vincent-van-gogh",
+          "entityId": "exhibit-04-sunflowers--vincent-van-gogh",
+          "title": "Sunflowers (National Gallery version)",
+          "date": "1888",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Félix Resurrección Hidalgo",
+      "dates": "1855–1913",
+      "timelineYear": 1855,
+      "movement": "Philippine academic painting",
+      "biography": "Hidalgo was a Filipino painter and contemporary of Juan Luna. His paintings include historical, literary and landscape subjects, and his work received recognition in European exhibitions.",
+      "context": "Observe how the arrangement of vulnerable figures communicates the violence of the scene.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://rizal.nationalmuseum.gov.ph/scholar/felix-resurreccion-hidalgo/"
+        }
+      ],
+      "works": [
+        {
+          "artworkId": "las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo",
+          "entityId": "exhibit-07-las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo",
+          "title": "Las Virgenes Cristianas Expuestas al Populacho",
+          "date": "1884",
+          "galleries": [
+            "Philippine Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Juan Luna",
+      "dates": "1857–1899",
+      "timelineYear": 1857,
+      "movement": "Philippine academic painting",
+      "biography": "Luna trained and worked in Europe and became internationally recognized for ambitious historical paintings. His career is central to the history of nineteenth-century Philippine art.",
+      "context": "Compare the monumental Spoliarium with the more intimate Parisian Life.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://rizal.nationalmuseum.gov.ph/scholar/juan-luna/"
+        }
+      ],
+      "works": [
+        {
+          "artworkId": "spoliarium--juan-luna",
+          "entityId": "exhibit-07-spoliarium--juan-luna",
+          "title": "Spoliarium",
+          "date": "1884",
+          "galleries": [
+            "Philippine Art"
+          ]
+        },
+        {
+          "artworkId": "the-parisian-life--juan-luna",
+          "entityId": "exhibit-07-the-parisian-life--juan-luna",
+          "title": "The Parisian Life",
+          "date": "1892",
+          "galleries": [
+            "Philippine Art"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gustav Klimt",
+      "dates": "1862–1918",
+      "timelineYear": 1862,
+      "movement": "Vienna Secession / Symbolism",
+      "biography": "Klimt helped found the Vienna Secession and developed a decorative visual language combining figures, pattern and symbolism. His golden-period paintings often blur the boundary between ornament and image.",
+      "context": "The Kiss contrasts geometric patterns and flowing decorative forms with intimate human figures.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-kiss--gustav-klimt",
+          "entityId": "exhibit-04-the-kiss--gustav-klimt",
+          "title": "The Kiss",
+          "date": "1907–1908",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leonid Pasternak",
+      "dates": "1862–1945",
+      "timelineYear": 1862,
+      "movement": "Russian painting / portraiture",
+      "biography": "Pasternak was a painter and illustrator known for portraits and scenes of intellectual and cultural life. His works include images of prominent writers and thinkers.",
+      "context": "The Einstein portrait belongs to the museum's group of artistic interpretations of the physicist.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "albert-einstein-1924--leonid-pasternak",
+          "entityId": "exhibit-12-albert-einstein-1924--leonid-pasternak",
+          "title": "Albert Einstein (1924)",
+          "date": "1924",
+          "galleries": [
+            "Albert Einstein"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edvard Munch",
+      "dates": "1863–1944",
+      "timelineYear": 1863,
+      "movement": "Symbolism / Expressionism",
+      "biography": "Munch explored anxiety, love, illness and mortality through painting and printmaking. His expressive color and simplified forms helped shape modern art.",
+      "context": "The Scream turns psychological tension into a rhythmic landscape and figure.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "the-scream--edvard-munch",
+          "entityId": "exhibit-04-the-scream--edvard-munch",
+          "title": "The Scream",
+          "date": "1893",
+          "galleries": [
+            "Impressionism & Post-Impressionism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vilma Lwoff-Parlaghy",
+      "dates": "1863–1923",
+      "timelineYear": 1863,
+      "movement": "Academic portraiture",
+      "biography": "Hungarian-born Lwoff-Parlaghy specialized in portraits of notable sitters. Her Blue Portrait of Nikola Tesla was shown in 1916 under specially arranged lighting.",
+      "context": "The distinctive blue cast connects portraiture with Tesla's interest in artificial illumination.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://tesla-museum.org/en/qr-en/exhibit-059/"
+        }
+      ],
+      "works": [
+        {
+          "artworkId": "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+          "entityId": "exhibit-13-nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+          "title": "Nikola Tesla (Blue Portrait)",
+          "date": "1916",
+          "galleries": [
+            "Architects of Reality"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kazimir Malevich",
+      "dates": "1879–1935",
+      "timelineYear": 1879,
+      "movement": "Suprematism",
+      "biography": "Malevich developed Suprematism, an approach to non-objective art based on elementary forms and color. He sought to move painting beyond representation.",
+      "context": "Black Square makes the painted geometric form itself the subject of attention.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "black-square--kazimir-malevich",
+          "entityId": "exhibit-05-black-square--kazimir-malevich",
+          "title": "Black Square",
+          "date": "1915",
+          "galleries": [
+            "Modern Art & Surrealism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edward Hopper",
+      "dates": "1882–1967",
+      "timelineYear": 1882,
+      "movement": "American Realism",
+      "biography": "Hopper painted urban and rural American settings, often using architecture and light to create a sense of isolation or suspended narrative.",
+      "context": "Nighthawks juxtaposes a brightly lit diner with the surrounding night streets.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "nighthawks--edward-hopper",
+          "entityId": "exhibit-05-nighthawks--edward-hopper",
+          "title": "Nighthawks",
+          "date": "1942",
+          "galleries": [
+            "Modern Art & Surrealism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Erich Büttner",
+      "dates": "1889–1936",
+      "timelineYear": 1889,
+      "movement": "Early twentieth-century German painting",
+      "biography": "Büttner was a German painter and graphic artist whose work includes portraits of prominent contemporaries. His Einstein portrait records the physicist during the early period of relativity's reception.",
+      "context": "The portrait provides a human counterpart to the abstract ideas associated with Einstein.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://search.smb.museum/object/obj-966106"
+        }
+      ],
+      "works": [
+        {
+          "artworkId": "portrait-of-albert-einstein-1917--erich-buttner",
+          "entityId": "exhibit-12-portrait-of-albert-einstein-1917--erich-buttner",
+          "title": "Portrait of Albert Einstein (1917)",
+          "date": "1917",
+          "galleries": [
+            "Albert Einstein"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grant Wood",
+      "dates": "1891–1942",
+      "timelineYear": 1891,
+      "movement": "American Regionalism",
+      "biography": "Wood depicted Midwestern American life with precise forms and carefully organized compositions. His art often combines regional identity with irony and stylization.",
+      "context": "American Gothic uses frontality, repeated verticals and a distinctive architectural backdrop.",
+      "references": [],
+      "works": [
+        {
+          "artworkId": "american-gothic--grant-wood",
+          "entityId": "exhibit-05-american-gothic--grant-wood",
+          "title": "American Gothic",
+          "date": "1930",
+          "galleries": [
+            "Modern Art & Surrealism"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorialNote": "Concise introductory curatorial summaries; approximate dates and activity periods are used where appropriate. Timeline sorting uses an approximate birth or activity year, not a definitive chronology. Selected institutional references are provided; remaining profiles are editorial summaries pending full scholarly review.",
+  "science": [
+    {
+      "name": "Antoine and Marie-Anne Lavoisier",
+      "summary": "Their collaboration helped transform chemistry into a quantitative experimental discipline. Marie-Anne translated scientific work and produced illustrations of apparatus for the 1789 chemistry textbook. David’s double portrait connects scientific instruments with the public identity of the researchers.",
+      "reference": "https://www.sciencehistory.org/stories/magazine/revolutionary-instruments-lavoisiers-tools-as-objets-dart/",
+      "works": [
+        "portrait-of-the-lavoisiers--jacques-louis-david"
+      ]
+    },
+    {
+      "name": "Isaac Newton",
+      "summary": "Newton formulated laws of motion and universal gravitation and made major contributions to optics and mathematics. The Kneller portrait presents Newton as a historical person, whereas Blake uses him as a symbolic figure to explore the limits of rational measurement.",
+      "works": [
+        "newton--william-blake",
+        "isaac-newton--godfrey-kneller"
+      ]
+    },
+    {
+      "name": "Albert Einstein",
+      "summary": "Einstein developed special and general relativity, reshaping the understanding of space, time and gravity. His work on the photoelectric effect also helped establish quantum physics and was singled out in the 1921 Nobel Prize in Physics. The two portraits document distinct artistic interpretations of the same physicist.",
+      "reference": "https://educationalgames.nobelprize.org/educational/physics/quantised_world/waves-particles-2.html",
+      "works": [
+        "portrait-of-albert-einstein-1917--erich-buttner",
+        "albert-einstein-1924--leonid-pasternak"
+      ]
+    },
+    {
+      "name": "Nikola Tesla",
+      "summary": "Tesla contributed to alternating-current power systems, including polyphase motors, and experimented with high-frequency electrical phenomena. His Blue Portrait offers an unusual point of contact between portraiture and electrically controlled illumination.",
+      "reference": "https://tesla-museum.org/en/qr-en/exhibit-059/",
+      "works": [
+        "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy"
+      ]
+    }
+  ]
+}

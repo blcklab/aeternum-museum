@@ -1,0 +1,1250 @@
+{
+  "schema": "blcklab-museum-mobile-textures@1",
+  "profiles": {
+    "mobile": {
+      "maxEdge": 1024,
+      "quality": 86,
+      "artworks": [
+        {
+          "artworkId": "mona-lisa--leonardo-da-vinci",
+          "image": "variants/mobile/mona-lisa--leonardo-da-vinci.webp",
+          "width": 687,
+          "height": 1024,
+          "imageBytes": 167812,
+          "sha256": "fc31f19e4f58ded168d120666f33c4803b7d2e0555d0e6cb93d45b16b1ae61c7",
+          "sourceSha256": "235e6be6758c8b7253844038fc9c05bd5d24ebf72e59f16a6cad6b3a916b34fb"
+        },
+        {
+          "artworkId": "the-last-supper--leonardo-da-vinci",
+          "image": "variants/mobile/the-last-supper--leonardo-da-vinci.webp",
+          "width": 1024,
+          "height": 512,
+          "imageBytes": 112100,
+          "sha256": "896dee9382a4bfa968afd0a43df089e6d35030c1d0edb82d4b8c03be7d089848",
+          "sourceSha256": "0621043870788b280c37689da53eae08f99ff71bc6ef548283c232a5365e2aae"
+        },
+        {
+          "artworkId": "the-creation-of-adam--michelangelo",
+          "image": "variants/mobile/the-creation-of-adam--michelangelo.webp",
+          "width": 1024,
+          "height": 465,
+          "imageBytes": 90720,
+          "sha256": "f779d24845b67bb3200f8dd67dc462e0d258c32c06bcb0afb5de242a42d43c15",
+          "sourceSha256": "5803a707ce96816094d93ba07083beac316be5861da2afcd3cd93ef94fa74ff7"
+        },
+        {
+          "artworkId": "the-school-of-athens--raphael",
+          "image": "variants/mobile/the-school-of-athens--raphael.webp",
+          "width": 1024,
+          "height": 795,
+          "imageBytes": 224336,
+          "sha256": "f6f9824c179102a7a0143baf9dbef008b6f481beb306159f52527bc86fef34ea",
+          "sourceSha256": "43618298c69fcc2440b2e3f185b7986e81c6a35092d7252bc111935f13e9c491"
+        },
+        {
+          "artworkId": "primavera--sandro-botticelli",
+          "image": "variants/mobile/primavera--sandro-botticelli.webp",
+          "width": 1024,
+          "height": 673,
+          "imageBytes": 233820,
+          "sha256": "a2b268f8f1c37008f5392b85725d567b275047dca35fcde39d3c6a245d94f9e2",
+          "sourceSha256": "56fa4b1c025fa6db31ef2e38d3586504075959cd19b3148354c11846ea1d3708"
+        },
+        {
+          "artworkId": "the-arnolfini-portrait--jan-van-eyck",
+          "image": "variants/mobile/the-arnolfini-portrait--jan-van-eyck.webp",
+          "width": 748,
+          "height": 1024,
+          "imageBytes": 88352,
+          "sha256": "edcd96d6f6dda2cce7eb3372ddf045a84c6100f8b6d2e58aa3dd21a8640bd921",
+          "sourceSha256": "ae29cfebce0f47918b8623694bab39280631e0e1c79647593348f2d956d09dca"
+        },
+        {
+          "artworkId": "lady-with-an-ermine--leonardo-da-vinci",
+          "image": "variants/mobile/lady-with-an-ermine--leonardo-da-vinci.webp",
+          "width": 761,
+          "height": 1024,
+          "imageBytes": 72640,
+          "sha256": "fdab880fedceb8ad153a96417667e87013f158dd05c43cf8a1131486928d7583",
+          "sourceSha256": "644ca2749b5e9ad9f0c464d1475eedec6def05b010acab73d542b18ba8d61d6e"
+        },
+        {
+          "artworkId": "sistine-madonna--raphael",
+          "image": "variants/mobile/sistine-madonna--raphael.webp",
+          "width": 747,
+          "height": 1024,
+          "imageBytes": 198340,
+          "sha256": "a82f6ae0c040aa5aaa92259344b035156f3aec1db685e33f556ef712ba611503",
+          "sourceSha256": "8b324983a0ab97fae4760b3c5b4527dd8d2bf7cf9fbaf4f5ec0fd963d42b2bbd"
+        },
+        {
+          "artworkId": "venus-of-urbino--titian",
+          "image": "variants/mobile/venus-of-urbino--titian.webp",
+          "width": 1024,
+          "height": 720,
+          "imageBytes": 139278,
+          "sha256": "f06e62471b72a2739faa53b604f09d9bda84560d2d54f14b1a6649d6184ffcc0",
+          "sourceSha256": "38a93fa45ee11d60f9e2c2d33fe9139de96a4262b32b5af2699bd156b79fe6e6"
+        },
+        {
+          "artworkId": "the-annunciation--fra-angelico",
+          "image": "variants/mobile/the-annunciation--fra-angelico.webp",
+          "width": 1024,
+          "height": 743,
+          "imageBytes": 145300,
+          "sha256": "d546864cb426e18da75be52054414bc2b08d5d0525ad9e3541a7efcb7b355026",
+          "sourceSha256": "dabd0a21d8f8863085126ceebbd60e53e86db369adf85ed738221369ee6d4ffc"
+        },
+        {
+          "artworkId": "the-lamentation--giotto",
+          "image": "variants/mobile/the-lamentation--giotto.webp",
+          "width": 1024,
+          "height": 963,
+          "imageBytes": 244028,
+          "sha256": "9c24db285b74084fbe245524120cb644b9ab751f011fc901796e76ae1b848093",
+          "sourceSha256": "a819c2a4da6cfffcbbf61a76e011b7971e604fbd3a3555f28782bf85a87077de"
+        },
+        {
+          "artworkId": "girl-with-a-pearl-earring--johannes-vermeer",
+          "image": "variants/mobile/girl-with-a-pearl-earring--johannes-vermeer.webp",
+          "width": 864,
+          "height": 1024,
+          "imageBytes": 162518,
+          "sha256": "b510296f5615f6e5565170ef71044418d81d57c6d0382624053ddae9c4f075b3",
+          "sourceSha256": "a05230e51abf5e6ea17cb62c9e5e785da717b8ca26b8f166942c20dd9b824e66"
+        },
+        {
+          "artworkId": "the-night-watch--rembrandt",
+          "image": "variants/mobile/the-night-watch--rembrandt.webp",
+          "width": 1024,
+          "height": 833,
+          "imageBytes": 117970,
+          "sha256": "a3a914fb2853aee6ad7f0b017bf9be4776bf86b82237c56edddb0741da68a9e2",
+          "sourceSha256": "b9e9c8be02e74bf8eeb3eaf2e6d7f8c820ea21e19bc09dabbe0ff5b468336873"
+        },
+        {
+          "artworkId": "the-calling-of-saint-matthew--caravaggio",
+          "image": "variants/mobile/the-calling-of-saint-matthew--caravaggio.webp",
+          "width": 1024,
+          "height": 967,
+          "imageBytes": 81792,
+          "sha256": "386ecbe4adb817e982d8634d5997d8e638890819079c1e795a17c281e0dcb206",
+          "sourceSha256": "cb82e84f7cc6c5e1da2aab77e8284fe6e79c6846679e25e2cf169c6a5dd5cb72"
+        },
+        {
+          "artworkId": "the-milkmaid--johannes-vermeer",
+          "image": "variants/mobile/the-milkmaid--johannes-vermeer.webp",
+          "width": 911,
+          "height": 1024,
+          "imageBytes": 126886,
+          "sha256": "d7f27ce02048d124c0a43bd3206afd028d77fe94837caed3d59436c61b7275f5",
+          "sourceSha256": "101653d4191f66c6e8b8eb0ec2b97bb0067f6d9118fb8a31186f96dac3602471"
+        },
+        {
+          "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+          "image": "variants/mobile/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+          "width": 1024,
+          "height": 772,
+          "imageBytes": 68424,
+          "sha256": "c3e6fb6ffc71899758bc8d2a4e7d802e6c6d76be561ac2ea0db267bec3941e33",
+          "sourceSha256": "8ed4f9a0c796ee092fc55f454cce3b004fe277a3a8231f46f17e734cdfac240f"
+        },
+        {
+          "artworkId": "judith-beheading-holofernes--artemisia-gentileschi",
+          "image": "variants/mobile/judith-beheading-holofernes--artemisia-gentileschi.webp",
+          "width": 842,
+          "height": 1024,
+          "imageBytes": 96380,
+          "sha256": "aa40b14f21d39884b15a2ac33a4855a852d842256927a240583867f97d23f85d",
+          "sourceSha256": "976fae627dd2ca8e022977143ef9f1cde82509356a6e15252f6ede3244a75740"
+        },
+        {
+          "artworkId": "the-storm-on-the-sea-of-galilee--rembrandt",
+          "image": "variants/mobile/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+          "width": 824,
+          "height": 1024,
+          "imageBytes": 84402,
+          "sha256": "ca50a2a48aa93010d07e21d809e9e0a9354424e47f94c825c2582a99a295826f",
+          "sourceSha256": "cff5ee9b2d2689adf6751e354f5c38bf1e532444eb79d85960558b433f97e35e"
+        },
+        {
+          "artworkId": "the-swing--jean-honore-fragonard",
+          "image": "variants/mobile/the-swing--jean-honore-fragonard.webp",
+          "width": 793,
+          "height": 1024,
+          "imageBytes": 197992,
+          "sha256": "f7a393f6c510f679db4a7398232b5cb45ae310360a9e625499b0a3887d30b8f9",
+          "sourceSha256": "e95ac2c62b623862bc60a4100e8cc45800141d0bc50a2e7d98c8ef8c18a39628"
+        },
+        {
+          "artworkId": "the-elevation-of-the-cross--peter-paul-rubens",
+          "image": "variants/mobile/the-elevation-of-the-cross--peter-paul-rubens.webp",
+          "width": 1024,
+          "height": 736,
+          "imageBytes": 106776,
+          "sha256": "69c44416822f0f8e83acfc5ac1206eb7f9c045c17b987f96e2fcad8a4bf043e4",
+          "sourceSha256": "3e6514f2e5149a214cc2512d882bd7b30260eda632aacc9546404f6158c2d19b"
+        },
+        {
+          "artworkId": "the-supper-at-emmaus--caravaggio",
+          "image": "variants/mobile/the-supper-at-emmaus--caravaggio.webp",
+          "width": 1024,
+          "height": 728,
+          "imageBytes": 47270,
+          "sha256": "b245d993a0e74340150781fcebff9021658abfe80485935b6b03df44ef446e68",
+          "sourceSha256": "b75e731273b3576d098a8896929a6704e78425569349349327ce97497ab16457"
+        },
+        {
+          "artworkId": "the-art-of-painting--johannes-vermeer",
+          "image": "variants/mobile/the-art-of-painting--johannes-vermeer.webp",
+          "width": 862,
+          "height": 1024,
+          "imageBytes": 126286,
+          "sha256": "70d45c33de4ef967b59aaa47117b8d96004032c9b37d325e7e5f14d1e41d7316",
+          "sourceSha256": "234e9badbe0468784e69ca9c88fa41f1e9d6569b6ad34ba240139f70015c563a"
+        },
+        {
+          "artworkId": "the-rokeby-venus--diego-velazquez",
+          "image": "variants/mobile/the-rokeby-venus--diego-velazquez.webp",
+          "width": 1024,
+          "height": 703,
+          "imageBytes": 64402,
+          "sha256": "0d07f75b4cb31632efc456cb2898883d7106a5a0d0e86ca6570c14621cbd0342",
+          "sourceSha256": "4992c591eee8d1ffcdb79695c212c88de64444a7ab0f25cbedd9b03d179e4778"
+        },
+        {
+          "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+          "image": "variants/mobile/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+          "width": 798,
+          "height": 1024,
+          "imageBytes": 111422,
+          "sha256": "e734fd6f4295a55c0525582a8c6f99d6772fd38abb12ac31be5f7e56f2acbe36",
+          "sourceSha256": "3016f7a59f6cf4fa2271ff10a1d95085b4e439c97d38d6fcd608322563695cfd"
+        },
+        {
+          "artworkId": "liberty-leading-the-people--eugene-delacroix",
+          "image": "variants/mobile/liberty-leading-the-people--eugene-delacroix.webp",
+          "width": 1024,
+          "height": 820,
+          "imageBytes": 136506,
+          "sha256": "e75462c9f632e8a8b58e81b1fc4ce68f094c2669219e705cdc6d4ac39339bae5",
+          "sourceSha256": "5c4e88a348b7c852e72eeb69131d1b3817027695a31f2cf9f8ffd8ce032c2857"
+        },
+        {
+          "artworkId": "the-raft-of-the-medusa--theodore-gericault",
+          "image": "variants/mobile/the-raft-of-the-medusa--theodore-gericault.webp",
+          "width": 1024,
+          "height": 699,
+          "imageBytes": 162346,
+          "sha256": "3fdc885bfa1c4b4656ed9a28916edef944ecf7c32724721f396139fc809f7732",
+          "sourceSha256": "5ffdfb4dde11e6efa3244e8026cbd8653348865c27224040a80eaa8731c3fd5e"
+        },
+        {
+          "artworkId": "the-death-of-socrates--jacques-louis-david",
+          "image": "variants/mobile/the-death-of-socrates--jacques-louis-david.webp",
+          "width": 1024,
+          "height": 673,
+          "imageBytes": 62274,
+          "sha256": "9937f92c5230e877d63426efeb87f200a5b9a5d79249779373a2a00c2c606db4",
+          "sourceSha256": "38a6fa26a0e27dacbd4216d679f8d634566894afe9f61b91b01e89327cf5bafe"
+        },
+        {
+          "artworkId": "saturn-devouring-his-son--francisco-goya",
+          "image": "variants/mobile/saturn-devouring-his-son--francisco-goya.webp",
+          "width": 557,
+          "height": 1024,
+          "imageBytes": 109842,
+          "sha256": "b33b3fe630d2f8299a3cd5a45ac2bbf0981d339588be6d6e2d81b06141377c85",
+          "sourceSha256": "2e5df1a88958b6f25ff5a299a912013621b1bb72c756206ac0c95e70fe586204"
+        },
+        {
+          "artworkId": "the-nightmare--henry-fuseli",
+          "image": "variants/mobile/the-nightmare--henry-fuseli.webp",
+          "width": 1024,
+          "height": 822,
+          "imageBytes": 83084,
+          "sha256": "6a759a3ccba4c6824eb8980d934695f594107c881a8b48a909497bd4a5c579db",
+          "sourceSha256": "f9299a459092fd0db366f5b740ea6160e4abc3c4e05ae125c66b6ca9e64359e2"
+        },
+        {
+          "artworkId": "the-oath-of-the-horatii--jacques-louis-david",
+          "image": "variants/mobile/the-oath-of-the-horatii--jacques-louis-david.webp",
+          "width": 1024,
+          "height": 794,
+          "imageBytes": 108670,
+          "sha256": "b4d9d05bbac8c69e8c2d4f4567090cafe9733c94f3cee0ff6e2fcbffff208f9e",
+          "sourceSha256": "20e3453c93b78d685804522db8bf0401ebc09fb28f0f77e008f178570f78982d"
+        },
+        {
+          "artworkId": "the-death-of-marat--jacques-louis-david",
+          "image": "variants/mobile/the-death-of-marat--jacques-louis-david.webp",
+          "width": 796,
+          "height": 1024,
+          "imageBytes": 66830,
+          "sha256": "c535f95c6e8f48d56b5fbdde29c4d540349ff8cc49d4c13d94f18db7489fb75e",
+          "sourceSha256": "d52793d640aef6cc0ead003ac2695f57fd723ba8e970b72b634fb231df503a11"
+        },
+        {
+          "artworkId": "the-fighting-temeraire--j-m-w-turner",
+          "image": "variants/mobile/the-fighting-temeraire--j-m-w-turner.webp",
+          "width": 1024,
+          "height": 761,
+          "imageBytes": 72554,
+          "sha256": "0ab861871747324e51478c5e9123b2340afa7b66e840d98cf90e0866facd07a4",
+          "sourceSha256": "bf74919c4f4a8ba9985a81ceb3e4a62498998c3533e054dadb11ed9113184f0d"
+        },
+        {
+          "artworkId": "the-hay-wain--john-constable",
+          "image": "variants/mobile/the-hay-wain--john-constable.webp",
+          "width": 1024,
+          "height": 706,
+          "imageBytes": 183244,
+          "sha256": "0a384d00567f1209b9575f5c2b6940c35df24827acf023a9c83584a8d1e286a8",
+          "sourceSha256": "41073d7e9f323246159f328949b2849e999167e224f2e598b0d018f50b6afbce"
+        },
+        {
+          "artworkId": "the-gleaners--jean-francois-millet",
+          "image": "variants/mobile/the-gleaners--jean-francois-millet.webp",
+          "width": 1024,
+          "height": 766,
+          "imageBytes": 138026,
+          "sha256": "1d19055a60cb4ae67b21c12531f13c2b2f48a67dd01ae0b28017c7caecc49e8a",
+          "sourceSha256": "2bc50098cfd334175189dfc3a5a800ece57e21f8900c5c455566da5338931768"
+        },
+        {
+          "artworkId": "the-ninth-wave--ivan-aivazovsky",
+          "image": "variants/mobile/the-ninth-wave--ivan-aivazovsky.webp",
+          "width": 1024,
+          "height": 688,
+          "imageBytes": 45666,
+          "sha256": "0488932fa1b96de32a6678297ad40ca817833d2c2062cd2b8d90cd3eecbe46c7",
+          "sourceSha256": "954a4186864599777e55fb854717f7ea1120ac05ce9ea3086c2d58f1549c623e"
+        },
+        {
+          "artworkId": "the-scream--edvard-munch",
+          "image": "variants/mobile/the-scream--edvard-munch.webp",
+          "width": 825,
+          "height": 1024,
+          "imageBytes": 150000,
+          "sha256": "0d4e08cd8f6e37f138829bba0f7a5e84a3312037bfb469a10a954980622a7b24",
+          "sourceSha256": "1162633764c6b5d6e0d42f06ad6762fe4f21926f5141a61f2340e8a6b9baba5e"
+        },
+        {
+          "artworkId": "the-kiss--gustav-klimt",
+          "image": "variants/mobile/the-kiss--gustav-klimt.webp",
+          "width": 1020,
+          "height": 1024,
+          "imageBytes": 340086,
+          "sha256": "e441fa6dd8bd3e63a6a18265092db86227e327261174613f7972ba2a4e70b9d1",
+          "sourceSha256": "7dc5795caad77602426e20ae40389285e31baf99a1501c61628eaf7f7f0fb930"
+        },
+        {
+          "artworkId": "impression-sunrise--claude-monet",
+          "image": "variants/mobile/impression-sunrise--claude-monet.webp",
+          "width": 1024,
+          "height": 795,
+          "imageBytes": 100534,
+          "sha256": "3c0e1f8c9f0b1a6e1aa9f1d8161b53c36a6371132c8218f8cda6e5134a7e6fa1",
+          "sourceSha256": "4444a99edf6f085d91aec76d83b17af7968170a1bb85c37451e5488ea0b67987"
+        },
+        {
+          "artworkId": "cafe-terrace-at-night--vincent-van-gogh",
+          "image": "variants/mobile/cafe-terrace-at-night--vincent-van-gogh.webp",
+          "width": 821,
+          "height": 1024,
+          "imageBytes": 209264,
+          "sha256": "8b45649e5feb5e1eae49cfeefc592c26bcd4d88d0a1dbe0ac4af0c61ec147f55",
+          "sourceSha256": "4ce31e571143e254cfee430ef80f1f6141a23187d0dae03bf37e60e31adf656b"
+        },
+        {
+          "artworkId": "starry-night-over-the-rhone--vincent-van-gogh",
+          "image": "variants/mobile/starry-night-over-the-rhone--vincent-van-gogh.webp",
+          "width": 1024,
+          "height": 791,
+          "imageBytes": 237246,
+          "sha256": "7d3a027aa1f2712374bc5adf7fecf12532a5b9070acccbf45d0297a781e42dc0",
+          "sourceSha256": "2da6b3f52c2e7a9c2a6d80e169740ffbd8c19d43c4bb8621b935ce40618a4048"
+        },
+        {
+          "artworkId": "sunflowers--vincent-van-gogh",
+          "image": "variants/mobile/sunflowers--vincent-van-gogh.webp",
+          "width": 811,
+          "height": 1024,
+          "imageBytes": 191158,
+          "sha256": "bd30677804706277fe0c25f80c970cb05b3a332b7994b35b8e462280c1b15b0e",
+          "sourceSha256": "8d3079dfc3afee89592c13296676fb7fb0ff06a8f55951229aa4ab72c1e93f48"
+        },
+        {
+          "artworkId": "the-night-cafe--vincent-van-gogh",
+          "image": "variants/mobile/the-night-cafe--vincent-van-gogh.webp",
+          "width": 1024,
+          "height": 809,
+          "imageBytes": 226548,
+          "sha256": "a2c077cfabc3ae0c75db9b81724316a17d66cb8125822f9b14c83e0760a5d832",
+          "sourceSha256": "37e15d7214c56836847901e51cd7743802cf17757b6b3f311cea0a31afee1c84"
+        },
+        {
+          "artworkId": "wheatfield-with-crows--vincent-van-gogh",
+          "image": "variants/mobile/wheatfield-with-crows--vincent-van-gogh.webp",
+          "width": 1024,
+          "height": 491,
+          "imageBytes": 186970,
+          "sha256": "8e9ae783d704e59c609cda9fa8c6ba61b20fd197dbc4e4fff8713aa603e729ce",
+          "sourceSha256": "0264215c9cd9bc3425fd5b22a64dbbaaf42bd68e2f6092b27089795ea706a26e"
+        },
+        {
+          "artworkId": "luncheon-of-the-boating-party--pierre-auguste-renoir",
+          "image": "variants/mobile/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+          "width": 1024,
+          "height": 759,
+          "imageBytes": 165510,
+          "sha256": "b9fbfa9350df18e843c2e9660b84a5c895f68fab745afea274258bef2f0de49b",
+          "sourceSha256": "5d2a2775074e5900b5fd9b94538dcb1e06ff757ed02754f94a4d2821608404fd"
+        },
+        {
+          "artworkId": "the-card-players--paul-cezanne",
+          "image": "variants/mobile/the-card-players--paul-cezanne.webp",
+          "width": 1024,
+          "height": 840,
+          "imageBytes": 203644,
+          "sha256": "d10aaced9705d7d08422096ba1325607abc565eadf6f5bf21a977d469b0a5f6c",
+          "sourceSha256": "99e486aeda8fb7082f5de68bd22bae3f876d76e635f9ebd1ceea88e84682f25d"
+        },
+        {
+          "artworkId": "nighthawks--edward-hopper",
+          "image": "variants/mobile/nighthawks--edward-hopper.webp",
+          "width": 1024,
+          "height": 559,
+          "imageBytes": 42712,
+          "sha256": "119b5367fd3fcc0e1bd18a543bd7a96e05c7ec774da854fc3841c6f806300856",
+          "sourceSha256": "feda8941f39499a07a9cf5277f95a1347afeaf1fa56e0708e2ddcc13b9850c40"
+        },
+        {
+          "artworkId": "american-gothic--grant-wood",
+          "image": "variants/mobile/american-gothic--grant-wood.webp",
+          "width": 847,
+          "height": 1024,
+          "imageBytes": 114596,
+          "sha256": "2f6de3e0b40b6c238a824f7701d11c1a4f823672501de81c5d6df90512e76908",
+          "sourceSha256": "92c34cf3ed625d93bd5c9e53dc654fa0005c6fc53e882b6e1353a5db0880f07a"
+        },
+        {
+          "artworkId": "black-square--kazimir-malevich",
+          "image": "variants/mobile/black-square--kazimir-malevich.webp",
+          "width": 1024,
+          "height": 1024,
+          "imageBytes": 110452,
+          "sha256": "24a16e1f2f2c42c56b9169bd28e464d38d2580cea9d53918ba66418fa06dde78",
+          "sourceSha256": "6dbbd996f84d2e233af72c830dc91a009f0485d582129636e12e96981d94d493"
+        },
+        {
+          "artworkId": "the-great-wave-off-kanagawa--katsushika-hokusai",
+          "image": "variants/mobile/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+          "width": 1024,
+          "height": 689,
+          "imageBytes": 206688,
+          "sha256": "fb59d5175958d452ae666a21ca8e6e9769760b0f46993896a523ca84be0028d9",
+          "sourceSha256": "f809537372390f9ed3c831f132793618f7dff26f295a67868d038edfab016a48"
+        },
+        {
+          "artworkId": "along-the-river-during-the-qingming-festival--zhang-zeduan",
+          "image": "variants/mobile/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+          "width": 1024,
+          "height": 734,
+          "imageBytes": 239852,
+          "sha256": "a1b45240c451314aef1c563560064abb78e727771fb7469823bfbcbb3c4a13e9",
+          "sourceSha256": "be56f42785947e7293400589e428b1b9dfd9364a4205a20b75afd3e9cab7a749"
+        },
+        {
+          "artworkId": "red-fuji--katsushika-hokusai",
+          "image": "variants/mobile/red-fuji--katsushika-hokusai.webp",
+          "width": 1024,
+          "height": 706,
+          "imageBytes": 168820,
+          "sha256": "c76b0a59d28c8a09f8d68a285a70fc08b854cea11ad3968c3ad8273e1ebd26e1",
+          "sourceSha256": "7e6f98a630a065b858d9d93653ef213755e4bf09011deadb63f0f8d9717acb25"
+        },
+        {
+          "artworkId": "red-and-white-plum-blossoms--ogata-korin",
+          "image": "variants/mobile/red-and-white-plum-blossoms--ogata-korin.webp",
+          "width": 1024,
+          "height": 450,
+          "imageBytes": 130208,
+          "sha256": "714f72f9efdd3af8a3173e146e0c0f6033de401743c581ebaa04eec2758f273c",
+          "sourceSha256": "dfcae2092e73781c34867026ed90d5683fa2acd43759af056a3a58e857965fd6"
+        },
+        {
+          "artworkId": "shakuntala--raja-ravi-varma",
+          "image": "variants/mobile/shakuntala--raja-ravi-varma.webp",
+          "width": 625,
+          "height": 1024,
+          "imageBytes": 119482,
+          "sha256": "7f7dff05f9f2f40861fdf04bf5acd5b5e2eb8bf600c503022fa8ce3ab0f2c26f",
+          "sourceSha256": "393ce692823cbe1c91c8757c3b96f2b20b83de21a636bb297074fb1a703caade"
+        },
+        {
+          "artworkId": "the-tortoise-trainer--osman-hamdi-bey",
+          "image": "variants/mobile/the-tortoise-trainer--osman-hamdi-bey.webp",
+          "width": 547,
+          "height": 1024,
+          "imageBytes": 95948,
+          "sha256": "fd80c190c71cb6ac40f49d2a5dc01257136695c58e59d225d7e7f0e035236104",
+          "sourceSha256": "0ce8fb89fc751c9e589e3ff7593680be2bd14e3f5419cdf870d6b30928a8813e"
+        },
+        {
+          "artworkId": "spoliarium--juan-luna",
+          "image": "variants/mobile/spoliarium--juan-luna.webp",
+          "width": 1024,
+          "height": 552,
+          "imageBytes": 37970,
+          "sha256": "c4addee88b7b7c6b2c6f0854e35b8a2138d2f3427a1d70a61000cabb59d9e12d",
+          "sourceSha256": "a42ce51e9c9a660c1a14bcd9b910dbd99dd7411cc9826c8f57e884ba46e84526"
+        },
+        {
+          "artworkId": "a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+          "image": "variants/mobile/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+          "width": 1024,
+          "height": 719,
+          "imageBytes": 91770,
+          "sha256": "c5aae13f349f81c5ce4c441e5cc67a6840389eb171a81c5c94bf9b74f8235b3d",
+          "sourceSha256": "57ecd939bbbc42e25f1b0b456a9f9e748c00f5a2e14af0b89a3c6738c62dd6d6"
+        },
+        {
+          "artworkId": "the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+          "image": "variants/mobile/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+          "width": 789,
+          "height": 1024,
+          "imageBytes": 53422,
+          "sha256": "e1f14da809618752d26ecf740146f9dd6295fab2bb4577f716612573cdac4d85",
+          "sourceSha256": "f07ba9e6f8d526a866ece0288da9016b0a802a325b53f95a2baf53b6c8e61b64"
+        },
+        {
+          "artworkId": "an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+          "image": "variants/mobile/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+          "width": 1024,
+          "height": 768,
+          "imageBytes": 65446,
+          "sha256": "005e77411ae7e03469df2514f7120ed6c092ff67ccb215216db99453a214dd72",
+          "sourceSha256": "f6bf6b3022619daed63478b2ce10e616d71f4a95d7ca2f92ee8253c5c2d63972"
+        },
+        {
+          "artworkId": "the-astronomer--johannes-vermeer",
+          "image": "variants/mobile/the-astronomer--johannes-vermeer.webp",
+          "width": 901,
+          "height": 1024,
+          "imageBytes": 96900,
+          "sha256": "081eeccd5f94b27268a233b40c1417201701d4817b847cf2304e62ed40cbb22c",
+          "sourceSha256": "56ef3d6e02a6330aed852b2f36758b46c4e8ef4a94935ee25c008b24017c2d15"
+        },
+        {
+          "artworkId": "the-geographer--johannes-vermeer",
+          "image": "variants/mobile/the-geographer--johannes-vermeer.webp",
+          "width": 913,
+          "height": 1024,
+          "imageBytes": 123848,
+          "sha256": "8857c1f06581b1596dd430d5257e139c7e96118afe11e83966d9afec45f3de4c",
+          "sourceSha256": "097842010eb9a8cbc01c2e2df0b36233df87bd18ef6dc1a19480e91c53fae36c"
+        },
+        {
+          "artworkId": "portrait-of-the-lavoisiers--jacques-louis-david",
+          "image": "variants/mobile/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+          "width": 768,
+          "height": 1024,
+          "imageBytes": 50370,
+          "sha256": "b24a7b03bf3df6a27af1274cba4ef2d96c459e2267e40666e8e4bef086997402",
+          "sourceSha256": "d5d4191d65907a5a08746b0c938eca2485a86a03251c928f43b5ad18fb4dd1ec"
+        },
+        {
+          "artworkId": "newton--william-blake",
+          "image": "variants/mobile/newton--william-blake.webp",
+          "width": 1024,
+          "height": 788,
+          "imageBytes": 302984,
+          "sha256": "a305cda82fb94e956b15c4a77b3c735fcf0632f1bbc6aa05efe1e560e25efbd7",
+          "sourceSha256": "559cfdbe07bbc3cb9d789eb4531692fc4ac36e339b9b9cd0df7474908fee0328"
+        },
+        {
+          "artworkId": "vitruvian-man--leonardo-da-vinci",
+          "image": "variants/mobile/vitruvian-man--leonardo-da-vinci.webp",
+          "width": 753,
+          "height": 1024,
+          "imageBytes": 271384,
+          "sha256": "52e89fde9e2fcc5c654041f026fb03c8d53c1aeb507bd0e1d6760e33eea02f8c",
+          "sourceSha256": "a59ad3dd982e14dbb64f7c39baa53d543e3d1dfec161cc896c12088ee1ace928"
+        },
+        {
+          "artworkId": "the-gross-clinic--thomas-eakins",
+          "image": "variants/mobile/the-gross-clinic--thomas-eakins.webp",
+          "width": 825,
+          "height": 1024,
+          "imageBytes": 89706,
+          "sha256": "d4ec5d96d04a5b2c40cf134f766ba455bfd719d8ef24730d84d75fbf85c5ba1b",
+          "sourceSha256": "66e31790fda49b438383eda4c5b8731a3bc82242f6456f1c9550888473fb325c"
+        },
+        {
+          "artworkId": "albert-einstein-1924--leonid-pasternak",
+          "image": "variants/mobile/albert-einstein-1924--leonid-pasternak.webp",
+          "width": 814,
+          "height": 1024,
+          "imageBytes": 213108,
+          "sha256": "72168ec0839c1e1c66e205f54b9f4b09f5e7622051c57396f8016031c97a5775",
+          "sourceSha256": "0f42b7e9e7e796c9eafc52541a9a4189d1135ef79e57c5ef2959e3ca5b6773b8"
+        },
+        {
+          "artworkId": "isaac-newton--godfrey-kneller",
+          "image": "variants/mobile/isaac-newton--godfrey-kneller.webp",
+          "width": 729,
+          "height": 1024,
+          "imageBytes": 151076,
+          "sha256": "e44b5c46a88d26526327c085614feae88a1d369ab396684e59e2f5f43a8d5950",
+          "sourceSha256": "d8a059d7c35757df551d77e84e267c5e3c3a61f196de148ed50df0188b5dc8f6"
+        },
+        {
+          "artworkId": "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+          "image": "variants/mobile/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+          "width": 723,
+          "height": 1024,
+          "imageBytes": 41146,
+          "sha256": "8b29457a1fb6e2d6be4ed1bb9d53e06e5a3996461bc3fa0691a04809b0fe3f78",
+          "sourceSha256": "b97bf22f446bbfe17bcbfab70586e8ff97ed1dca004eec4fe638399f47ff8fb6"
+        }
+      ]
+    },
+    "mobile-low": {
+      "maxEdge": 768,
+      "quality": 84,
+      "artworks": [
+        {
+          "artworkId": "mona-lisa--leonardo-da-vinci",
+          "image": "variants/mobile-low/mona-lisa--leonardo-da-vinci.webp",
+          "width": 515,
+          "height": 768,
+          "imageBytes": 71670,
+          "sha256": "d953f09497c918e9903519018294231fbf29b170337c477e83ee595c7cacdede",
+          "sourceSha256": "235e6be6758c8b7253844038fc9c05bd5d24ebf72e59f16a6cad6b3a916b34fb"
+        },
+        {
+          "artworkId": "the-last-supper--leonardo-da-vinci",
+          "image": "variants/mobile-low/the-last-supper--leonardo-da-vinci.webp",
+          "width": 768,
+          "height": 384,
+          "imageBytes": 55016,
+          "sha256": "e60702abf48ebd99d7d57ed4197a5b06e421e1d44b9961d0ee7c33cf2031e4f0",
+          "sourceSha256": "0621043870788b280c37689da53eae08f99ff71bc6ef548283c232a5365e2aae"
+        },
+        {
+          "artworkId": "the-creation-of-adam--michelangelo",
+          "image": "variants/mobile-low/the-creation-of-adam--michelangelo.webp",
+          "width": 768,
+          "height": 348,
+          "imageBytes": 46452,
+          "sha256": "7acdc1d9b40f3440aff8b0978610bd78d7e0511c47aa77b420e39d8d6aa3dbe4",
+          "sourceSha256": "5803a707ce96816094d93ba07083beac316be5861da2afcd3cd93ef94fa74ff7"
+        },
+        {
+          "artworkId": "the-school-of-athens--raphael",
+          "image": "variants/mobile-low/the-school-of-athens--raphael.webp",
+          "width": 768,
+          "height": 596,
+          "imageBytes": 119300,
+          "sha256": "1fc214c573670e350c03c90f740bd2a7f545bad43bff76840342ecbf73311762",
+          "sourceSha256": "43618298c69fcc2440b2e3f185b7986e81c6a35092d7252bc111935f13e9c491"
+        },
+        {
+          "artworkId": "primavera--sandro-botticelli",
+          "image": "variants/mobile-low/primavera--sandro-botticelli.webp",
+          "width": 768,
+          "height": 504,
+          "imageBytes": 124074,
+          "sha256": "8e795f07f0e3b2094531fc4ff883759f7a206e5f03f36f8cfe5a3b226b92cd19",
+          "sourceSha256": "56fa4b1c025fa6db31ef2e38d3586504075959cd19b3148354c11846ea1d3708"
+        },
+        {
+          "artworkId": "the-arnolfini-portrait--jan-van-eyck",
+          "image": "variants/mobile-low/the-arnolfini-portrait--jan-van-eyck.webp",
+          "width": 561,
+          "height": 768,
+          "imageBytes": 44882,
+          "sha256": "6f22183ca00ded2795293c9f6dcd68ba4ebb107493e9c3b15a887187f86503ea",
+          "sourceSha256": "ae29cfebce0f47918b8623694bab39280631e0e1c79647593348f2d956d09dca"
+        },
+        {
+          "artworkId": "lady-with-an-ermine--leonardo-da-vinci",
+          "image": "variants/mobile-low/lady-with-an-ermine--leonardo-da-vinci.webp",
+          "width": 571,
+          "height": 768,
+          "imageBytes": 33976,
+          "sha256": "4e39cae460ed45753d893d0e7611e00003829f381697a037fe4c873b1010eef2",
+          "sourceSha256": "644ca2749b5e9ad9f0c464d1475eedec6def05b010acab73d542b18ba8d61d6e"
+        },
+        {
+          "artworkId": "sistine-madonna--raphael",
+          "image": "variants/mobile-low/sistine-madonna--raphael.webp",
+          "width": 560,
+          "height": 768,
+          "imageBytes": 92024,
+          "sha256": "f9801b422bb9784608b21e824308d5202dfab7f226b91771898f4a37575721fd",
+          "sourceSha256": "8b324983a0ab97fae4760b3c5b4527dd8d2bf7cf9fbaf4f5ec0fd963d42b2bbd"
+        },
+        {
+          "artworkId": "venus-of-urbino--titian",
+          "image": "variants/mobile-low/venus-of-urbino--titian.webp",
+          "width": 768,
+          "height": 540,
+          "imageBytes": 72846,
+          "sha256": "5b7832fa2adade9f47f84053160923eb0ff6244966cdf723386e2cdd1a251d54",
+          "sourceSha256": "38a93fa45ee11d60f9e2c2d33fe9139de96a4262b32b5af2699bd156b79fe6e6"
+        },
+        {
+          "artworkId": "the-annunciation--fra-angelico",
+          "image": "variants/mobile-low/the-annunciation--fra-angelico.webp",
+          "width": 768,
+          "height": 557,
+          "imageBytes": 74740,
+          "sha256": "f259396db0e56fcc199e5ca18c715e0492b30bb228d05a00178dd8a081c0ead5",
+          "sourceSha256": "dabd0a21d8f8863085126ceebbd60e53e86db369adf85ed738221369ee6d4ffc"
+        },
+        {
+          "artworkId": "the-lamentation--giotto",
+          "image": "variants/mobile-low/the-lamentation--giotto.webp",
+          "width": 768,
+          "height": 722,
+          "imageBytes": 130588,
+          "sha256": "f5ce8be1a16c83a88d9810aa47838e76e681099ea75bb15504a42105466081dd",
+          "sourceSha256": "a819c2a4da6cfffcbbf61a76e011b7971e604fbd3a3555f28782bf85a87077de"
+        },
+        {
+          "artworkId": "girl-with-a-pearl-earring--johannes-vermeer",
+          "image": "variants/mobile-low/girl-with-a-pearl-earring--johannes-vermeer.webp",
+          "width": 648,
+          "height": 768,
+          "imageBytes": 67986,
+          "sha256": "2bab89199661f1c770bf7f1cc817f6466ec5aabe4494089be275ac121fdaae6b",
+          "sourceSha256": "a05230e51abf5e6ea17cb62c9e5e785da717b8ca26b8f166942c20dd9b824e66"
+        },
+        {
+          "artworkId": "the-night-watch--rembrandt",
+          "image": "variants/mobile-low/the-night-watch--rembrandt.webp",
+          "width": 768,
+          "height": 625,
+          "imageBytes": 63950,
+          "sha256": "bec870888318fa30e52b0836a390d8c17a0627e0c7cd67070c70fcb8c9376b3d",
+          "sourceSha256": "b9e9c8be02e74bf8eeb3eaf2e6d7f8c820ea21e19bc09dabbe0ff5b468336873"
+        },
+        {
+          "artworkId": "the-calling-of-saint-matthew--caravaggio",
+          "image": "variants/mobile-low/the-calling-of-saint-matthew--caravaggio.webp",
+          "width": 768,
+          "height": 725,
+          "imageBytes": 38752,
+          "sha256": "284bc9838ab1771c19763e178b1df732ff713882d274f23f76e10bb5ce2b4c68",
+          "sourceSha256": "cb82e84f7cc6c5e1da2aab77e8284fe6e79c6846679e25e2cf169c6a5dd5cb72"
+        },
+        {
+          "artworkId": "the-milkmaid--johannes-vermeer",
+          "image": "variants/mobile-low/the-milkmaid--johannes-vermeer.webp",
+          "width": 683,
+          "height": 768,
+          "imageBytes": 61554,
+          "sha256": "257356807582d113075c53e32b505e9f1ae2cdaf175169146d3f71dd83325eab",
+          "sourceSha256": "101653d4191f66c6e8b8eb0ec2b97bb0067f6d9118fb8a31186f96dac3602471"
+        },
+        {
+          "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+          "image": "variants/mobile-low/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+          "width": 768,
+          "height": 579,
+          "imageBytes": 35064,
+          "sha256": "f069bc7a7eeb6c6ee20dc835d629d2b7b6ae65e0302370b6c052b7c769b6baec",
+          "sourceSha256": "8ed4f9a0c796ee092fc55f454cce3b004fe277a3a8231f46f17e734cdfac240f"
+        },
+        {
+          "artworkId": "judith-beheading-holofernes--artemisia-gentileschi",
+          "image": "variants/mobile-low/judith-beheading-holofernes--artemisia-gentileschi.webp",
+          "width": 631,
+          "height": 768,
+          "imageBytes": 54130,
+          "sha256": "703f35e191d25c787886a0f8cd2de5ced6b98f2086822948119846a532d8fba3",
+          "sourceSha256": "976fae627dd2ca8e022977143ef9f1cde82509356a6e15252f6ede3244a75740"
+        },
+        {
+          "artworkId": "the-storm-on-the-sea-of-galilee--rembrandt",
+          "image": "variants/mobile-low/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+          "width": 618,
+          "height": 768,
+          "imageBytes": 44154,
+          "sha256": "85404da6f1dd121dd4d4b4b1a66e14d5b9009c58217e54b7a660ecc0077d6e62",
+          "sourceSha256": "cff5ee9b2d2689adf6751e354f5c38bf1e532444eb79d85960558b433f97e35e"
+        },
+        {
+          "artworkId": "the-swing--jean-honore-fragonard",
+          "image": "variants/mobile-low/the-swing--jean-honore-fragonard.webp",
+          "width": 595,
+          "height": 768,
+          "imageBytes": 104514,
+          "sha256": "cfd9bf2a4542daab4a72a17dbb88d72bee19841bb9806e94c25161ee47a9336c",
+          "sourceSha256": "e95ac2c62b623862bc60a4100e8cc45800141d0bc50a2e7d98c8ef8c18a39628"
+        },
+        {
+          "artworkId": "the-elevation-of-the-cross--peter-paul-rubens",
+          "image": "variants/mobile-low/the-elevation-of-the-cross--peter-paul-rubens.webp",
+          "width": 768,
+          "height": 552,
+          "imageBytes": 65820,
+          "sha256": "e4f5ff117f5ec22fad7143296ca705bb47d07492d71db40233c430da57e169be",
+          "sourceSha256": "3e6514f2e5149a214cc2512d882bd7b30260eda632aacc9546404f6158c2d19b"
+        },
+        {
+          "artworkId": "the-supper-at-emmaus--caravaggio",
+          "image": "variants/mobile-low/the-supper-at-emmaus--caravaggio.webp",
+          "width": 768,
+          "height": 546,
+          "imageBytes": 27212,
+          "sha256": "cf9a522c72f5ed12495638eeed5730984a91539fc3ca0994af5d12f2bd5f96f3",
+          "sourceSha256": "b75e731273b3576d098a8896929a6704e78425569349349327ce97497ab16457"
+        },
+        {
+          "artworkId": "the-art-of-painting--johannes-vermeer",
+          "image": "variants/mobile-low/the-art-of-painting--johannes-vermeer.webp",
+          "width": 646,
+          "height": 768,
+          "imageBytes": 66924,
+          "sha256": "f108608d7df501179f477a9d65dc51296c85cc0c428bbb7025b5b24a7bec83c4",
+          "sourceSha256": "234e9badbe0468784e69ca9c88fa41f1e9d6569b6ad34ba240139f70015c563a"
+        },
+        {
+          "artworkId": "the-rokeby-venus--diego-velazquez",
+          "image": "variants/mobile-low/the-rokeby-venus--diego-velazquez.webp",
+          "width": 768,
+          "height": 527,
+          "imageBytes": 33740,
+          "sha256": "fca5ceb884e53241341c7dde6364c571ecf50f3d6e5c08f7064eb1408ea9280d",
+          "sourceSha256": "4992c591eee8d1ffcdb79695c212c88de64444a7ab0f25cbedd9b03d179e4778"
+        },
+        {
+          "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+          "image": "variants/mobile-low/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+          "width": 599,
+          "height": 768,
+          "imageBytes": 47452,
+          "sha256": "261520b0755a6e299501be8c56ba3ddc4eb1b3f553b91dd667e03b5ce0e20e16",
+          "sourceSha256": "3016f7a59f6cf4fa2271ff10a1d95085b4e439c97d38d6fcd608322563695cfd"
+        },
+        {
+          "artworkId": "liberty-leading-the-people--eugene-delacroix",
+          "image": "variants/mobile-low/liberty-leading-the-people--eugene-delacroix.webp",
+          "width": 768,
+          "height": 615,
+          "imageBytes": 79642,
+          "sha256": "d41f2df8ea3d57951678dfab17873fd1e0414c0ba2a10e44ba3f7ae81730de02",
+          "sourceSha256": "5c4e88a348b7c852e72eeb69131d1b3817027695a31f2cf9f8ffd8ce032c2857"
+        },
+        {
+          "artworkId": "the-raft-of-the-medusa--theodore-gericault",
+          "image": "variants/mobile-low/the-raft-of-the-medusa--theodore-gericault.webp",
+          "width": 768,
+          "height": 524,
+          "imageBytes": 86666,
+          "sha256": "24078af185364248ee8e7595340a5eb153379ac4bf56df9c92db6c40a39cdaca",
+          "sourceSha256": "5ffdfb4dde11e6efa3244e8026cbd8653348865c27224040a80eaa8731c3fd5e"
+        },
+        {
+          "artworkId": "the-death-of-socrates--jacques-louis-david",
+          "image": "variants/mobile-low/the-death-of-socrates--jacques-louis-david.webp",
+          "width": 768,
+          "height": 504,
+          "imageBytes": 35472,
+          "sha256": "cdf036258c7826e4f70baca3f898ff7fccce5ef51084b63ad8b705fea8b12990",
+          "sourceSha256": "38a6fa26a0e27dacbd4216d679f8d634566894afe9f61b91b01e89327cf5bafe"
+        },
+        {
+          "artworkId": "saturn-devouring-his-son--francisco-goya",
+          "image": "variants/mobile-low/saturn-devouring-his-son--francisco-goya.webp",
+          "width": 418,
+          "height": 768,
+          "imageBytes": 47226,
+          "sha256": "3b6b9ddf7b175154593d4263795778c152afb38f3d5986663eb071019f004c12",
+          "sourceSha256": "2e5df1a88958b6f25ff5a299a912013621b1bb72c756206ac0c95e70fe586204"
+        },
+        {
+          "artworkId": "the-nightmare--henry-fuseli",
+          "image": "variants/mobile-low/the-nightmare--henry-fuseli.webp",
+          "width": 768,
+          "height": 617,
+          "imageBytes": 35148,
+          "sha256": "4859723d718a9ded0f59fb1d889f0ed3100fbbcce9534b38c636714f9b6820a7",
+          "sourceSha256": "f9299a459092fd0db366f5b740ea6160e4abc3c4e05ae125c66b6ca9e64359e2"
+        },
+        {
+          "artworkId": "the-oath-of-the-horatii--jacques-louis-david",
+          "image": "variants/mobile-low/the-oath-of-the-horatii--jacques-louis-david.webp",
+          "width": 768,
+          "height": 596,
+          "imageBytes": 60522,
+          "sha256": "f26e9b9c52df55d977c1ebecdb0900ecfb7c80f7bf0f237304693b4b2338c6b3",
+          "sourceSha256": "20e3453c93b78d685804522db8bf0401ebc09fb28f0f77e008f178570f78982d"
+        },
+        {
+          "artworkId": "the-death-of-marat--jacques-louis-david",
+          "image": "variants/mobile-low/the-death-of-marat--jacques-louis-david.webp",
+          "width": 597,
+          "height": 768,
+          "imageBytes": 34460,
+          "sha256": "6eb1385c9dbb16044d1bdbd170bb979c52c7982153e2713c831193dbeb3fda8e",
+          "sourceSha256": "d52793d640aef6cc0ead003ac2695f57fd723ba8e970b72b634fb231df503a11"
+        },
+        {
+          "artworkId": "the-fighting-temeraire--j-m-w-turner",
+          "image": "variants/mobile-low/the-fighting-temeraire--j-m-w-turner.webp",
+          "width": 768,
+          "height": 571,
+          "imageBytes": 34614,
+          "sha256": "78fc58012366ba72f80d3e4e0ed6b7db649830235b7503aeb8a8127e7cda992a",
+          "sourceSha256": "bf74919c4f4a8ba9985a81ceb3e4a62498998c3533e054dadb11ed9113184f0d"
+        },
+        {
+          "artworkId": "the-hay-wain--john-constable",
+          "image": "variants/mobile-low/the-hay-wain--john-constable.webp",
+          "width": 768,
+          "height": 530,
+          "imageBytes": 92836,
+          "sha256": "e13ff062df41aac20099035730e3c00fb9309f3d06797675b07f2f84be7819ee",
+          "sourceSha256": "41073d7e9f323246159f328949b2849e999167e224f2e598b0d018f50b6afbce"
+        },
+        {
+          "artworkId": "the-gleaners--jean-francois-millet",
+          "image": "variants/mobile-low/the-gleaners--jean-francois-millet.webp",
+          "width": 768,
+          "height": 575,
+          "imageBytes": 66650,
+          "sha256": "3a79f52de2e5d1960d9c5c4e23a6d9e1ceda3ab4ad0cf05bbebd5708a32f3f97",
+          "sourceSha256": "2bc50098cfd334175189dfc3a5a800ece57e21f8900c5c455566da5338931768"
+        },
+        {
+          "artworkId": "the-ninth-wave--ivan-aivazovsky",
+          "image": "variants/mobile-low/the-ninth-wave--ivan-aivazovsky.webp",
+          "width": 768,
+          "height": 516,
+          "imageBytes": 26254,
+          "sha256": "3525f7001ba0383b6d703d5b868756ab41afccf5ead2fccb663625b25bc1b683",
+          "sourceSha256": "954a4186864599777e55fb854717f7ea1120ac05ce9ea3086c2d58f1549c623e"
+        },
+        {
+          "artworkId": "the-scream--edvard-munch",
+          "image": "variants/mobile-low/the-scream--edvard-munch.webp",
+          "width": 619,
+          "height": 768,
+          "imageBytes": 72762,
+          "sha256": "81b0ed7f9fe00e14f27d2174175f5953aaca679069d06a512682bcf0536973fa",
+          "sourceSha256": "1162633764c6b5d6e0d42f06ad6762fe4f21926f5141a61f2340e8a6b9baba5e"
+        },
+        {
+          "artworkId": "the-kiss--gustav-klimt",
+          "image": "variants/mobile-low/the-kiss--gustav-klimt.webp",
+          "width": 765,
+          "height": 768,
+          "imageBytes": 176796,
+          "sha256": "b41b56a287b4b37f55c3c85292814be96f222aa102741aabbbe788aa735214f7",
+          "sourceSha256": "7dc5795caad77602426e20ae40389285e31baf99a1501c61628eaf7f7f0fb930"
+        },
+        {
+          "artworkId": "impression-sunrise--claude-monet",
+          "image": "variants/mobile-low/impression-sunrise--claude-monet.webp",
+          "width": 768,
+          "height": 596,
+          "imageBytes": 47268,
+          "sha256": "e391eae7c0ac22a017d21bf1ed1f8386c9fdea1635b38d48bbedfca327a847be",
+          "sourceSha256": "4444a99edf6f085d91aec76d83b17af7968170a1bb85c37451e5488ea0b67987"
+        },
+        {
+          "artworkId": "cafe-terrace-at-night--vincent-van-gogh",
+          "image": "variants/mobile-low/cafe-terrace-at-night--vincent-van-gogh.webp",
+          "width": 616,
+          "height": 768,
+          "imageBytes": 111760,
+          "sha256": "30f01cd71b4266c068dd43e71fa598c42359f26fe3afeb3be2ae738c763023a7",
+          "sourceSha256": "4ce31e571143e254cfee430ef80f1f6141a23187d0dae03bf37e60e31adf656b"
+        },
+        {
+          "artworkId": "starry-night-over-the-rhone--vincent-van-gogh",
+          "image": "variants/mobile-low/starry-night-over-the-rhone--vincent-van-gogh.webp",
+          "width": 768,
+          "height": 593,
+          "imageBytes": 122058,
+          "sha256": "e56e4a0129096b276368a25a19084e0310b6a1befc0196fa074a1b6b56f0f4b9",
+          "sourceSha256": "2da6b3f52c2e7a9c2a6d80e169740ffbd8c19d43c4bb8621b935ce40618a4048"
+        },
+        {
+          "artworkId": "sunflowers--vincent-van-gogh",
+          "image": "variants/mobile-low/sunflowers--vincent-van-gogh.webp",
+          "width": 609,
+          "height": 768,
+          "imageBytes": 92112,
+          "sha256": "2dd8efb45a6085feaf18141673dd894ca86556aa78c599a27db4131db64db576",
+          "sourceSha256": "8d3079dfc3afee89592c13296676fb7fb0ff06a8f55951229aa4ab72c1e93f48"
+        },
+        {
+          "artworkId": "the-night-cafe--vincent-van-gogh",
+          "image": "variants/mobile-low/the-night-cafe--vincent-van-gogh.webp",
+          "width": 768,
+          "height": 606,
+          "imageBytes": 117364,
+          "sha256": "2e11551eac6b7f50875553606112a16530902e472aae39072ae675a8cda8add3",
+          "sourceSha256": "37e15d7214c56836847901e51cd7743802cf17757b6b3f311cea0a31afee1c84"
+        },
+        {
+          "artworkId": "wheatfield-with-crows--vincent-van-gogh",
+          "image": "variants/mobile-low/wheatfield-with-crows--vincent-van-gogh.webp",
+          "width": 768,
+          "height": 368,
+          "imageBytes": 100846,
+          "sha256": "ada00d43f3a7a2e167e17d59b1ccc198846adaf5400d1e733e0a5a4400159730",
+          "sourceSha256": "0264215c9cd9bc3425fd5b22a64dbbaaf42bd68e2f6092b27089795ea706a26e"
+        },
+        {
+          "artworkId": "luncheon-of-the-boating-party--pierre-auguste-renoir",
+          "image": "variants/mobile-low/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+          "width": 768,
+          "height": 569,
+          "imageBytes": 93834,
+          "sha256": "3416b2cea77847e1213f7071f02d313ec17dcd2c7ba4b36315e1e0ea2cece223",
+          "sourceSha256": "5d2a2775074e5900b5fd9b94538dcb1e06ff757ed02754f94a4d2821608404fd"
+        },
+        {
+          "artworkId": "the-card-players--paul-cezanne",
+          "image": "variants/mobile-low/the-card-players--paul-cezanne.webp",
+          "width": 768,
+          "height": 630,
+          "imageBytes": 92502,
+          "sha256": "1b5682d1360bac69133e050f2f73766ca28c32bf29f97e0deafa2eed6483d7ef",
+          "sourceSha256": "99e486aeda8fb7082f5de68bd22bae3f876d76e635f9ebd1ceea88e84682f25d"
+        },
+        {
+          "artworkId": "nighthawks--edward-hopper",
+          "image": "variants/mobile-low/nighthawks--edward-hopper.webp",
+          "width": 768,
+          "height": 419,
+          "imageBytes": 24874,
+          "sha256": "99167efddeb0050b0711e212c87c8185e0f425d7a3050d6b1087c8137bd4d2c6",
+          "sourceSha256": "feda8941f39499a07a9cf5277f95a1347afeaf1fa56e0708e2ddcc13b9850c40"
+        },
+        {
+          "artworkId": "american-gothic--grant-wood",
+          "image": "variants/mobile-low/american-gothic--grant-wood.webp",
+          "width": 635,
+          "height": 768,
+          "imageBytes": 57560,
+          "sha256": "c07e01edb85ee6f62308e365902d2e5d48fe13a4861ef0e3ab45b05968be2f2c",
+          "sourceSha256": "92c34cf3ed625d93bd5c9e53dc654fa0005c6fc53e882b6e1353a5db0880f07a"
+        },
+        {
+          "artworkId": "black-square--kazimir-malevich",
+          "image": "variants/mobile-low/black-square--kazimir-malevich.webp",
+          "width": 768,
+          "height": 768,
+          "imageBytes": 58250,
+          "sha256": "40a2107ae7d0714e3573e797ac69fc29f9b5ea312e57ca4b278581a54bf77285",
+          "sourceSha256": "6dbbd996f84d2e233af72c830dc91a009f0485d582129636e12e96981d94d493"
+        },
+        {
+          "artworkId": "the-great-wave-off-kanagawa--katsushika-hokusai",
+          "image": "variants/mobile-low/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+          "width": 768,
+          "height": 516,
+          "imageBytes": 110858,
+          "sha256": "2b7e4369b995d983c96875be43bec7f744ea0a6b74e717821bf0ad3be929def9",
+          "sourceSha256": "f809537372390f9ed3c831f132793618f7dff26f295a67868d038edfab016a48"
+        },
+        {
+          "artworkId": "along-the-river-during-the-qingming-festival--zhang-zeduan",
+          "image": "variants/mobile-low/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+          "width": 768,
+          "height": 550,
+          "imageBytes": 114150,
+          "sha256": "ca03095c2a2f4bca515ac672c4c03f6aeb084e11c4435371faa172cc4a91f9be",
+          "sourceSha256": "be56f42785947e7293400589e428b1b9dfd9364a4205a20b75afd3e9cab7a749"
+        },
+        {
+          "artworkId": "red-fuji--katsushika-hokusai",
+          "image": "variants/mobile-low/red-fuji--katsushika-hokusai.webp",
+          "width": 768,
+          "height": 530,
+          "imageBytes": 88928,
+          "sha256": "118c5b81ff7c5033dab30645dd45124b7361df9207088bc0b5652d15fced50ee",
+          "sourceSha256": "7e6f98a630a065b858d9d93653ef213755e4bf09011deadb63f0f8d9717acb25"
+        },
+        {
+          "artworkId": "red-and-white-plum-blossoms--ogata-korin",
+          "image": "variants/mobile-low/red-and-white-plum-blossoms--ogata-korin.webp",
+          "width": 768,
+          "height": 337,
+          "imageBytes": 73696,
+          "sha256": "0901e729a192822c9284a9fc0531064ba6693e65ee634d0b554af16419fa2cd2",
+          "sourceSha256": "dfcae2092e73781c34867026ed90d5683fa2acd43759af056a3a58e857965fd6"
+        },
+        {
+          "artworkId": "shakuntala--raja-ravi-varma",
+          "image": "variants/mobile-low/shakuntala--raja-ravi-varma.webp",
+          "width": 469,
+          "height": 768,
+          "imageBytes": 63360,
+          "sha256": "4ab2763594b52503e316aa194878da742bd7b354ff33022e42ded33b0d1f4d5b",
+          "sourceSha256": "393ce692823cbe1c91c8757c3b96f2b20b83de21a636bb297074fb1a703caade"
+        },
+        {
+          "artworkId": "the-tortoise-trainer--osman-hamdi-bey",
+          "image": "variants/mobile-low/the-tortoise-trainer--osman-hamdi-bey.webp",
+          "width": 411,
+          "height": 768,
+          "imageBytes": 53508,
+          "sha256": "966a56505d0a61d3cce3257005b7ccc034d64afa1bf51d7a0b03550abdcf7b3f",
+          "sourceSha256": "0ce8fb89fc751c9e589e3ff7593680be2bd14e3f5419cdf870d6b30928a8813e"
+        },
+        {
+          "artworkId": "spoliarium--juan-luna",
+          "image": "variants/mobile-low/spoliarium--juan-luna.webp",
+          "width": 768,
+          "height": 414,
+          "imageBytes": 21170,
+          "sha256": "1567d796c70195251de61a1d13bac2c63b472cf594be79d133aa1725c97eeebc",
+          "sourceSha256": "a42ce51e9c9a660c1a14bcd9b910dbd99dd7411cc9826c8f57e884ba46e84526"
+        },
+        {
+          "artworkId": "the-parisian-life--juan-luna",
+          "image": "variants/mobile-low/the-parisian-life--juan-luna.webp",
+          "width": 768,
+          "height": 541,
+          "imageBytes": 74656,
+          "sha256": "080fbb858d4f6cdcf1ab51c81cee0ecb703a6940236bd2e283b03594888b1780",
+          "sourceSha256": "1599830c5c6f9f02125464067075ea86f289914a34082aa84346799f9844a63d"
+        },
+        {
+          "artworkId": "las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo",
+          "image": "variants/mobile-low/las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo.webp",
+          "width": 768,
+          "height": 576,
+          "imageBytes": 36862,
+          "sha256": "cc514b8b2e3931aa2cd434633ede25fe8d7abcfb1d3041e39b7de4cc1102f180",
+          "sourceSha256": "42f079a8fc8871cd398eaedf812f3fcd367cb854fa390c3b63c7578897d18a2e"
+        },
+        {
+          "artworkId": "a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+          "image": "variants/mobile-low/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+          "width": 768,
+          "height": 539,
+          "imageBytes": 49410,
+          "sha256": "25bfd70d9eb10e9454207594b8eeb6e9a45d5af5787edd0240397a183fa0cef7",
+          "sourceSha256": "57ecd939bbbc42e25f1b0b456a9f9e748c00f5a2e14af0b89a3c6738c62dd6d6"
+        },
+        {
+          "artworkId": "the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+          "image": "variants/mobile-low/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+          "width": 592,
+          "height": 768,
+          "imageBytes": 29868,
+          "sha256": "cefcf02a00435a2a13fd1fd8bda57e214812876bd9d4072c058c1901f28751e4",
+          "sourceSha256": "f07ba9e6f8d526a866ece0288da9016b0a802a325b53f95a2baf53b6c8e61b64"
+        },
+        {
+          "artworkId": "an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+          "image": "variants/mobile-low/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+          "width": 768,
+          "height": 576,
+          "imageBytes": 37278,
+          "sha256": "7f199d6a4e29e7ee37bdb5c038e53f769586bd05e7bc6fbdea7b802b2d12ac13",
+          "sourceSha256": "f6bf6b3022619daed63478b2ce10e616d71f4a95d7ca2f92ee8253c5c2d63972"
+        },
+        {
+          "artworkId": "the-astronomer--johannes-vermeer",
+          "image": "variants/mobile-low/the-astronomer--johannes-vermeer.webp",
+          "width": 676,
+          "height": 768,
+          "imageBytes": 42312,
+          "sha256": "d87d873430227310ec83399942b3fc5ab8ff4480bceed124a67eb34216877480",
+          "sourceSha256": "56ef3d6e02a6330aed852b2f36758b46c4e8ef4a94935ee25c008b24017c2d15"
+        },
+        {
+          "artworkId": "the-geographer--johannes-vermeer",
+          "image": "variants/mobile-low/the-geographer--johannes-vermeer.webp",
+          "width": 685,
+          "height": 768,
+          "imageBytes": 60112,
+          "sha256": "3a009ec3a5267f4cf8381cb48de491808ac2c439c5989ae19b6b4f0865141e55",
+          "sourceSha256": "097842010eb9a8cbc01c2e2df0b36233df87bd18ef6dc1a19480e91c53fae36c"
+        },
+        {
+          "artworkId": "portrait-of-the-lavoisiers--jacques-louis-david",
+          "image": "variants/mobile-low/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+          "width": 576,
+          "height": 768,
+          "imageBytes": 30070,
+          "sha256": "a7a42dacdf2d95a605661308ab6424ee934179d9da67c09988d3d85d5dab18df",
+          "sourceSha256": "d5d4191d65907a5a08746b0c938eca2485a86a03251c928f43b5ad18fb4dd1ec"
+        },
+        {
+          "artworkId": "newton--william-blake",
+          "image": "variants/mobile-low/newton--william-blake.webp",
+          "width": 768,
+          "height": 591,
+          "imageBytes": 154168,
+          "sha256": "a87d8ba82b1da1b4c6432e43b5476bb9a3c085f87ad04036ce681cfaf68d35fc",
+          "sourceSha256": "559cfdbe07bbc3cb9d789eb4531692fc4ac36e339b9b9cd0df7474908fee0328"
+        },
+        {
+          "artworkId": "philosopher-in-meditation--rembrandt",
+          "image": "variants/mobile-low/philosopher-in-meditation--rembrandt.webp",
+          "width": 768,
+          "height": 638,
+          "imageBytes": 77360,
+          "sha256": "88c51d91a31e665cd7e4b90065261810f5a092b0a8cca3a1fc709c337f27d2af",
+          "sourceSha256": "4a684b1d99e2dd03d4ff780808c3210c7dd87a5d149a1cac237882289d016805"
+        },
+        {
+          "artworkId": "vitruvian-man--leonardo-da-vinci",
+          "image": "variants/mobile-low/vitruvian-man--leonardo-da-vinci.webp",
+          "width": 565,
+          "height": 768,
+          "imageBytes": 133956,
+          "sha256": "7e2840f4fc74d6f08f566186ee8d33391ddc1e326f9f6de19a8833f55fd3eb1b",
+          "sourceSha256": "a59ad3dd982e14dbb64f7c39baa53d543e3d1dfec161cc896c12088ee1ace928"
+        },
+        {
+          "artworkId": "the-gross-clinic--thomas-eakins",
+          "image": "variants/mobile-low/the-gross-clinic--thomas-eakins.webp",
+          "width": 619,
+          "height": 768,
+          "imageBytes": 49814,
+          "sha256": "e5f928f4da1f4e42f7d5e6862ace4a4cb7661da481504ce9ec4dcbf83ef4f750",
+          "sourceSha256": "66e31790fda49b438383eda4c5b8731a3bc82242f6456f1c9550888473fb325c"
+        },
+        {
+          "artworkId": "albert-einstein-1924--leonid-pasternak",
+          "image": "variants/mobile-low/albert-einstein-1924--leonid-pasternak.webp",
+          "width": 611,
+          "height": 768,
+          "imageBytes": 118994,
+          "sha256": "bddacbc82b4445d6fd62d204532cc61700ec35f5ff82adf65c092ffb05346791",
+          "sourceSha256": "0f42b7e9e7e796c9eafc52541a9a4189d1135ef79e57c5ef2959e3ca5b6773b8"
+        },
+        {
+          "artworkId": "isaac-newton--godfrey-kneller",
+          "image": "variants/mobile-low/isaac-newton--godfrey-kneller.webp",
+          "width": 547,
+          "height": 768,
+          "imageBytes": 71410,
+          "sha256": "2a4df86c87757a811e1e98efde6e2a8624f3d3a4ac08d8001e5f7b99098d0120",
+          "sourceSha256": "d8a059d7c35757df551d77e84e267c5e3c3a61f196de148ed50df0188b5dc8f6"
+        },
+        {
+          "artworkId": "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+          "image": "variants/mobile-low/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+          "width": 542,
+          "height": 768,
+          "imageBytes": 20982,
+          "sha256": "9daad8495b61724b311c8b44f4a116b660f3e5c8cc989704745269efc62ebded",
+          "sourceSha256": "b97bf22f446bbfe17bcbfab70586e8ff97ed1dca004eec4fe638399f47ff8fb6"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "schema": "aeternum-artist-profiles@1",
+  "editorialNote": "Concise introductory curatorial summaries; approximate dates and activity periods are used where appropriate. Timeline sorting uses an approximate birth or activity year, not a definitive chronology. Selected institutional references are provided; remaining profiles are editorial summaries pending full scholarly review.",
+  "artists": {
+    "Leonardo da Vinci": {
+      "dates": "1452–1519",
+      "timelineYear": 1452,
+      "movement": "Italian Renaissance",
+      "biography": "Painter, engineer and investigator of nature, Leonardo treated observation and drawing as complementary tools. His studies of anatomy, optics and proportion connect painting with scientific inquiry.",
+      "context": "Look for soft transitions of light and shade (sfumato), natural gestures and carefully observed anatomy.",
+      "references": []
+    },
+    "Raphael": {
+      "dates": "1483–1520",
+      "timelineYear": 1483,
+      "movement": "High Renaissance",
+      "biography": "Raphael developed harmonious compositions combining classical architecture, idealized figures and clear spatial organization. He worked in Florence and Rome, including major Vatican fresco commissions.",
+      "context": "The School of Athens places philosophical inquiry within a balanced architectural setting.",
+      "references": []
+    },
+    "Fra Angelico": {
+      "dates": "c. 1395–1455",
+      "timelineYear": 1395,
+      "movement": "Early Renaissance",
+      "biography": "A Dominican friar and painter, Fra Angelico combined devotional imagery with emerging Renaissance approaches to space and light. His frescoes at San Marco in Florence were made for a religious community.",
+      "context": "Notice the quiet gestures, restrained architecture and contemplative use of color.",
+      "references": []
+    },
+    "Sandro Botticelli": {
+      "dates": "c. 1445–1510",
+      "timelineYear": 1445,
+      "movement": "Florentine Renaissance",
+      "biography": "Botticelli painted religious and mythological subjects in Florence. His graceful contours, rhythmic figures and poetic imagery reflect the city's humanist culture.",
+      "context": "Primavera invites attention to allegory, movement and the arrangement of figures.",
+      "references": []
+    },
+    "Giotto": {
+      "dates": "c. 1267–1337",
+      "timelineYear": 1267,
+      "movement": "Late medieval / Proto-Renaissance",
+      "biography": "Giotto helped transform Italian painting through substantial figures, spatial settings and emotionally direct storytelling. His fresco cycles became influential models for later painters.",
+      "context": "The Lamentation uses gestures and a shared direction of attention to express grief.",
+      "references": []
+    },
+    "Michelangelo": {
+      "dates": "1475–1564",
+      "timelineYear": 1475,
+      "movement": "High Renaissance",
+      "biography": "Michelangelo was a sculptor, painter and architect whose study of the human body shaped monumental works. His Sistine Chapel ceiling combines biblical narrative with complex figure compositions.",
+      "context": "The Creation of Adam uses the tension between two nearly touching hands as a visual focal point.",
+      "references": []
+    },
+    "Jan van Eyck": {
+      "dates": "c. 1390–1441",
+      "timelineYear": 1390,
+      "movement": "Early Netherlandish painting",
+      "biography": "Van Eyck refined the expressive possibilities of oil painting, creating richly detailed surfaces and convincing reflections. He worked at the Burgundian court.",
+      "context": "Observe the mirror, textiles and tiny details in the Arnolfini Portrait.",
+      "references": []
+    },
+    "Titian": {
+      "dates": "c. 1488–1576",
+      "timelineYear": 1488,
+      "movement": "Venetian Renaissance",
+      "biography": "Titian became a leading Venetian painter, known for his portraits, mythological pictures and sophisticated color. His handling of paint grew increasingly free over his long career.",
+      "context": "Compare the warm flesh tones and fabric in Venus of Urbino with Florentine emphasis on line.",
+      "references": []
+    },
+    "Johannes Vermeer": {
+      "dates": "1632–1675",
+      "timelineYear": 1632,
+      "movement": "Dutch Golden Age",
+      "biography": "Vermeer worked in Delft and is celebrated for carefully composed interiors and luminous effects. His paintings often transform everyday activities into quiet studies of light and attention.",
+      "context": "Compare window light, reflective surfaces and the geometry of his interior scenes.",
+      "references": []
+    },
+    "Rembrandt": {
+      "dates": "1606–1669",
+      "timelineYear": 1606,
+      "movement": "Dutch Golden Age",
+      "biography": "Rembrandt produced portraits, narrative paintings, drawings and prints. His expressive brushwork and contrast of light and shadow gave faces and scenes psychological depth.",
+      "context": "Compare the group portrait in The Night Watch with the intimate atmosphere of his other works.",
+      "references": []
+    },
+    "Caravaggio": {
+      "dates": "1571–1610",
+      "timelineYear": 1571,
+      "movement": "Italian Baroque",
+      "biography": "Caravaggio brought direct naturalism and strong contrasts of light into religious and narrative painting. His work influenced painters across Europe.",
+      "context": "Notice how a dramatic shaft of light and ordinary human gestures guide the narrative.",
+      "references": []
+    },
+    "Jean-Honoré Fragonard": {
+      "dates": "1732–1806",
+      "timelineYear": 1732,
+      "movement": "Rococo",
+      "biography": "Fragonard painted playful, intimate and decorative scenes using energetic brushwork. His art belongs to the culture of eighteenth-century French Rococo.",
+      "context": "The Swing uses lush foliage, movement and a theatrical arrangement of figures.",
+      "references": []
+    },
+    "Artemisia Gentileschi": {
+      "dates": "1593–c. 1654",
+      "timelineYear": 1593,
+      "movement": "Italian Baroque",
+      "biography": "Gentileschi became an accomplished painter in a profession dominated by men. Her biblical and historical scenes often feature determined women, dramatic lighting and forceful action.",
+      "context": "Consider the physical effort and directional movement in her depiction of Judith.",
+      "references": []
+    },
+    "Peter Paul Rubens": {
+      "dates": "1577–1640",
+      "timelineYear": 1577,
+      "movement": "Flemish Baroque",
+      "biography": "Rubens led a prominent Antwerp workshop and worked as a diplomat. His large altarpieces and mythological paintings are distinguished by energetic figures, color and movement.",
+      "context": "The Elevation of the Cross organizes the scene around a powerful diagonal.",
+      "references": []
+    },
+    "Diego Velázquez": {
+      "dates": "1599–1660",
+      "timelineYear": 1599,
+      "movement": "Spanish Baroque",
+      "biography": "Velázquez served as a painter at the Spanish royal court. His portraits and other subjects display an economical handling of paint and keen observation of space and appearance.",
+      "context": "The Rokeby Venus explores reflection, pose and the relationship between viewer and subject.",
+      "references": []
+    },
+    "Caspar David Friedrich": {
+      "dates": "1774–1840",
+      "timelineYear": 1774,
+      "movement": "German Romanticism",
+      "biography": "Friedrich made landscapes that express solitude, contemplation and the encounter between humanity and nature. His figures often face away from the viewer toward expansive scenery.",
+      "context": "The wanderer becomes a stand-in for the viewer confronting the sublime landscape.",
+      "references": []
+    },
+    "Jacques-Louis David": {
+      "dates": "1748–1825",
+      "timelineYear": 1748,
+      "movement": "Neoclassicism",
+      "biography": "David revived the visual language of classical antiquity in paintings of moral choice, politics and public life. His career spanned the French Revolution and the Napoleonic period.",
+      "context": "Compare the clear outlines, staged gestures and carefully organized groups in his historical scenes.",
+      "references": []
+    },
+    "John Constable": {
+      "dates": "1776–1837",
+      "timelineYear": 1776,
+      "movement": "British Romantic landscape",
+      "biography": "Constable painted the countryside of southern England with close attention to weather, clouds and familiar rural places. His outdoor studies informed ambitious finished landscapes.",
+      "context": "The Hay Wain rewards close attention to changing light and the relationship of water, sky and land.",
+      "references": []
+    },
+    "Eugène Delacroix": {
+      "dates": "1798–1863",
+      "timelineYear": 1798,
+      "movement": "French Romanticism",
+      "biography": "Delacroix used expressive color and dynamic compositions in historical, literary and political subjects. His approach became influential for later explorations of color.",
+      "context": "Liberty Leading the People uses an allegorical figure amid the upheaval of the July Revolution of 1830.",
+      "references": []
+    },
+    "Francisco Goya": {
+      "dates": "1746–1828",
+      "timelineYear": 1746,
+      "movement": "Spanish Romantic-era painting",
+      "biography": "Goya worked as a court painter while also making penetrating prints and images of violence, fear and social criticism. His late Black Paintings explore disturbing subjects.",
+      "context": "Saturn belongs to the late works made for the walls of his home, rather than a conventional public commission.",
+      "references": []
+    },
+    "Jean-François Millet": {
+      "dates": "1814–1875",
+      "timelineYear": 1814,
+      "movement": "Realism / Barbizon School",
+      "biography": "Millet made rural labor central to his art, lending dignity and monumentality to agricultural workers. He worked in Barbizon, near the forest of Fontainebleau.",
+      "context": "The Gleaners emphasizes repetitive labor through the bent figures and expansive harvest landscape.",
+      "references": []
+    },
+    "Théodore Géricault": {
+      "dates": "1791–1824",
+      "timelineYear": 1791,
+      "movement": "French Romanticism",
+      "biography": "Géricault pursued intense, contemporary subjects and studied anatomy and movement. His large paintings challenged conventional heroic history painting.",
+      "context": "The Raft of the Medusa turns a recent maritime disaster into a dramatic composition of desperation and hope.",
+      "references": []
+    },
+    "Henry Fuseli": {
+      "dates": "1741–1825",
+      "timelineYear": 1741,
+      "movement": "Romantic-era painting",
+      "biography": "Swiss-born Fuseli worked in Britain, painting literary, supernatural and imaginative subjects. His exaggerated figures and dramatic staging explore dreams and fear.",
+      "context": "The Nightmare combines familiar surroundings with unsettling supernatural imagery.",
+      "references": []
+    },
+    "J. M. W. Turner": {
+      "dates": "1775–1851",
+      "timelineYear": 1775,
+      "movement": "British Romanticism",
+      "biography": "Turner explored atmospheric light, weather and the changing relationship between nature and technology. His increasingly expressive landscapes influenced later painters.",
+      "context": "The Fighting Temeraire contrasts an old sailing warship with a steam-powered tug.",
+      "references": []
+    },
+    "Ivan Aivazovsky": {
+      "dates": "1817–1900",
+      "timelineYear": 1817,
+      "movement": "Romantic marine painting",
+      "biography": "Aivazovsky, an Armenian painter born in the Russian Empire, became renowned for seascapes and the expressive depiction of waves and light.",
+      "context": "The Ninth Wave contrasts the danger of the sea with luminous atmospheric effects.",
+      "references": []
+    },
+    "Edvard Munch": {
+      "dates": "1863–1944",
+      "timelineYear": 1863,
+      "movement": "Symbolism / Expressionism",
+      "biography": "Munch explored anxiety, love, illness and mortality through painting and printmaking. His expressive color and simplified forms helped shape modern art.",
+      "context": "The Scream turns psychological tension into a rhythmic landscape and figure.",
+      "references": []
+    },
+    "Vincent van Gogh": {
+      "dates": "1853–1890",
+      "timelineYear": 1853,
+      "movement": "Post-Impressionism",
+      "biography": "Van Gogh developed a distinctive language of intense color, directional brushwork and expressive observation. His landscapes, interiors and still lifes record the places and objects around him.",
+      "context": "Compare the emotional effects of color and brushwork in his night scenes and still lifes.",
+      "references": []
+    },
+    "Paul Cézanne": {
+      "dates": "1839–1906",
+      "timelineYear": 1839,
+      "movement": "Post-Impressionism",
+      "biography": "Cézanne investigated how color and simplified forms can construct pictorial space. His landscapes, still lifes and figure paintings influenced twentieth-century modernism.",
+      "context": "The Card Players reduces a familiar activity to a concentrated arrangement of shapes and tones.",
+      "references": []
+    },
+    "Gustav Klimt": {
+      "dates": "1862–1918",
+      "timelineYear": 1862,
+      "movement": "Vienna Secession / Symbolism",
+      "biography": "Klimt helped found the Vienna Secession and developed a decorative visual language combining figures, pattern and symbolism. His golden-period paintings often blur the boundary between ornament and image.",
+      "context": "The Kiss contrasts geometric patterns and flowing decorative forms with intimate human figures.",
+      "references": []
+    },
+    "Claude Monet": {
+      "dates": "1840–1926",
+      "timelineYear": 1840,
+      "movement": "Impressionism",
+      "biography": "Monet explored changing light and atmosphere through repeated observations of landscapes and everyday settings. He was a central figure in the Impressionist exhibitions.",
+      "context": "Impression, Sunrise emphasizes the fleeting effect of light over sharply defined detail.",
+      "references": []
+    },
+    "Pierre-Auguste Renoir": {
+      "dates": "1841–1919",
+      "timelineYear": 1841,
+      "movement": "Impressionism",
+      "biography": "Renoir painted figures, portraits and scenes of social life with luminous color and a lively handling of paint. His later work increasingly emphasized solid figure forms.",
+      "context": "Luncheon of the Boating Party brings together varied gestures and interactions in a sunlit setting.",
+      "references": []
+    },
+    "Edward Hopper": {
+      "dates": "1882–1967",
+      "timelineYear": 1882,
+      "movement": "American Realism",
+      "biography": "Hopper painted urban and rural American settings, often using architecture and light to create a sense of isolation or suspended narrative.",
+      "context": "Nighthawks juxtaposes a brightly lit diner with the surrounding night streets.",
+      "references": []
+    },
+    "Grant Wood": {
+      "dates": "1891–1942",
+      "timelineYear": 1891,
+      "movement": "American Regionalism",
+      "biography": "Wood depicted Midwestern American life with precise forms and carefully organized compositions. His art often combines regional identity with irony and stylization.",
+      "context": "American Gothic uses frontality, repeated verticals and a distinctive architectural backdrop.",
+      "references": []
+    },
+    "Kazimir Malevich": {
+      "dates": "1879–1935",
+      "timelineYear": 1879,
+      "movement": "Suprematism",
+      "biography": "Malevich developed Suprematism, an approach to non-objective art based on elementary forms and color. He sought to move painting beyond representation.",
+      "context": "Black Square makes the painted geometric form itself the subject of attention.",
+      "references": []
+    },
+    "Katsushika Hokusai": {
+      "dates": "1760–1849",
+      "timelineYear": 1760,
+      "movement": "Edo-period ukiyo-e",
+      "biography": "Hokusai was a Japanese print designer and painter whose subjects ranged from landscape to everyday life. His Thirty-six Views of Mount Fuji became especially influential.",
+      "context": "Compare the dramatic cropping of The Great Wave with the simplified silhouette of Red Fuji.",
+      "references": []
+    },
+    "Osman Hamdi Bey": {
+      "dates": "1842–1910",
+      "timelineYear": 1842,
+      "movement": "Late Ottoman painting",
+      "biography": "An Ottoman painter, archaeologist and museum administrator, Osman Hamdi Bey helped establish institutions for art education and the preservation of antiquities. His paintings engage with historical architecture and cultural identity.",
+      "context": "The Tortoise Trainer sets a solitary figure within an intricately ornamented architectural space.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://www.peramuseum.org/Publications/Detail/osman-hamdi-bey-/235"
+        }
+      ]
+    },
+    "Zhang Zeduan": {
+      "dates": "Active early 12th century",
+      "timelineYear": 1100,
+      "movement": "Northern Song handscroll painting",
+      "biography": "Zhang Zeduan is associated with the celebrated Qingming handscroll. Secure biographical information is limited; the work offers a densely observed panorama of urban and river life.",
+      "context": "A handscroll unfolds in stages, allowing the viewer to explore numerous incidents rather than a single fixed scene.",
+      "references": []
+    },
+    "Ogata Kōrin": {
+      "dates": "1658–1716",
+      "timelineYear": 1658,
+      "movement": "Rinpa school",
+      "biography": "Kōrin developed a highly decorative Japanese painting style using stylized natural motifs, bold design and lavish surfaces. His work is central to the tradition later called Rinpa.",
+      "context": "The plum blossom screens transform trees and water into rhythmic patterns.",
+      "references": []
+    },
+    "Wang Ximeng": {
+      "dates": "Active early 12th century",
+      "timelineYear": 1113,
+      "movement": "Northern Song landscape",
+      "biography": "Wang Ximeng is known for the monumental blue-and-green landscape handscroll A Thousand Li of Rivers and Mountains, dated 1113. Little is securely known of his life beyond the court context associated with the work.",
+      "context": "Mineral colors, layered mountain forms and the unfolding handscroll format create a vast imagined landscape.",
+      "references": []
+    },
+    "Raja Ravi Varma": {
+      "dates": "1848–1906",
+      "timelineYear": 1848,
+      "movement": "Indian academic painting",
+      "biography": "Ravi Varma combined European academic oil-painting techniques with subjects drawn from Indian literature, mythology and society. Reproductions of his work helped circulate these images widely.",
+      "context": "Shakuntala brings a literary narrative into a closely observed figurative scene.",
+      "references": []
+    },
+    "Juan Luna": {
+      "dates": "1857–1899",
+      "timelineYear": 1857,
+      "movement": "Philippine academic painting",
+      "biography": "Luna trained and worked in Europe and became internationally recognized for ambitious historical paintings. His career is central to the history of nineteenth-century Philippine art.",
+      "context": "Compare the monumental Spoliarium with the more intimate Parisian Life.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://rizal.nationalmuseum.gov.ph/scholar/juan-luna/"
+        }
+      ]
+    },
+    "Félix Resurrección Hidalgo": {
+      "dates": "1855–1913",
+      "timelineYear": 1855,
+      "movement": "Philippine academic painting",
+      "biography": "Hidalgo was a Filipino painter and contemporary of Juan Luna. His paintings include historical, literary and landscape subjects, and his work received recognition in European exhibitions.",
+      "context": "Observe how the arrangement of vulnerable figures communicates the violence of the scene.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://rizal.nationalmuseum.gov.ph/scholar/felix-resurreccion-hidalgo/"
+        }
+      ]
+    },
+    "Joseph Wright of Derby": {
+      "dates": "1734–1797",
+      "timelineYear": 1734,
+      "movement": "Enlightenment painting",
+      "biography": "Wright made scientific demonstrations, industrial subjects and candlelit scenes central to his art. His paintings reflect eighteenth-century interest in experiment, observation and discovery.",
+      "context": "Compare the spectators and carefully staged light in his three scientific scenes.",
+      "references": []
+    },
+    "William Blake": {
+      "dates": "1757–1827",
+      "timelineYear": 1757,
+      "movement": "Romantic-era visionary art",
+      "biography": "Blake was a poet, printmaker and painter who developed a personal symbolic universe. He often questioned the limits of narrowly rational explanations of human experience.",
+      "context": "Newton is a symbolic representation, not a documentary portrait of the scientist.",
+      "references": []
+    },
+    "Thomas Eakins": {
+      "dates": "1844–1916",
+      "timelineYear": 1844,
+      "movement": "American Realism",
+      "biography": "Eakins pursued precise observation of the human body through painting, drawing and photography. His portraits and scenes of medical and sporting activity reflect this interest.",
+      "context": "The Gross Clinic portrays surgery as an arena of professional skill and observation.",
+      "references": []
+    },
+    "Erich Büttner": {
+      "dates": "1889–1936",
+      "timelineYear": 1889,
+      "movement": "Early twentieth-century German painting",
+      "biography": "Büttner was a German painter and graphic artist whose work includes portraits of prominent contemporaries. His Einstein portrait records the physicist during the early period of relativity's reception.",
+      "context": "The portrait provides a human counterpart to the abstract ideas associated with Einstein.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://search.smb.museum/object/obj-966106"
+        }
+      ]
+    },
+    "Leonid Pasternak": {
+      "dates": "1862–1945",
+      "timelineYear": 1862,
+      "movement": "Russian painting / portraiture",
+      "biography": "Pasternak was a painter and illustrator known for portraits and scenes of intellectual and cultural life. His works include images of prominent writers and thinkers.",
+      "context": "The Einstein portrait belongs to the museum's group of artistic interpretations of the physicist.",
+      "references": []
+    },
+    "Godfrey Kneller": {
+      "dates": "1646–1723",
+      "timelineYear": 1646,
+      "movement": "Baroque portraiture",
+      "biography": "German-born Kneller became a prominent portrait painter in Britain, working for royal and aristocratic patrons as well as intellectual figures.",
+      "context": "His Newton portrait presents the scientist through the conventions of formal portraiture.",
+      "references": []
+    },
+    "Vilma Lwoff-Parlaghy": {
+      "dates": "1863–1923",
+      "timelineYear": 1863,
+      "movement": "Academic portraiture",
+      "biography": "Hungarian-born Lwoff-Parlaghy specialized in portraits of notable sitters. Her Blue Portrait of Nikola Tesla was shown in 1916 under specially arranged lighting.",
+      "context": "The distinctive blue cast connects portraiture with Tesla's interest in artificial illumination.",
+      "references": [
+        {
+          "label": "Institutional reference",
+          "url": "https://tesla-museum.org/en/qr-en/exhibit-059/"
+        }
+      ]
+    }
+  }
+}

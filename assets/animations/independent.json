@@ -1,0 +1,178 @@
+{
+  "version": 4,
+  "clips": {
+    "idle": {
+      "src": "./idle.vrma",
+      "format": "vrma",
+      "secondaryNodes": "compatible",
+      "loop": "repeat",
+      "speed": 1
+    },
+    "walk": {
+      "src": "./walk.vrma",
+      "format": "vrma",
+      "secondaryNodes": "portable",
+      "loop": "repeat",
+      "speed": 1
+    },
+    "jump": {
+      "src": "./jump.vrma",
+      "format": "vrma",
+      "secondaryNodes": "portable",
+      "loop": "once",
+      "speed": 1
+    }
+  },
+  "actions": {
+    "idle": {
+      "clip": "idle",
+      "mode": "locomotion",
+      "layer": "locomotion",
+      "priority": 0,
+      "crossFade": 0.18,
+      "queue": "replace"
+    },
+    "walk": {
+      "clip": "walk",
+      "mode": "locomotion",
+      "layer": "locomotion",
+      "priority": 0,
+      "crossFade": 0.16,
+      "queue": "replace",
+      "events": [
+        {
+          "name": "footstep",
+          "at": 0.18,
+          "data": {
+            "foot": "left"
+          }
+        },
+        {
+          "name": "footstep",
+          "at": 0.68,
+          "data": {
+            "foot": "right"
+          }
+        }
+      ]
+    },
+    "walkBackward": {
+      "clip": "walk",
+      "mode": "locomotion",
+      "layer": "locomotion",
+      "priority": 0,
+      "crossFade": 0.14,
+      "queue": "replace",
+      "events": [
+        {
+          "name": "footstep",
+          "at": 0.18,
+          "data": {
+            "foot": "left"
+          }
+        },
+        {
+          "name": "footstep",
+          "at": 0.68,
+          "data": {
+            "foot": "right"
+          }
+        }
+      ]
+    },
+    "strafeLeft": {
+      "clip": "walk",
+      "mode": "locomotion",
+      "layer": "locomotion",
+      "priority": 0,
+      "crossFade": 0.12,
+      "queue": "replace",
+      "events": [
+        {
+          "name": "footstep",
+          "at": 0.18,
+          "data": {
+            "foot": "left"
+          }
+        },
+        {
+          "name": "footstep",
+          "at": 0.68,
+          "data": {
+            "foot": "right"
+          }
+        }
+      ]
+    },
+    "strafeRight": {
+      "clip": "walk",
+      "mode": "locomotion",
+      "layer": "locomotion",
+      "priority": 0,
+      "crossFade": 0.12,
+      "queue": "replace",
+      "events": [
+        {
+          "name": "footstep",
+          "at": 0.18,
+          "data": {
+            "foot": "left"
+          }
+        },
+        {
+          "name": "footstep",
+          "at": 0.68,
+          "data": {
+            "foot": "right"
+          }
+        }
+      ]
+    },
+    "run": {
+      "clip": "walk",
+      "mode": "locomotion",
+      "layer": "locomotion",
+      "priority": 0,
+      "crossFade": 0.1,
+      "queue": "replace",
+      "events": [
+        {
+          "name": "footstep",
+          "at": 0.18,
+          "data": {
+            "foot": "left",
+            "intensity": "run"
+          }
+        },
+        {
+          "name": "footstep",
+          "at": 0.68,
+          "data": {
+            "foot": "right",
+            "intensity": "run"
+          }
+        }
+      ]
+    },
+    "jump": {
+      "clip": "jump",
+      "mode": "locomotion",
+      "layer": "locomotion",
+      "loop": "once",
+      "priority": 5,
+      "crossFade": 0.08,
+      "queue": "replace",
+      "events": [
+        {
+          "name": "takeoff",
+          "at": 0.06
+        }
+      ]
+    },
+    "soloPreview": {
+      "clip": "walk",
+      "mode": "emote",
+      "loop": "repeat"
+    }
+  }
+}

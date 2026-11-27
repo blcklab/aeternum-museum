@@ -1,0 +1,16 @@
+{
+  "schema": "anyo-web-app@1",
+  "id": "reception",
+  "title": "AETERNUM Visitor Directory",
+  "entry": "./index.html",
+  "description": "Interactive museum floor plan, visitor directory and host-enabled gallery navigation.",
+  "texture": {
+    "entry": "./texture.html",
+    "width": 1920,
+    "height": 1080
+  },
+  "shortcut": {
+    "key": "KeyM",
+    "label": "Museum Directory"
+  }
+}

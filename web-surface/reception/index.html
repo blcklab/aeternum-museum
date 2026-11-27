@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>AETERNUM Visitor Directory</title><link rel="stylesheet" href="./style.css"><script type="module" src="./app.js"></script></head>
+<body><main><header><div><p class="kicker">BLCK LAB / MUSEUM INFORMATION</p><h1>AETERNUM <span>/</span> <small>Explore</small></h1></div><span id="connection" role="status">Directory mode</span></header>
+<nav class="directory-tabs" aria-label="Explore modes"><button type="button" id="free-tab" aria-pressed="true">Free exploration</button><button type="button" id="tours-tab" aria-pressed="false">Guided tours</button><button type="button" id="settings-tab" aria-expanded="false" aria-controls="visitor-settings">Visitor settings</button></nav>
+<section id="visitor-settings" hidden aria-labelledby="settings-heading">
+<h2 id="settings-heading">Visitor settings</h2><p class="muted">Reading and camera comfort. Graphics quality is managed separately by World Loader.</p>
+<form id="visitor-form"><fieldset><legend>Camera</legend><p id="camera-status" class="muted">Camera settings require the approved Loader connection.</p>
+<label>Field of view <output id="fov-value">60°</output><input name="fieldOfView" type="range" min="45" max="90" step="1" value="60"></label>
+<label>Pointer look sensitivity <output id="pointer-value">1.00×</output><input name="pointerLookScale" type="range" min="0.5" max="2" step="0.05" value="1"></label>
+<label>Touch look sensitivity <output id="touch-value">1.00×</output><input name="touchLookScale" type="range" min="0.5" max="2" step="0.05" value="1"></label>
+<label class="visitor-check"><input type="checkbox" name="invertY"> Invert vertical look</label></fieldset>
+<fieldset><legend>Accessibility</legend><label>Directory text size <select name="textSize"><option value="100">Standard</option><option value="125">Large</option><option value="150">Extra large</option></select></label>
+<label class="visitor-check"><input type="checkbox" name="highContrast"> High contrast</label><label class="visitor-check"><input type="checkbox" name="reducedMotion"> Reduce interface motion</label></fieldset>
+<div class="visitor-actions"><button type="submit">Apply settings</button><button type="button" id="visitor-reset">Restore defaults</button></div><p id="visitor-feedback" role="status" aria-live="polite"></p></form></section>
+<div class="workspace"><section class="map-panel" aria-labelledby="map-title"><div class="section-heading"><h2 id="map-title">Floor plan</h2><span class="muted">N ↑</span></div><svg id="floor-plan" aria-label="Museum floor plan. Select a room to see the route from the entrance." xmlns="http://www.w3.org/2000/svg"></svg><div class="legend"><span><i class="start-dot"></i>Entrance reference</span><span><i class="route-line"></i>Suggested route</span></div></section>
+<section class="directory-panel" aria-labelledby="directory-title"><div class="section-heading"><h2 id="directory-title">Choose a destination</h2><span id="room-count" class="muted"></span></div><div id="directory" aria-label="Museum destinations"></div><div id="tour-panel" hidden aria-label="Guided tours"></div></section></div>
+<footer><div><p id="selection" aria-live="polite">Select a gallery to explore.</p><p id="status" role="status">Teleportation requires a trusted Loader connection.</p></div><button id="travel" disabled>Travel to gallery</button></footer></main></body></html>

@@ -1,0 +1,677 @@
+{
+  "schema": "blcklab-museum-texture-variants@1",
+  "profile": "balanced",
+  "maxEdge": 1536,
+  "artworks": [
+    {
+      "artworkId": "mona-lisa--leonardo-da-vinci",
+      "image": "variants/balanced/mona-lisa--leonardo-da-vinci.webp",
+      "width": 1030,
+      "height": 1536,
+      "imageBytes": 552292,
+      "sha256": "44c95823b025feecea41ace88721139bbf7d88174c9fb4653debd9d9cb4d80ca",
+      "sourceSha256": "235e6be6758c8b7253844038fc9c05bd5d24ebf72e59f16a6cad6b3a916b34fb",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-last-supper--leonardo-da-vinci",
+      "image": "variants/balanced/the-last-supper--leonardo-da-vinci.webp",
+      "width": 1536,
+      "height": 768,
+      "imageBytes": 340066,
+      "sha256": "1c04d1ee1591e3fca698c1632ce5e9727b8e12280652b3375e429ba954cafc24",
+      "sourceSha256": "0621043870788b280c37689da53eae08f99ff71bc6ef548283c232a5365e2aae",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-creation-of-adam--michelangelo",
+      "image": "variants/balanced/the-creation-of-adam--michelangelo.webp",
+      "width": 1536,
+      "height": 697,
+      "imageBytes": 269812,
+      "sha256": "925415828a111f399fb13b5cb51e4c1047050593908624a597737434b80b3b19",
+      "sourceSha256": "5803a707ce96816094d93ba07083beac316be5861da2afcd3cd93ef94fa74ff7",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-school-of-athens--raphael",
+      "image": "variants/balanced/the-school-of-athens--raphael.webp",
+      "width": 1536,
+      "height": 1192,
+      "imageBytes": 622694,
+      "sha256": "50e2e1a3599937f24bd607ca0df647c4bae18b86bf45934b74096b9b748d65ad",
+      "sourceSha256": "43618298c69fcc2440b2e3f185b7986e81c6a35092d7252bc111935f13e9c491",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "primavera--sandro-botticelli",
+      "image": "variants/balanced/primavera--sandro-botticelli.webp",
+      "width": 1536,
+      "height": 1009,
+      "imageBytes": 629306,
+      "sha256": "c83bc772397cbd565b276cb06e08060dc3ea0bae80ad95ce30da651242fbba70",
+      "sourceSha256": "56fa4b1c025fa6db31ef2e38d3586504075959cd19b3148354c11846ea1d3708",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-arnolfini-portrait--jan-van-eyck",
+      "image": "variants/balanced/the-arnolfini-portrait--jan-van-eyck.webp",
+      "width": 1123,
+      "height": 1536,
+      "imageBytes": 280606,
+      "sha256": "0b761d220ea0257c6379522d5e857ca29f5e0b1e39324fdcefe43e4d892fd8aa",
+      "sourceSha256": "ae29cfebce0f47918b8623694bab39280631e0e1c79647593348f2d956d09dca",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "lady-with-an-ermine--leonardo-da-vinci",
+      "image": "variants/balanced/lady-with-an-ermine--leonardo-da-vinci.webp",
+      "width": 1142,
+      "height": 1536,
+      "imageBytes": 254294,
+      "sha256": "82e2df48fb5d60a35d5d8696f804a5dffc6a18624805fb9ff607f71848d4a48b",
+      "sourceSha256": "644ca2749b5e9ad9f0c464d1475eedec6def05b010acab73d542b18ba8d61d6e",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "sistine-madonna--raphael",
+      "image": "variants/balanced/sistine-madonna--raphael.webp",
+      "width": 1120,
+      "height": 1536,
+      "imageBytes": 639808,
+      "sha256": "060582584f6f7aafb3492f715fa7344d43cc209ba5308d77c85484dfcae4c175",
+      "sourceSha256": "8b324983a0ab97fae4760b3c5b4527dd8d2bf7cf9fbaf4f5ec0fd963d42b2bbd",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "venus-of-urbino--titian",
+      "image": "variants/balanced/venus-of-urbino--titian.webp",
+      "width": 1536,
+      "height": 1080,
+      "imageBytes": 362008,
+      "sha256": "15222cf4a8faa73e15b69dcbb05c890866ba32e465f46a8bd60d7643a6ed2aa3",
+      "sourceSha256": "38a93fa45ee11d60f9e2c2d33fe9139de96a4262b32b5af2699bd156b79fe6e6",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-annunciation--fra-angelico",
+      "image": "variants/balanced/the-annunciation--fra-angelico.webp",
+      "width": 1536,
+      "height": 1115,
+      "imageBytes": 403238,
+      "sha256": "a38374a3935d1c7ce6a5592afd6ab8ed4be04224e15f12c85242c99328f1c344",
+      "sourceSha256": "dabd0a21d8f8863085126ceebbd60e53e86db369adf85ed738221369ee6d4ffc",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-lamentation--giotto",
+      "image": "variants/balanced/the-lamentation--giotto.webp",
+      "width": 1536,
+      "height": 1445,
+      "imageBytes": 669764,
+      "sha256": "09af50cdc3eee0421d108b62258f640cee93d27eea79acf7cede20f32348edf0",
+      "sourceSha256": "a819c2a4da6cfffcbbf61a76e011b7971e604fbd3a3555f28782bf85a87077de",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "girl-with-a-pearl-earring--johannes-vermeer",
+      "image": "variants/balanced/girl-with-a-pearl-earring--johannes-vermeer.webp",
+      "width": 1297,
+      "height": 1536,
+      "imageBytes": 509390,
+      "sha256": "2404a1238c8666a7d63f58538747611013d0845556d6701fca0e961bea92f59d",
+      "sourceSha256": "a05230e51abf5e6ea17cb62c9e5e785da717b8ca26b8f166942c20dd9b824e66",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-night-watch--rembrandt",
+      "image": "variants/balanced/the-night-watch--rembrandt.webp",
+      "width": 1536,
+      "height": 1250,
+      "imageBytes": 352452,
+      "sha256": "cc9dffc6dd20a8148e78fc977158b58fa1f51b99dec313a35a3d03ea725f5cda",
+      "sourceSha256": "b9e9c8be02e74bf8eeb3eaf2e6d7f8c820ea21e19bc09dabbe0ff5b468336873",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-calling-of-saint-matthew--caravaggio",
+      "image": "variants/balanced/the-calling-of-saint-matthew--caravaggio.webp",
+      "width": 1536,
+      "height": 1451,
+      "imageBytes": 383490,
+      "sha256": "cd699615cebbb4f113f62db7b7c3659c693c8a44bdc524ae0994ede78a90a230",
+      "sourceSha256": "cb82e84f7cc6c5e1da2aab77e8284fe6e79c6846679e25e2cf169c6a5dd5cb72",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-milkmaid--johannes-vermeer",
+      "image": "variants/balanced/the-milkmaid--johannes-vermeer.webp",
+      "width": 1366,
+      "height": 1536,
+      "imageBytes": 399962,
+      "sha256": "9b210fa29c123e6d303cd39e3fb86d01ef6ff9ea666300c86390629900224007",
+      "sourceSha256": "101653d4191f66c6e8b8eb0ec2b97bb0067f6d9118fb8a31186f96dac3602471",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "image": "variants/balanced/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+      "width": 1536,
+      "height": 1157,
+      "imageBytes": 233454,
+      "sha256": "f77b03e7f9c7b7b6af815b3e22bc8805131f93f7ea5363a2233ca28a00cf9fbc",
+      "sourceSha256": "8ed4f9a0c796ee092fc55f454cce3b004fe277a3a8231f46f17e734cdfac240f",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "judith-beheading-holofernes--artemisia-gentileschi",
+      "image": "variants/balanced/judith-beheading-holofernes--artemisia-gentileschi.webp",
+      "width": 1263,
+      "height": 1536,
+      "imageBytes": 246660,
+      "sha256": "56358d3705fbcaf67b15e49d33e63b1ad7b3a41c5dda654a4de6163208a63caf",
+      "sourceSha256": "976fae627dd2ca8e022977143ef9f1cde82509356a6e15252f6ede3244a75740",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-storm-on-the-sea-of-galilee--rembrandt",
+      "image": "variants/balanced/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+      "width": 1236,
+      "height": 1536,
+      "imageBytes": 243448,
+      "sha256": "f0f797fcb6b3dd18fb77b71512be48c5b08eb276a73de78a07a52c585929f691",
+      "sourceSha256": "cff5ee9b2d2689adf6751e354f5c38bf1e532444eb79d85960558b433f97e35e",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-swing--jean-honore-fragonard",
+      "image": "variants/balanced/the-swing--jean-honore-fragonard.webp",
+      "width": 1190,
+      "height": 1536,
+      "imageBytes": 549786,
+      "sha256": "6075269f54dd26844c027266ea6102fbe01a8882d7e2f4370403d4126c237dad",
+      "sourceSha256": "e95ac2c62b623862bc60a4100e8cc45800141d0bc50a2e7d98c8ef8c18a39628",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-elevation-of-the-cross--peter-paul-rubens",
+      "image": "variants/balanced/the-elevation-of-the-cross--peter-paul-rubens.webp",
+      "width": 1536,
+      "height": 1104,
+      "imageBytes": 227702,
+      "sha256": "6e948ccfa390d4dc206da6192b2e44bce520373a7a0730a3dc2e5bd07ea8fff1",
+      "sourceSha256": "3e6514f2e5149a214cc2512d882bd7b30260eda632aacc9546404f6158c2d19b",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-supper-at-emmaus--caravaggio",
+      "image": "variants/balanced/the-supper-at-emmaus--caravaggio.webp",
+      "width": 1536,
+      "height": 1092,
+      "imageBytes": 144964,
+      "sha256": "e089a29eee04b90305d4857266c4a5b3dbacb5c5894a9ba852ac1ee8fa351ab4",
+      "sourceSha256": "b75e731273b3576d098a8896929a6704e78425569349349327ce97497ab16457",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-art-of-painting--johannes-vermeer",
+      "image": "variants/balanced/the-art-of-painting--johannes-vermeer.webp",
+      "width": 1293,
+      "height": 1536,
+      "imageBytes": 349634,
+      "sha256": "4fce9b0eb5cbb9db43aebaab46d178f02be8e7f2c3f569f908d6e3aa4d262779",
+      "sourceSha256": "234e9badbe0468784e69ca9c88fa41f1e9d6569b6ad34ba240139f70015c563a",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-rokeby-venus--diego-velazquez",
+      "image": "variants/balanced/the-rokeby-venus--diego-velazquez.webp",
+      "width": 1536,
+      "height": 1054,
+      "imageBytes": 219004,
+      "sha256": "33f0dbccc52d7dd4c722aaa8713e465c8039dd21653040bea08c6026586ea851",
+      "sourceSha256": "4992c591eee8d1ffcdb79695c212c88de64444a7ab0f25cbedd9b03d179e4778",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "image": "variants/balanced/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+      "width": 1198,
+      "height": 1536,
+      "imageBytes": 418454,
+      "sha256": "2a7d4aa3faa68d1f2d7e6733ee8704444178e698184600282f1580911b219c22",
+      "sourceSha256": "3016f7a59f6cf4fa2271ff10a1d95085b4e439c97d38d6fcd608322563695cfd",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "liberty-leading-the-people--eugene-delacroix",
+      "image": "variants/balanced/liberty-leading-the-people--eugene-delacroix.webp",
+      "width": 1536,
+      "height": 1229,
+      "imageBytes": 335140,
+      "sha256": "8574d7e1ca2311585e81bd01465f895eded284690db2470289e76f6cd7a7ced6",
+      "sourceSha256": "5c4e88a348b7c852e72eeb69131d1b3817027695a31f2cf9f8ffd8ce032c2857",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-raft-of-the-medusa--theodore-gericault",
+      "image": "variants/balanced/the-raft-of-the-medusa--theodore-gericault.webp",
+      "width": 1536,
+      "height": 1049,
+      "imageBytes": 473092,
+      "sha256": "90f2a1283d46a2a5bdec9d315d69fa6cf173f5dc9fc9b531510a23ae26bfebc3",
+      "sourceSha256": "5ffdfb4dde11e6efa3244e8026cbd8653348865c27224040a80eaa8731c3fd5e",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-death-of-socrates--jacques-louis-david",
+      "image": "variants/balanced/the-death-of-socrates--jacques-louis-david.webp",
+      "width": 1536,
+      "height": 1009,
+      "imageBytes": 154808,
+      "sha256": "d9ae264d63f0777fade40f0dc984a5196dbbd5e5ab725e5ec8b3a3528d2ac1f1",
+      "sourceSha256": "38a6fa26a0e27dacbd4216d679f8d634566894afe9f61b91b01e89327cf5bafe",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "saturn-devouring-his-son--francisco-goya",
+      "image": "variants/balanced/saturn-devouring-his-son--francisco-goya.webp",
+      "width": 836,
+      "height": 1536,
+      "imageBytes": 359312,
+      "sha256": "4e06d2e3ce8a013093aa6f3deaab5ccb1a29905becb719c044ff4e26cb5b0636",
+      "sourceSha256": "2e5df1a88958b6f25ff5a299a912013621b1bb72c756206ac0c95e70fe586204",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-nightmare--henry-fuseli",
+      "image": "variants/balanced/the-nightmare--henry-fuseli.webp",
+      "width": 1536,
+      "height": 1233,
+      "imageBytes": 329064,
+      "sha256": "2a25d0023d5ba1e20f5413729cfca2e9a8a1550859fabef540594c183d6e5d5c",
+      "sourceSha256": "f9299a459092fd0db366f5b740ea6160e4abc3c4e05ae125c66b6ca9e64359e2",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-oath-of-the-horatii--jacques-louis-david",
+      "image": "variants/balanced/the-oath-of-the-horatii--jacques-louis-david.webp",
+      "width": 1536,
+      "height": 1191,
+      "imageBytes": 296568,
+      "sha256": "6e6663e6a2a67c1793d95a638401280567d086aa88224b2fcb2d2db8745a1e0f",
+      "sourceSha256": "20e3453c93b78d685804522db8bf0401ebc09fb28f0f77e008f178570f78982d",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-death-of-marat--jacques-louis-david",
+      "image": "variants/balanced/the-death-of-marat--jacques-louis-david.webp",
+      "width": 1194,
+      "height": 1536,
+      "imageBytes": 269674,
+      "sha256": "806c0baab0343876785de0026ccc734abe3a71b9d97b4ce26c7b60a6f42a85d7",
+      "sourceSha256": "d52793d640aef6cc0ead003ac2695f57fd723ba8e970b72b634fb231df503a11",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-fighting-temeraire--j-m-w-turner",
+      "image": "variants/balanced/the-fighting-temeraire--j-m-w-turner.webp",
+      "width": 1536,
+      "height": 1142,
+      "imageBytes": 258100,
+      "sha256": "1951a65ac255cc8d80c6744c1774801ccc392b370954116e7fe81067091873df",
+      "sourceSha256": "bf74919c4f4a8ba9985a81ceb3e4a62498998c3533e054dadb11ed9113184f0d",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-hay-wain--john-constable",
+      "image": "variants/balanced/the-hay-wain--john-constable.webp",
+      "width": 1536,
+      "height": 1059,
+      "imageBytes": 514730,
+      "sha256": "75bad0c7e9c570633c51a67bc896d4fd6616948f12a46d403dcf47af9dafeef5",
+      "sourceSha256": "41073d7e9f323246159f328949b2849e999167e224f2e598b0d018f50b6afbce",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-gleaners--jean-francois-millet",
+      "image": "variants/balanced/the-gleaners--jean-francois-millet.webp",
+      "width": 1536,
+      "height": 1149,
+      "imageBytes": 445652,
+      "sha256": "c7dd3aecbcf6543b7d14548e95846286997026110dc2dfee761e1d0e1d834e4a",
+      "sourceSha256": "2bc50098cfd334175189dfc3a5a800ece57e21f8900c5c455566da5338931768",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-ninth-wave--ivan-aivazovsky",
+      "image": "variants/balanced/the-ninth-wave--ivan-aivazovsky.webp",
+      "width": 1536,
+      "height": 1032,
+      "imageBytes": 137580,
+      "sha256": "a35b0f1bb39d73992b6bb6514cfca48aeb94bd49c3b00316a1d39123ed52f220",
+      "sourceSha256": "954a4186864599777e55fb854717f7ea1120ac05ce9ea3086c2d58f1549c623e",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-scream--edvard-munch",
+      "image": "variants/balanced/the-scream--edvard-munch.webp",
+      "width": 1237,
+      "height": 1536,
+      "imageBytes": 480838,
+      "sha256": "6f65f85fc69ff65c19b929b245139426c31de9dd37603503e9e1a0eb10e2e7a7",
+      "sourceSha256": "1162633764c6b5d6e0d42f06ad6762fe4f21926f5141a61f2340e8a6b9baba5e",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-kiss--gustav-klimt",
+      "image": "variants/balanced/the-kiss--gustav-klimt.webp",
+      "width": 1531,
+      "height": 1536,
+      "imageBytes": 921216,
+      "sha256": "bf220d5c118e04d041a1cb1cd0f139660bd8a6d360d0fb88329940ea3f1b49da",
+      "sourceSha256": "7dc5795caad77602426e20ae40389285e31baf99a1501c61628eaf7f7f0fb930",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "impression-sunrise--claude-monet",
+      "image": "variants/balanced/impression-sunrise--claude-monet.webp",
+      "width": 1536,
+      "height": 1192,
+      "imageBytes": 392828,
+      "sha256": "bc58deea98d1203467c21eb195cbb908c2a878bb0852cc5490f074dfae055299",
+      "sourceSha256": "4444a99edf6f085d91aec76d83b17af7968170a1bb85c37451e5488ea0b67987",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "cafe-terrace-at-night--vincent-van-gogh",
+      "image": "variants/balanced/cafe-terrace-at-night--vincent-van-gogh.webp",
+      "width": 1231,
+      "height": 1536,
+      "imageBytes": 545478,
+      "sha256": "ec84dbfb6a6de3db8c95cb7bfdeba30376af06ee5e946eb7946e355c0e557a85",
+      "sourceSha256": "4ce31e571143e254cfee430ef80f1f6141a23187d0dae03bf37e60e31adf656b",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "starry-night-over-the-rhone--vincent-van-gogh",
+      "image": "variants/balanced/starry-night-over-the-rhone--vincent-van-gogh.webp",
+      "width": 1536,
+      "height": 1187,
+      "imageBytes": 653832,
+      "sha256": "194a934e2e104f65eb8a57cc5ecd7e2dd0c0f5de6cfada81668c89d9bae6d616",
+      "sourceSha256": "2da6b3f52c2e7a9c2a6d80e169740ffbd8c19d43c4bb8621b935ce40618a4048",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "sunflowers--vincent-van-gogh",
+      "image": "variants/balanced/sunflowers--vincent-van-gogh.webp",
+      "width": 1217,
+      "height": 1536,
+      "imageBytes": 566876,
+      "sha256": "c1821763791ed4519bbe6a166e78b4f3b20c48c0071a6a3a9fad77bc41ca4a16",
+      "sourceSha256": "8d3079dfc3afee89592c13296676fb7fb0ff06a8f55951229aa4ab72c1e93f48",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-night-cafe--vincent-van-gogh",
+      "image": "variants/balanced/the-night-cafe--vincent-van-gogh.webp",
+      "width": 1536,
+      "height": 1213,
+      "imageBytes": 621114,
+      "sha256": "3e9dd43354fe4f8a6cbe8f423ecd76540449faf07433ea3036eb42ec2c6bae21",
+      "sourceSha256": "37e15d7214c56836847901e51cd7743802cf17757b6b3f311cea0a31afee1c84",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "wheatfield-with-crows--vincent-van-gogh",
+      "image": "variants/balanced/wheatfield-with-crows--vincent-van-gogh.webp",
+      "width": 1536,
+      "height": 736,
+      "imageBytes": 484776,
+      "sha256": "3d6e3c1ca577896c943422d4f9a46749b699586d562901ac8646347d1901c19c",
+      "sourceSha256": "0264215c9cd9bc3425fd5b22a64dbbaaf42bd68e2f6092b27089795ea706a26e",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "luncheon-of-the-boating-party--pierre-auguste-renoir",
+      "image": "variants/balanced/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+      "width": 1536,
+      "height": 1138,
+      "imageBytes": 443760,
+      "sha256": "142fa64a0bd9d0b0ec70cad60fd95c6233dcedf0b493b019162bb85b74ac6c70",
+      "sourceSha256": "5d2a2775074e5900b5fd9b94538dcb1e06ff757ed02754f94a4d2821608404fd",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-card-players--paul-cezanne",
+      "image": "variants/balanced/the-card-players--paul-cezanne.webp",
+      "width": 1536,
+      "height": 1260,
+      "imageBytes": 621958,
+      "sha256": "b7feb62b421a156f60b26f7d16ae4dbf19d19f86e0c8b78b6b836fcf3ce14efd",
+      "sourceSha256": "99e486aeda8fb7082f5de68bd22bae3f876d76e635f9ebd1ceea88e84682f25d",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "nighthawks--edward-hopper",
+      "image": "variants/balanced/nighthawks--edward-hopper.webp",
+      "width": 1536,
+      "height": 839,
+      "imageBytes": 125984,
+      "sha256": "961bffdab11854a2652326d34082b058462f318fa2c43fb02f452390341ae6e7",
+      "sourceSha256": "feda8941f39499a07a9cf5277f95a1347afeaf1fa56e0708e2ddcc13b9850c40",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "american-gothic--grant-wood",
+      "image": "variants/balanced/american-gothic--grant-wood.webp",
+      "width": 1270,
+      "height": 1536,
+      "imageBytes": 362154,
+      "sha256": "5ad7802c0927e6efb732591aa07345703ee948e1895516e8323def6a1557fd04",
+      "sourceSha256": "92c34cf3ed625d93bd5c9e53dc654fa0005c6fc53e882b6e1353a5db0880f07a",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "black-square--kazimir-malevich",
+      "image": "variants/balanced/black-square--kazimir-malevich.webp",
+      "width": 1536,
+      "height": 1536,
+      "imageBytes": 281478,
+      "sha256": "0d7b67277c964d44dcd524535075628e6de6dde65ee310c76c7b4297c8bf7068",
+      "sourceSha256": "6dbbd996f84d2e233af72c830dc91a009f0485d582129636e12e96981d94d493",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-great-wave-off-kanagawa--katsushika-hokusai",
+      "image": "variants/balanced/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+      "width": 1536,
+      "height": 1033,
+      "imageBytes": 535608,
+      "sha256": "dc417656b57a89e7a3f9f84fb8e28180f70e1831e7f92110c6029d0f624e1414",
+      "sourceSha256": "f809537372390f9ed3c831f132793618f7dff26f295a67868d038edfab016a48",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "along-the-river-during-the-qingming-festival--zhang-zeduan",
+      "image": "variants/balanced/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+      "width": 1536,
+      "height": 1100,
+      "imageBytes": 682902,
+      "sha256": "c118ade1d9e47ef67371aa1bc5ed3a7435db850f48793617da12f9175e811b5c",
+      "sourceSha256": "be56f42785947e7293400589e428b1b9dfd9364a4205a20b75afd3e9cab7a749",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "red-fuji--katsushika-hokusai",
+      "image": "variants/balanced/red-fuji--katsushika-hokusai.webp",
+      "width": 1536,
+      "height": 1059,
+      "imageBytes": 464326,
+      "sha256": "15f6ea35a0c77c2478663eea93b9bdd25680248eff4a6a1c0d9e8a3b2c3e7f2a",
+      "sourceSha256": "7e6f98a630a065b858d9d93653ef213755e4bf09011deadb63f0f8d9717acb25",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "red-and-white-plum-blossoms--ogata-korin",
+      "image": "variants/balanced/red-and-white-plum-blossoms--ogata-korin.webp",
+      "width": 1536,
+      "height": 674,
+      "imageBytes": 324430,
+      "sha256": "4ca97fbf03a010bb3a0b15acc220a345acc2d10b5e1ec5d66fbdfb22a7b067c2",
+      "sourceSha256": "dfcae2092e73781c34867026ed90d5683fa2acd43759af056a3a58e857965fd6",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "shakuntala--raja-ravi-varma",
+      "image": "variants/balanced/shakuntala--raja-ravi-varma.webp",
+      "width": 937,
+      "height": 1536,
+      "imageBytes": 341026,
+      "sha256": "65dbc0b9fe9aece398e290480e8609709609945d94d185f5ec84d3ec82e0537c",
+      "sourceSha256": "393ce692823cbe1c91c8757c3b96f2b20b83de21a636bb297074fb1a703caade",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-tortoise-trainer--osman-hamdi-bey",
+      "image": "variants/balanced/the-tortoise-trainer--osman-hamdi-bey.webp",
+      "width": 821,
+      "height": 1536,
+      "imageBytes": 268856,
+      "sha256": "e4cb7c21a49fc099d8cb195db43d3e15e72f69a3f665c5ffd73f548c271c6ee6",
+      "sourceSha256": "0ce8fb89fc751c9e589e3ff7593680be2bd14e3f5419cdf870d6b30928a8813e",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "spoliarium--juan-luna",
+      "image": "variants/balanced/spoliarium--juan-luna.webp",
+      "width": 1536,
+      "height": 828,
+      "imageBytes": 97376,
+      "sha256": "f92c44c9019d123d1237600564ea92d79f8c0a6d4b4c74d7ae570a479ab1436c",
+      "sourceSha256": "a42ce51e9c9a660c1a14bcd9b910dbd99dd7411cc9826c8f57e884ba46e84526",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+      "image": "variants/balanced/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+      "width": 1536,
+      "height": 1078,
+      "imageBytes": 266352,
+      "sha256": "6340dc3e063c109422cb6c44480539d07c9c04143d9eb90b7137a87e1395f61b",
+      "sourceSha256": "57ecd939bbbc42e25f1b0b456a9f9e748c00f5a2e14af0b89a3c6738c62dd6d6",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+      "image": "variants/balanced/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+      "width": 1184,
+      "height": 1536,
+      "imageBytes": 164358,
+      "sha256": "ebff2003e8be6c6319a53d49842ca79b20f923619eeda7ce039421dc70eccfa9",
+      "sourceSha256": "f07ba9e6f8d526a866ece0288da9016b0a802a325b53f95a2baf53b6c8e61b64",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+      "image": "variants/balanced/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+      "width": 1536,
+      "height": 1151,
+      "imageBytes": 189846,
+      "sha256": "7a703b28ba78018455f82fd6dbc3fa25cbce796c46cda34014dbe79cf1b56128",
+      "sourceSha256": "f6bf6b3022619daed63478b2ce10e616d71f4a95d7ca2f92ee8253c5c2d63972",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-astronomer--johannes-vermeer",
+      "image": "variants/balanced/the-astronomer--johannes-vermeer.webp",
+      "width": 1352,
+      "height": 1536,
+      "imageBytes": 418428,
+      "sha256": "399777534cd0bb9320773f4bca7fd86d6bba558e853b74e447aaf63bc90e4c2a",
+      "sourceSha256": "56ef3d6e02a6330aed852b2f36758b46c4e8ef4a94935ee25c008b24017c2d15",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-geographer--johannes-vermeer",
+      "image": "variants/balanced/the-geographer--johannes-vermeer.webp",
+      "width": 1370,
+      "height": 1536,
+      "imageBytes": 410332,
+      "sha256": "f824296a26d35f1a8c91370940a127d8abdc5a7bfbff870f4b21fab3792ace8d",
+      "sourceSha256": "097842010eb9a8cbc01c2e2df0b36233df87bd18ef6dc1a19480e91c53fae36c",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "portrait-of-the-lavoisiers--jacques-louis-david",
+      "image": "variants/balanced/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+      "width": 1152,
+      "height": 1536,
+      "imageBytes": 138942,
+      "sha256": "1fa191909c23dd1c87426d3b0b769190cef35fb481e78738c12559cf65c79c7d",
+      "sourceSha256": "d5d4191d65907a5a08746b0c938eca2485a86a03251c928f43b5ad18fb4dd1ec",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "newton--william-blake",
+      "image": "variants/balanced/newton--william-blake.webp",
+      "width": 1536,
+      "height": 1181,
+      "imageBytes": 771408,
+      "sha256": "2b1d7e3c2131089f01b9c861c8287d1f00a8c95373b33f887e04580f85c84e0e",
+      "sourceSha256": "559cfdbe07bbc3cb9d789eb4531692fc4ac36e339b9b9cd0df7474908fee0328",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "vitruvian-man--leonardo-da-vinci",
+      "image": "variants/balanced/vitruvian-man--leonardo-da-vinci.webp",
+      "width": 1129,
+      "height": 1536,
+      "imageBytes": 711812,
+      "sha256": "f8fd38993ab83a5111dcff4f2a4e9f27e8a92f2887c2b130f240104ca5250eb9",
+      "sourceSha256": "a59ad3dd982e14dbb64f7c39baa53d543e3d1dfec161cc896c12088ee1ace928",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "the-gross-clinic--thomas-eakins",
+      "image": "variants/balanced/the-gross-clinic--thomas-eakins.webp",
+      "width": 1238,
+      "height": 1536,
+      "imageBytes": 252036,
+      "sha256": "c40513a87560ce6fed4990f8254631de1a23d7800d126b390b3e087476e5e941",
+      "sourceSha256": "66e31790fda49b438383eda4c5b8731a3bc82242f6456f1c9550888473fb325c",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "albert-einstein-1924--leonid-pasternak",
+      "image": "variants/balanced/albert-einstein-1924--leonid-pasternak.webp",
+      "width": 1221,
+      "height": 1536,
+      "imageBytes": 499890,
+      "sha256": "d3dc1f877f476cc7f174e6f2cc93c92ba777d61022fcd0cfb4050e273558c6ff",
+      "sourceSha256": "0f42b7e9e7e796c9eafc52541a9a4189d1135ef79e57c5ef2959e3ca5b6773b8",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "isaac-newton--godfrey-kneller",
+      "image": "variants/balanced/isaac-newton--godfrey-kneller.webp",
+      "width": 1093,
+      "height": 1536,
+      "imageBytes": 397824,
+      "sha256": "f80dcf6d0836287e0f610cf8bef0ff34f398b029188ab817b9ad517efb1dd73f",
+      "sourceSha256": "d8a059d7c35757df551d77e84e267c5e3c3a61f196de148ed50df0188b5dc8f6",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    },
+    {
+      "artworkId": "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+      "image": "variants/balanced/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+      "width": 1084,
+      "height": 1536,
+      "imageBytes": 139418,
+      "sha256": "9595098b4d3990173e08fb6c287cbfe4d8d45ae9bd52f0b0e0066e17c161306f",
+      "sourceSha256": "b97bf22f446bbfe17bcbfab70586e8ff97ed1dca004eec4fe638399f47ff8fb6",
+      "changes": "Resized from original catalog WebP with Lanczos and re-encoded as WebP quality 90. Original attribution and license apply; see manifest.json."
+    }
+  ]
+}

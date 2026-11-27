@@ -1,0 +1,917 @@
+{
+  "schema": "blcklab-museum-exhibits@1",
+  "exhibits": [
+    {
+      "entityId": "exhibit-01-mona-lisa--leonardo-da-vinci",
+      "artworkId": "mona-lisa--leonardo-da-vinci",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.24116,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-01-the-school-of-athens--raphael",
+      "artworkId": "the-school-of-athens--raphael",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.38439,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-01-lady-with-an-ermine--leonardo-da-vinci",
+      "artworkId": "lady-with-an-ermine--leonardo-da-vinci",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        1.37576,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-01-the-annunciation--fra-angelico",
+      "artworkId": "the-annunciation--fra-angelico",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.77769
+      ]
+    },
+    {
+      "entityId": "exhibit-01-the-last-supper--leonardo-da-vinci",
+      "artworkId": "the-last-supper--leonardo-da-vinci",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": -5.1,
+      "displaySize": [
+        2.45,
+        1.225
+      ]
+    },
+    {
+      "entityId": "exhibit-01-primavera--sandro-botticelli",
+      "artworkId": "primavera--sandro-botticelli",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.60901
+      ]
+    },
+    {
+      "entityId": "exhibit-01-sistine-madonna--raphael",
+      "artworkId": "sistine-madonna--raphael",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.34956,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-01-the-lamentation--giotto",
+      "artworkId": "the-lamentation--giotto",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "south",
+      "offset": 5.1,
+      "displaySize": [
+        1.96719,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-01-the-creation-of-adam--michelangelo",
+      "artworkId": "the-creation-of-adam--michelangelo",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "west",
+      "offset": -3.4,
+      "displaySize": [
+        2.45,
+        1.11135
+      ]
+    },
+    {
+      "entityId": "exhibit-01-the-arnolfini-portrait--jan-van-eyck",
+      "artworkId": "the-arnolfini-portrait--jan-van-eyck",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        1.35227,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-01-venus-of-urbino--titian",
+      "artworkId": "venus-of-urbino--titian",
+      "category": "01-renaissance",
+      "room": "01-renaissance",
+      "wall": "west",
+      "offset": 3.4,
+      "displaySize": [
+        2.45,
+        1.72266
+      ]
+    },
+    {
+      "entityId": "exhibit-02-girl-with-a-pearl-earring--johannes-vermeer",
+      "artworkId": "girl-with-a-pearl-earring--johannes-vermeer",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.56184,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-milkmaid--johannes-vermeer",
+      "artworkId": "the-milkmaid--johannes-vermeer",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        1.64585,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-storm-on-the-sea-of-galilee--rembrandt",
+      "artworkId": "the-storm-on-the-sea-of-galilee--rembrandt",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        1.48867,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-supper-at-emmaus--caravaggio",
+      "artworkId": "the-supper-at-emmaus--caravaggio",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.7418
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-night-watch--rembrandt",
+      "artworkId": "the-night-watch--rembrandt",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": -5.1,
+      "displaySize": [
+        2.27419,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.84587
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-swing--jean-honore-fragonard",
+      "artworkId": "the-swing--jean-honore-fragonard",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.43279,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-art-of-painting--johannes-vermeer",
+      "artworkId": "the-art-of-painting--johannes-vermeer",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "south",
+      "offset": 5.1,
+      "displaySize": [
+        1.55732,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-calling-of-saint-matthew--caravaggio",
+      "artworkId": "the-calling-of-saint-matthew--caravaggio",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": -4.3125,
+      "displaySize": [
+        1.95905,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-judith-beheading-holofernes--artemisia-gentileschi",
+      "artworkId": "judith-beheading-holofernes--artemisia-gentileschi",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": -1.4375,
+      "displaySize": [
+        1.52119,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-elevation-of-the-cross--peter-paul-rubens",
+      "artworkId": "the-elevation-of-the-cross--peter-paul-rubens",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": 1.4375,
+      "displaySize": [
+        2.45,
+        1.76094
+      ]
+    },
+    {
+      "entityId": "exhibit-02-the-rokeby-venus--diego-velazquez",
+      "artworkId": "the-rokeby-venus--diego-velazquez",
+      "category": "02-baroque-rococo",
+      "room": "02-baroque-rococo",
+      "wall": "east",
+      "offset": 4.3125,
+      "displaySize": [
+        2.45,
+        1.68079
+      ]
+    },
+    {
+      "entityId": "exhibit-03-wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.4426,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-death-of-socrates--jacques-louis-david",
+      "artworkId": "the-death-of-socrates--jacques-louis-david",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.60901
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-oath-of-the-horatii--jacques-louis-david",
+      "artworkId": "the-oath-of-the-horatii--jacques-louis-david",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        2.38589,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-hay-wain--john-constable",
+      "artworkId": "the-hay-wain--john-constable",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.68916
+      ]
+    },
+    {
+      "entityId": "exhibit-03-liberty-leading-the-people--eugene-delacroix",
+      "artworkId": "liberty-leading-the-people--eugene-delacroix",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": -5.1,
+      "displaySize": [
+        2.31165,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-03-saturn-devouring-his-son--francisco-goya",
+      "artworkId": "saturn-devouring-his-son--francisco-goya",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        1.0072,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-death-of-marat--jacques-louis-david",
+      "artworkId": "the-death-of-marat--jacques-louis-david",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.43809,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-gleaners--jean-francois-millet",
+      "artworkId": "the-gleaners--jean-francois-millet",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "south",
+      "offset": 5.1,
+      "displaySize": [
+        2.45,
+        1.83271
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-raft-of-the-medusa--theodore-gericault",
+      "artworkId": "the-raft-of-the-medusa--theodore-gericault",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": -4.3125,
+      "displaySize": [
+        2.45,
+        1.67241
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-nightmare--henry-fuseli",
+      "artworkId": "the-nightmare--henry-fuseli",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": -1.4375,
+      "displaySize": [
+        2.30462,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-fighting-temeraire--j-m-w-turner",
+      "artworkId": "the-fighting-temeraire--j-m-w-turner",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": 1.4375,
+      "displaySize": [
+        2.45,
+        1.82075
+      ]
+    },
+    {
+      "entityId": "exhibit-03-the-ninth-wave--ivan-aivazovsky",
+      "artworkId": "the-ninth-wave--ivan-aivazovsky",
+      "category": "03-romantic-neoclassical-realist",
+      "room": "03-romantic-neoclassical-realist",
+      "wall": "west",
+      "offset": 4.3125,
+      "displaySize": [
+        2.45,
+        1.64609
+      ]
+    },
+    {
+      "entityId": "exhibit-04-the-scream--edvard-munch",
+      "artworkId": "the-scream--edvard-munch",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": -5.1,
+      "displaySize": [
+        1.49048,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-cafe-terrace-at-night--vincent-van-gogh",
+      "artworkId": "cafe-terrace-at-night--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        1.48325,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-the-night-cafe--vincent-van-gogh",
+      "artworkId": "the-night-cafe--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        2.3431,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-the-card-players--paul-cezanne",
+      "artworkId": "the-card-players--paul-cezanne",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "north",
+      "offset": 5.1,
+      "displaySize": [
+        2.25524,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-the-kiss--gustav-klimt",
+      "artworkId": "the-kiss--gustav-klimt",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "south",
+      "offset": -3.4,
+      "displaySize": [
+        1.84368,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-starry-night-over-the-rhone--vincent-van-gogh",
+      "artworkId": "starry-night-over-the-rhone--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        2.39494,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-wheatfield-with-crows--vincent-van-gogh",
+      "artworkId": "wheatfield-with-crows--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "south",
+      "offset": 3.4,
+      "displaySize": [
+        2.45,
+        1.17356
+      ]
+    },
+    {
+      "entityId": "exhibit-04-impression-sunrise--claude-monet",
+      "artworkId": "impression-sunrise--claude-monet",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "east",
+      "offset": -3.4,
+      "displaySize": [
+        2.38439,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-sunflowers--vincent-van-gogh",
+      "artworkId": "sunflowers--vincent-van-gogh",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "east",
+      "offset": 0,
+      "displaySize": [
+        1.46609,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-04-luncheon-of-the-boating-party--pierre-auguste-renoir",
+      "artworkId": "luncheon-of-the-boating-party--pierre-auguste-renoir",
+      "category": "04-impressionism-post-impressionism",
+      "room": "04-impressionism-post-impressionism",
+      "wall": "east",
+      "offset": 3.4,
+      "displaySize": [
+        2.45,
+        1.81477
+      ]
+    },
+    {
+      "entityId": "exhibit-05-nighthawks--edward-hopper",
+      "artworkId": "nighthawks--edward-hopper",
+      "category": "05-modern-surrealism",
+      "room": "05-modern-surrealism",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.33745
+      ]
+    },
+    {
+      "entityId": "exhibit-05-american-gothic--grant-wood",
+      "artworkId": "american-gothic--grant-wood",
+      "category": "05-modern-surrealism",
+      "room": "05-modern-surrealism",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.53022,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-05-black-square--kazimir-malevich",
+      "artworkId": "black-square--kazimir-malevich",
+      "category": "05-modern-surrealism",
+      "room": "05-modern-surrealism",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        1.85,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-06-the-great-wave-off-kanagawa--katsushika-hokusai",
+      "artworkId": "the-great-wave-off-kanagawa--katsushika-hokusai",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "north",
+      "offset": -3.4,
+      "displaySize": [
+        2.45,
+        1.64729
+      ]
+    },
+    {
+      "entityId": "exhibit-06-red-fuji--katsushika-hokusai",
+      "artworkId": "red-fuji--katsushika-hokusai",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.68916
+      ]
+    },
+    {
+      "entityId": "exhibit-06-the-tortoise-trainer--osman-hamdi-bey",
+      "artworkId": "the-tortoise-trainer--osman-hamdi-bey",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "north",
+      "offset": 3.4,
+      "displaySize": [
+        0.98914,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-06-along-the-river-during-the-qingming-festival--zhang-zeduan",
+      "artworkId": "along-the-river-during-the-qingming-festival--zhang-zeduan",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.75496
+      ]
+    },
+    {
+      "entityId": "exhibit-06-red-and-white-plum-blossoms--ogata-korin",
+      "artworkId": "red-and-white-plum-blossoms--ogata-korin",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        2.45,
+        1.07546
+      ]
+    },
+    {
+      "entityId": "exhibit-06-a-thousand-li-of-rivers-and-mountains--wang-ximeng",
+      "artworkId": "a-thousand-li-of-rivers-and-mountains--wang-ximeng",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "east",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.71145
+      ]
+    },
+    {
+      "entityId": "exhibit-06-shakuntala--raja-ravi-varma",
+      "artworkId": "shakuntala--raja-ravi-varma",
+      "category": "06-world-art",
+      "room": "06-world-art",
+      "wall": "east",
+      "offset": 1.7,
+      "displaySize": [
+        1.12915,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-07-spoliarium--juan-luna",
+      "artworkId": "spoliarium--juan-luna",
+      "category": "07-philippine-art",
+      "room": "07-philippine-art",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.3207
+      ]
+    },
+    {
+      "entityId": "exhibit-07-the-parisian-life--juan-luna",
+      "artworkId": "the-parisian-life--juan-luna",
+      "category": "07-philippine-art",
+      "room": "07-philippine-art",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.72625
+      ]
+    },
+    {
+      "entityId": "exhibit-07-las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo",
+      "artworkId": "las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo",
+      "category": "07-philippine-art",
+      "room": "07-philippine-art",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.8375
+      ]
+    },
+    {
+      "entityId": "exhibit-08-a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+      "artworkId": "a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.71907
+      ]
+    },
+    {
+      "entityId": "exhibit-08-the-astronomer--johannes-vermeer",
+      "artworkId": "the-astronomer--johannes-vermeer",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        1.62869,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-08-the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+      "artworkId": "the-alchemist-discovering-phosphorus--joseph-wright-of-derby",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        1.42634,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-08-the-geographer--johannes-vermeer",
+      "artworkId": "the-geographer--johannes-vermeer",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.65037,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-08-an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+      "artworkId": "an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "east",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.8363
+      ]
+    },
+    {
+      "entityId": "exhibit-08-portrait-of-the-lavoisiers--jacques-louis-david",
+      "artworkId": "portrait-of-the-lavoisiers--jacques-louis-david",
+      "category": "08-science-discovery",
+      "room": "08-science-discovery",
+      "wall": "east",
+      "offset": 1.7,
+      "displaySize": [
+        1.3875,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-09-the-school-of-athens--raphael",
+      "artworkId": "the-school-of-athens--raphael",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "north",
+      "offset": -1.7,
+      "displaySize": [
+        2.38439,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-09-philosopher-in-meditation--rembrandt",
+      "artworkId": "philosopher-in-meditation--rembrandt",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "north",
+      "offset": 1.7,
+      "displaySize": [
+        2.22836,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-09-the-death-of-socrates--jacques-louis-david",
+      "artworkId": "the-death-of-socrates--jacques-louis-david",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "south",
+      "offset": -1.7,
+      "displaySize": [
+        2.45,
+        1.60901
+      ]
+    },
+    {
+      "entityId": "exhibit-09-vitruvian-man--leonardo-da-vinci",
+      "artworkId": "vitruvian-man--leonardo-da-vinci",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "south",
+      "offset": 1.7,
+      "displaySize": [
+        1.3604,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-09-newton--william-blake",
+      "artworkId": "newton--william-blake",
+      "category": "09-philosophy-reason",
+      "room": "09-philosophy-reason",
+      "wall": "west",
+      "offset": 0,
+      "displaySize": [
+        2.40559,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-10-wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "artworkId": "wanderer-above-the-sea-of-fog--caspar-david-friedrich",
+      "category": "10-cosmos-reality",
+      "room": "10-cosmos-reality",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        1.4426,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-11-the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "artworkId": "the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt",
+      "category": "11-mathematics-engineering-medicine",
+      "room": "11-mathematics-engineering-medicine",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        2.45,
+        1.84587
+      ]
+    },
+    {
+      "entityId": "exhibit-11-the-gross-clinic--thomas-eakins",
+      "artworkId": "the-gross-clinic--thomas-eakins",
+      "category": "11-mathematics-engineering-medicine",
+      "room": "11-mathematics-engineering-medicine",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.49138,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-12-portrait-of-albert-einstein-1917--erich-buttner",
+      "artworkId": "portrait-of-albert-einstein-1917--erich-buttner",
+      "category": "12-einstein",
+      "room": "12-einstein",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        1.554,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-12-albert-einstein-1924--leonid-pasternak",
+      "artworkId": "albert-einstein-1924--leonid-pasternak",
+      "category": "12-einstein",
+      "room": "12-einstein",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.47105,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-13-isaac-newton--godfrey-kneller",
+      "artworkId": "isaac-newton--godfrey-kneller",
+      "category": "13-architects-of-reality",
+      "room": "13-architects-of-reality",
+      "wall": "north",
+      "offset": 0,
+      "displaySize": [
+        1.31701,
+        1.85
+      ]
+    },
+    {
+      "entityId": "exhibit-13-nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+      "artworkId": "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy",
+      "category": "13-architects-of-reality",
+      "room": "13-architects-of-reality",
+      "wall": "south",
+      "offset": 0,
+      "displaySize": [
+        1.3062,
+        1.85
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "schema": "anyo-world-soundscapes@1",
+  "title": "The AETERNUM Collection",
+  "tracks": [
+    {
+      "id": "bach-air",
+      "title": "Air on the G String",
+      "artist": "Johann Sebastian Bach · Piano arrangement",
+      "file": "bach-air-on-the-g-string.mp3",
+      "credit": "Recording © 2024 Gregor Quendel / Classicals.de (file metadata)",
+      "rights": "License supplied by user; verify recording source before public release. Noncommercial use only. Recording unchanged.",
+      "waveform": "bach-air-on-the-g-string.waveform.json",
+      "description": "Bach’s Air from Orchestral Suite No. 3, BWV 1068, arranged for piano.",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "id": "beethoven-moonlight",
+      "title": "Moonlight Sonata — I. Adagio sostenuto",
+      "artist": "Ludwig van Beethoven · Roel van Kuppevelt",
+      "file": "beethoven-moonlight-sonata.mp3",
+      "description": "Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2, first movement.",
+      "credit": "Roel van Kuppevelt · Recording © 2026 Gregor Quendel / Classicals.de (file metadata)",
+      "license": "CC BY-NC 4.0",
+      "rights": "License supplied by user; verify recording source before public release. Noncommercial use only. Recording unchanged.",
+      "waveform": "beethoven-moonlight-sonata.waveform.json"
+    }
+  ],
+  "ambience": {
+    "zones": [
+      {
+        "id": "hall",
+        "file": "room-hall.ogg"
+      },
+      {
+        "id": "gallery",
+        "file": "room-gallery.ogg"
+      },
+      {
+        "id": "science",
+        "file": "room-science.ogg"
+      }
+    ],
+    "rooms": {
+      "spine": "hall",
+      "lobby": "hall",
+      "01-renaissance": "gallery",
+      "02-baroque-rococo": "gallery",
+      "03-romantic-neoclassical-realist": "gallery",
+      "04-impressionism-post-impressionism": "gallery",
+      "05-modern-surrealism": "gallery",
+      "06-world-art": "gallery",
+      "07-philippine-art": "gallery",
+      "08-science-discovery": "science",
+      "09-philosophy-reason": "science",
+      "10-cosmos-reality": "science",
+      "11-mathematics-engineering-medicine": "science",
+      "12-einstein": "science",
+      "13-architects-of-reality": "science"
+    }
+  },
+  "autoplay": true,
+  "shuffle": true,
+  "footsteps": {
+    "surfaces": [
+      {
+        "id": "marble",
+        "files": [
+          "step-marble-1.ogg",
+          "step-marble-2.ogg"
+        ]
+      },
+      {
+        "id": "oak",
+        "files": [
+          "step-oak-1.ogg",
+          "step-oak-2.ogg"
+        ]
+      },
+      {
+        "id": "limestone",
+        "files": [
+          "step-limestone-1.ogg",
+          "step-limestone-2.ogg"
+        ]
+      },
+      {
+        "id": "stone",
+        "files": [
+          "step-stone-1.ogg",
+          "step-stone-2.ogg"
+        ]
+      }
+    ],
+    "rooms": {
+      "spine": "marble",
+      "lobby": "marble",
+      "01-renaissance": "oak",
+      "02-baroque-rococo": "oak",
+      "03-romantic-neoclassical-realist": "oak",
+      "04-impressionism-post-impressionism": "limestone",
+      "05-modern-surrealism": "limestone",
+      "06-world-art": "oak",
+      "07-philippine-art": "oak",
+      "08-science-discovery": "stone",
+      "09-philosophy-reason": "oak",
+      "10-cosmos-reality": "stone",
+      "11-mathematics-engineering-medicine": "stone",
+      "12-einstein": "stone",
+      "13-architects-of-reality": "stone"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "aeternum-museum",
+  "version": "1.0.0-rc.4",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "validate": "node scripts/validate.mjs",
+    "bundle": "node scripts/bundle.mjs",
+    "check": "npm run test:museum && npm run test:loading && npm run test:interaction && npm run test:directory-input && npm run test:viewer && npm run test:encyclopedia && npm run test:map && npm run test:native-navigation && npm run test:tours && npm run test:visitor-settings && npm run test:audio && npm run test:mobile-textures && npm run test:locomotion && npm run validate && npm run bundle",
+    "generate": "node scripts/generate-museum.mjs",
+    "test:museum": "node scripts/test-museum.mjs",
+    "profile:geometry": "node scripts/profile-geometry.mjs",
+    "textures:hd": "node scripts/generate-museum.mjs --texture-profile=hd",
+    "textures:balanced": "node scripts/generate-museum.mjs --texture-profile=balanced",
+    "profile:textures": "node scripts/profile-textures.mjs",
+    "visibility:safe": "node scripts/generate-museum.mjs --visibility-profile=safe",
+    "visibility:occlusion": "node scripts/generate-museum.mjs --visibility-profile=occlusion",
+    "profile:visibility": "node scripts/profile-visibility.mjs",
+    "test:loading": "node scripts/test-loading.mjs",
+    "profile:loading": "node scripts/profile-loading.mjs",
+    "test:interaction": "node scripts/test-interaction.mjs",
+    "test:directory-input": "node scripts/test-directory-input.mjs",
+    "test:viewer": "node scripts/test-viewer.mjs",
+    "test:encyclopedia": "node scripts/test-encyclopedia.mjs",
+    "test:map": "node scripts/test-map.mjs",
+    "test:native-navigation": "node scripts/test-native-navigation.mjs",
+    "test:tours": "node scripts/test-tours.mjs",
+    "test:visitor-settings": "node scripts/test-visitor-settings.mjs",
+    "test:audio": "node scripts/test-audio.mjs",
+    "test:mobile-textures": "node scripts/test-mobile-textures.mjs",
+    "export:review": "node scripts/export-review.mjs",
+    "verify:hosting": "node scripts/verify-hosting.mjs",
+    "test:characters": "node scripts/character-assets.mjs --validate",
+    "test:locomotion": "node scripts/test-locomotion-catalogs.mjs"
+  },
+  "devDependencies": {
+    "@blcklab/anyo": "0.11.0-rc.37"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "anyo-project@1",
+  "id": "aeternum-museum",
+  "title": "AETERNUM — BLCK LAB Museum",
+  "world": "./world.anyo.json",
+  "directories": {
+    "assets": "./assets/",
+    "webSurfaces": "./web-surface/"
+  },
+  "capabilities": {
+    "audio": {
+      "manifest": "./assets/audio/soundscapes.json"
+    },
+    "navigation": {
+      "manifest": "./web-surface/reception/destinations.json",
+      "app": "reception",
+      "tours": "./web-surface/reception/tours.json",
+      "protocol": "aeternum-navigation@1",
+      "launcher": {
+        "image": "./assets/screens/reception-fallback.png"
+      }
+    },
+    "webSurfaces": {
+      "directory": "./web-surface/"
+    },
+    "textures": {
+      "manifest": "./assets/museum/world-texture-profiles.json"
+    },
+    "avatars": {
+      "manifest": "./assets/avatars/avatars.json"
+    },
+    "animations": {
+      "manifest": "./assets/animations/animations.json"
+    }
+  }
+}

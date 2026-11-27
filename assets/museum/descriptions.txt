@@ -1,0 +1,616 @@
+BLCK LAB MUSEUM — ARTWORK DESCRIPTIONS
+74 images; 72 enabled by default. Asset paths relative to manifest.json.
+Artwork labels adapted from the prior collection catalog; checked against image thumbnails and source file metadata. Dates/rights not exhaustively independently verified. Source credit and license must be retained on public display.
+
+01. Mona Lisa
+Artist: Leonardo da Vinci | Date: 1503–1519
+Asset: paintings/mona-lisa--leonardo-da-vinci.webp
+Galleries: 01-renaissance
+A softly modeled portrait whose enigmatic expression and atmospheric landscape exemplify Leonardo's sfumato technique.
+Image: 1374 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Mona Lisa — Leonardo da Vinci; image: Leonardo da Vinci; Public domain; https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+02. The Last Supper
+Artist: Leonardo da Vinci | Date: 1495–1498
+Asset: paintings/the-last-supper--leonardo-da-vinci.webp
+Galleries: 01-renaissance
+Christ announces his impending betrayal at a communal meal, while the apostles respond with dramatically varied gestures.
+Image: 2048 × 1024 px | mural-reproduction | Default display: yes
+Attribution: The Last Supper — Leonardo da Vinci; image: Leonardo da Vinci; Public domain; https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Reproduction of the mural, including the later doorway opening at the bottom.
+
+03. The Creation of Adam
+Artist: Michelangelo | Date: c. 1511
+Asset: paintings/the-creation-of-adam--michelangelo.webp
+Galleries: 01-renaissance
+God and Adam reach toward one another in a fresco exploring creation and the origin of human life.
+Image: 2048 × 929 px | fresco-reproduction | Default display: yes
+Attribution: The Creation of Adam — Michelangelo; image: Michelangelo; Public domain; https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Source image is cropped to the Creation of Adam scene, not the entire Sistine Chapel ceiling.
+
+04. The School of Athens
+Artist: Raphael | Date: 1509–1511
+Asset: paintings/the-school-of-athens--raphael.webp
+Galleries: 01-renaissance, 09-philosophy-reason
+Ancient philosophers gather in an idealized architectural space celebrating reason, mathematics and inquiry.
+Image: 2048 × 1589 px | fresco-reproduction | Default display: yes
+Attribution: The School of Athens — Raphael; image: Raphael; Public domain; https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Image includes the architectural wall and doorway below the fresco.
+
+05. Primavera
+Artist: Sandro Botticelli | Date: c. 1482
+Asset: paintings/primavera--sandro-botticelli.webp
+Galleries: 01-renaissance
+Mythological figures assemble in a richly detailed grove, evoking spring, love and renewal.
+Image: 2048 × 1345 px | artwork-reproduction | Default display: yes
+Attribution: Primavera — Sandro Botticelli; image: Sandro Botticelli; Public domain; https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+06. The Arnolfini Portrait
+Artist: Jan van Eyck | Date: 1434
+Asset: paintings/the-arnolfini-portrait--jan-van-eyck.webp
+Galleries: 01-renaissance
+A richly furnished domestic interior uses a convex mirror, intricate objects and light to create layers of meaning.
+Image: 1497 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Arnolfini Portrait — Jan van Eyck; image: Jan van Eyck; Public domain; https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+07. Lady with an Ermine
+Artist: Leonardo da Vinci | Date: c. 1489–1491
+Asset: paintings/lady-with-an-ermine--leonardo-da-vinci.webp
+Galleries: 01-renaissance
+A young woman turns while holding an ermine, combining psychological presence with graceful movement.
+Image: 1523 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Lady with an Ermine — Leonardo da Vinci; image: Leonardo da Vinci; Public domain; https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_(adjusted_levels).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+08. Sistine Madonna
+Artist: Raphael | Date: c. 1512
+Asset: paintings/sistine-madonna--raphael.webp
+Galleries: 01-renaissance
+The Virgin and Child appear among clouds, accompanied by saints and two famous cherubs.
+Image: 1494 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Sistine Madonna — Raphael; image: Raphael; Public domain; https://commons.wikimedia.org/wiki/File:RAFAEL_-_Madonna_Sixtina_(Gem%C3%A4ldegalerie_Alter_Meister,_Dresden,_1513-14._%C3%93leo_sobre_lienzo,_265_x_196_cm).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+09. Venus of Urbino
+Artist: Titian | Date: 1538
+Asset: paintings/venus-of-urbino--titian.webp
+Galleries: 01-renaissance
+A reclining woman meets the viewer's gaze in a richly colored Venetian interior.
+Image: 2048 × 1440 px | artwork-reproduction | Default display: yes
+Attribution: Venus of Urbino — Titian; image: Titian; Public domain; https://commons.wikimedia.org/wiki/File:Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+10. The Annunciation (San Marco fresco)
+Artist: Fra Angelico | Date: c. 1440s
+Asset: paintings/the-annunciation--fra-angelico.webp
+Galleries: 01-renaissance
+Gabriel kneels before Mary beneath a simple arcaded loggia. The spare architecture, quiet gestures and soft color create a contemplative devotional scene.
+Image: 2048 × 1486 px | fresco-reproduction | Default display: yes
+Attribution: The Annunciation (San Marco fresco) — Fra Angelico; image: Fra Angelico; Public domain; https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Annunciation.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+11. The Lamentation
+Artist: Giotto | Date: c. 1305
+Asset: paintings/the-lamentation--giotto.webp
+Galleries: 01-renaissance
+Mourners gather around Christ's body in an emotionally direct fresco that helped transform European painting.
+Image: 2048 × 1926 px | fresco-reproduction | Default display: yes
+Attribution: The Lamentation — Giotto; image: Gennadii Saus i Segura; Public domain; https://commons.wikimedia.org/wiki/File:Compianto_sul_Cristo_morto.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+12. Girl with a Pearl Earring
+Artist: Johannes Vermeer | Date: c. 1665
+Asset: paintings/girl-with-a-pearl-earring--johannes-vermeer.webp
+Galleries: 02-baroque-rococo
+A young figure turns toward the viewer, with luminous fabric and an oversized pearl-like earring.
+Image: 1729 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Girl with a Pearl Earring — Johannes Vermeer; image: Johannes Vermeer; Public domain; https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+13. The Night Watch
+Artist: Rembrandt | Date: 1642
+Asset: paintings/the-night-watch--rembrandt.webp
+Galleries: 02-baroque-rococo
+A civic guard company emerges in a dynamic group portrait distinguished by dramatic illumination.
+Image: 2048 × 1666 px | artwork-reproduction | Default display: yes
+Attribution: The Night Watch — Rembrandt; image: Rembrandt; Public domain; https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+14. The Calling of Saint Matthew
+Artist: Caravaggio | Date: 1599–1600
+Asset: paintings/the-calling-of-saint-matthew--caravaggio.webp
+Galleries: 02-baroque-rococo
+A shaft of light emphasizes the moment of Matthew's calling in a contemporary-looking interior.
+Image: 2048 × 1934 px | artwork-reproduction | Default display: yes
+Attribution: The Calling of Saint Matthew — Caravaggio; image: Gleb Simonov; CC0; https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en.
+
+15. The Milkmaid
+Artist: Johannes Vermeer | Date: c. 1658–1659
+Asset: paintings/the-milkmaid--johannes-vermeer.webp
+Galleries: 02-baroque-rococo
+A servant pours milk in a quiet domestic scene distinguished by meticulous observation of light and texture.
+Image: 1822 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Milkmaid — Johannes Vermeer; image: Johannes Vermeer; Public domain; https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+16. The Anatomy Lesson of Dr. Nicolaes Tulp
+Artist: Rembrandt | Date: 1632
+Asset: paintings/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp
+Galleries: 02-baroque-rococo, 11-mathematics-engineering-medicine
+Surgeons gather around a dissected arm, demonstrating anatomical observation and professional learning.
+Image: 2048 × 1543 px | artwork-reproduction | Default display: yes
+Attribution: The Anatomy Lesson of Dr. Nicolaes Tulp — Rembrandt; image: Rembrandt; Public domain; https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+17. Judith Beheading Holofernes
+Artist: Artemisia Gentileschi | Date: c. 1620
+Asset: paintings/judith-beheading-holofernes--artemisia-gentileschi.webp
+Galleries: 02-baroque-rococo
+Judith and her maid overpower Holofernes in a dramatic rendering of the biblical story.
+Image: 1684 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Judith Beheading Holofernes — Artemisia Gentileschi; image: Artemisia Gentileschi; Public domain; https://commons.wikimedia.org/wiki/File:Judit_decapitando_a_Holofernes,_por_Artemisia_Gentileschi.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+18. The Storm on the Sea of Galilee
+Artist: Rembrandt | Date: 1633
+Asset: paintings/the-storm-on-the-sea-of-galilee--rembrandt.webp
+Galleries: 02-baroque-rococo
+Christ and his disciples confront a turbulent sea in a dramatic study of faith and human vulnerability.
+Image: 1648 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Storm on the Sea of Galilee — Rembrandt; image: Rembrandt; Public domain; https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+19. The Swing
+Artist: Jean-Honoré Fragonard | Date: 1767
+Asset: paintings/the-swing--jean-honore-fragonard.webp
+Galleries: 02-baroque-rococo
+A young woman swings through a lush garden in a playful scene associated with Rococo elegance.
+Image: 1487 × 1920 px | artwork-reproduction | Default display: yes
+Attribution: The Swing — Jean-Honoré Fragonard; image: Jean-Honoré Fragonard; Public domain; https://commons.wikimedia.org/wiki/File:The_Swing_(P430).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+20. The Elevation of the Cross
+Artist: Peter Paul Rubens | Date: 1610–1611
+Asset: paintings/the-elevation-of-the-cross--peter-paul-rubens.webp
+Galleries: 02-baroque-rococo
+Figures strain to raise the cross in a powerful composition defined by diagonals and muscular movement.
+Image: 2048 × 1472 px | triptych-reproduction | Default display: yes
+Attribution: The Elevation of the Cross — Peter Paul Rubens; image: Peter Paul Rubens; Public domain; https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Raising_of_the_Cross_(Antwerp_Cathedral).JPG. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Image shows the three open panels together.
+
+21. The Supper at Emmaus
+Artist: Caravaggio | Date: 1601
+Asset: paintings/the-supper-at-emmaus--caravaggio.webp
+Galleries: 02-baroque-rococo
+Disciples recognize the risen Christ during a meal, their gestures heightening the moment of revelation.
+Image: 2048 × 1456 px | artwork-reproduction | Default display: yes
+Attribution: The Supper at Emmaus — Caravaggio; image: Caravaggio; Public domain; https://commons.wikimedia.org/wiki/File:1602-3_Caravaggio,Supper_at_Emmaus_National_Gallery,_London.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+22. The Art of Painting
+Artist: Johannes Vermeer | Date: c. 1666–1668
+Asset: paintings/the-art-of-painting--johannes-vermeer.webp
+Galleries: 02-baroque-rococo
+An artist paints an allegorical model in a carefully arranged studio, reflecting on the nature of painting.
+Image: 1724 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Art of Painting — Johannes Vermeer; image: Johannes Vermeer; Public domain; https://commons.wikimedia.org/wiki/File:Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+23. The Rokeby Venus
+Artist: Diego Velázquez | Date: c. 1647–1651
+Asset: paintings/the-rokeby-venus--diego-velazquez.webp
+Galleries: 02-baroque-rococo
+A reclining Venus looks toward a mirror held by Cupid in a study of beauty and reflected vision.
+Image: 2048 × 1405 px | artwork-reproduction | Default display: yes
+Attribution: The Rokeby Venus — Diego Velázquez; image: Diego Velázquez; Public domain; https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+24. Wanderer Above the Sea of Fog
+Artist: Caspar David Friedrich | Date: c. 1818
+Asset: paintings/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp
+Galleries: 03-romantic-neoclassical-realist, 10-cosmos-reality
+A solitary figure surveys a sea of fog, embodying the Romantic sublime and the unknowable scale of nature.
+Image: 1597 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Wanderer Above the Sea of Fog — Caspar David Friedrich; image: Caspar David Friedrich; Public domain; https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+25. Liberty Leading the People
+Artist: Eugène Delacroix | Date: 1830
+Asset: paintings/liberty-leading-the-people--eugene-delacroix.webp
+Galleries: 03-romantic-neoclassical-realist
+An allegorical figure of Liberty leads revolutionaries over a barricade in a vision of political upheaval.
+Image: 2048 × 1639 px | artwork-reproduction | Default display: yes
+Attribution: Liberty Leading the People — Eugène Delacroix; image: Eugène Delacroix; Public domain; https://commons.wikimedia.org/wiki/File:La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+26. The Raft of the Medusa
+Artist: Théodore Géricault | Date: 1818–1819
+Asset: paintings/the-raft-of-the-medusa--theodore-gericault.webp
+Galleries: 03-romantic-neoclassical-realist
+Shipwreck survivors struggle toward rescue in a monumental composition exploring suffering and hope.
+Image: 2048 × 1398 px | artwork-reproduction | Default display: yes
+Attribution: The Raft of the Medusa — Théodore Géricault; image: Théodore Géricault; Public domain; https://commons.wikimedia.org/wiki/File:JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+27. The Death of Socrates
+Artist: Jacques-Louis David | Date: 1787
+Asset: paintings/the-death-of-socrates--jacques-louis-david.webp
+Galleries: 03-romantic-neoclassical-realist, 09-philosophy-reason
+Socrates faces death while continuing to teach, embodying philosophical conviction and intellectual courage.
+Image: 2048 × 1345 px | artwork-reproduction | Default display: yes
+Attribution: The Death of Socrates — Jacques-Louis David; image: Jacques-Louis David; Public domain; https://commons.wikimedia.org/wiki/File:David_-_The_Death_of_Socrates.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+28. Saturn Devouring His Son
+Artist: Francisco Goya | Date: c. 1819–1823
+Asset: paintings/saturn-devouring-his-son--francisco-goya.webp
+Galleries: 03-romantic-neoclassical-realist
+A mythological father consumes his child in a disturbing vision of fear, power and destruction.
+Image: 1115 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Saturn Devouring His Son — Francisco Goya; image: Francisco Goya; Public domain; https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+29. The Nightmare
+Artist: Henry Fuseli | Date: 1781
+Asset: paintings/the-nightmare--henry-fuseli.webp
+Galleries: 03-romantic-neoclassical-realist
+A sleeping woman and uncanny figures create a haunting meditation on dreams and terror.
+Image: 2048 × 1644 px | artwork-reproduction | Default display: yes
+Attribution: The Nightmare — Henry Fuseli; image: Henry Fuseli; Public domain; https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_-_The_Nightmare_55.5.A-d1-2019-04-15.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+30. The Oath of the Horatii
+Artist: Jacques-Louis David | Date: 1784
+Asset: paintings/the-oath-of-the-horatii--jacques-louis-david.webp
+Galleries: 03-romantic-neoclassical-realist
+Three brothers pledge loyalty before their father, dramatizing civic duty and personal sacrifice.
+Image: 2048 × 1588 px | artwork-reproduction | Default display: yes
+Attribution: The Oath of the Horatii — Jacques-Louis David; image: Jacques-Louis David; Public domain; https://commons.wikimedia.org/wiki/File:Le_Serment_des_Horaces_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3692_;_MR_1432.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+31. The Death of Marat
+Artist: Jacques-Louis David | Date: 1793
+Asset: paintings/the-death-of-marat--jacques-louis-david.webp
+Galleries: 03-romantic-neoclassical-realist
+The murdered revolutionary Jean-Paul Marat is depicted in a spare, idealized scene of political martyrdom.
+Image: 1592 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Death of Marat — Jacques-Louis David; image: Jacques-Louis David; Public domain; https://commons.wikimedia.org/wiki/File:Death_of_Marat_by_David.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+32. The Fighting Temeraire
+Artist: J. M. W. Turner | Date: 1839
+Asset: paintings/the-fighting-temeraire--j-m-w-turner.webp
+Galleries: 03-romantic-neoclassical-realist
+An aging warship is towed toward dismantling as sunset and steam power evoke historical change.
+Image: 2048 × 1522 px | artwork-reproduction | Default display: yes
+Attribution: The Fighting Temeraire — J. M. W. Turner; image: J. M. W. Turner; Public domain; https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+33. The Hay Wain
+Artist: John Constable | Date: 1821
+Asset: paintings/the-hay-wain--john-constable.webp
+Galleries: 03-romantic-neoclassical-realist
+A rural wagon crosses a shallow river in a detailed study of the English countryside.
+Image: 2048 × 1412 px | artwork-reproduction | Default display: yes
+Attribution: The Hay Wain — John Constable; image: John Constable; Public domain; https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+34. The Gleaners
+Artist: Jean-François Millet | Date: 1857
+Asset: paintings/the-gleaners--jean-francois-millet.webp
+Galleries: 03-romantic-neoclassical-realist
+Three women collect leftover grain, making rural labor and social inequality the subject of monumental art.
+Image: 2048 × 1532 px | artwork-reproduction | Default display: yes
+Attribution: The Gleaners — Jean-François Millet; image: Jean-François Millet; Public domain; https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+35. The Ninth Wave
+Artist: Ivan Aivazovsky | Date: 1850
+Asset: paintings/the-ninth-wave--ivan-aivazovsky.webp
+Galleries: 03-romantic-neoclassical-realist
+Survivors face immense waves beneath a luminous sky in a dramatic image of nature's power.
+Image: 2048 × 1376 px | artwork-reproduction | Default display: yes
+Attribution: The Ninth Wave — Ivan Aivazovsky; image: Hovhannes Aivazovsky (1817 - 1900) – painter (Russian) Born in Rossiiskaya imperiya, Feodosia. Died in Rossiiskaya imperiya, Feodosia. Details on Google Art Project; Public domain; https://commons.wikimedia.org/wiki/File:Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+36. The Scream
+Artist: Edvard Munch | Date: 1893
+Asset: paintings/the-scream--edvard-munch.webp
+Galleries: 04-impressionism-post-impressionism
+An anguished figure stands against a violently colored sky in an enduring image of existential anxiety.
+Image: 1650 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Scream — Edvard Munch; image: Edvard Munch; Public domain; https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Catalog note: Verify 1893 version
+
+37. The Kiss
+Artist: Gustav Klimt | Date: 1907–1908
+Asset: paintings/the-kiss--gustav-klimt.webp
+Galleries: 04-impressionism-post-impressionism
+Two embracing figures dissolve into intricate gilded ornament in a celebration of intimacy.
+Image: 2041 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Kiss — Gustav Klimt; image: Gustav Klimt; Public domain; https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+38. Impression, Sunrise
+Artist: Claude Monet | Date: 1872
+Asset: paintings/impression-sunrise--claude-monet.webp
+Galleries: 04-impressionism-post-impressionism
+A hazy harbor and orange sun capture the fleeting effect of atmosphere that gave Impressionism its name.
+Image: 2048 × 1589 px | artwork-reproduction | Default display: yes
+Attribution: Impression, Sunrise — Claude Monet; image: Claude Monet; Public domain; https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+39. Reflections of Clouds on the Water-Lily Pond (installation view)
+Artist: Claude Monet | Date: c. 1920
+Asset: paintings/water-lilies--claude-monet.webp
+Galleries: 04-impressionism-post-impressionism
+An angled museum photograph of Monet’s monumental Water Lilies triptych, with the gallery wall and floor visible. The work explores reflected clouds, floating lilies and changing light. This image is an installation view, not a flat artwork texture.
+Image: 2048 × 1170 px | installation-photo | Default display: no
+Attribution: Reflections of Clouds on the Water-Lily Pond (installation view) — Claude Monet; image: Claude Monet; Public domain; https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Replace with a straight-on reproduction; confirm the photographer’s rights separately.
+Catalog note: Series; verify selected canvas
+
+40. Café Terrace at Night
+Artist: Vincent van Gogh | Date: 1888
+Asset: paintings/cafe-terrace-at-night--vincent-van-gogh.webp
+Galleries: 04-impressionism-post-impressionism
+A warmly illuminated café terrace contrasts with the deep blue of an evening street and sky.
+Image: 1642 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Café Terrace at Night — Vincent van Gogh; image: Vincent van Gogh; Public domain; https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+41. Starry Night Over the Rhône
+Artist: Vincent van Gogh | Date: 1888
+Asset: paintings/starry-night-over-the-rhone--vincent-van-gogh.webp
+Galleries: 04-impressionism-post-impressionism
+Stars and artificial lights shimmer on the Rhône in a nocturnal study of reflected color.
+Image: 2048 × 1582 px | artwork-reproduction | Default display: yes
+Attribution: Starry Night Over the Rhône — Vincent van Gogh; image: Vincent van Gogh; Public domain; https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+42. Sunflowers (National Gallery version)
+Artist: Vincent van Gogh | Date: 1888
+Asset: paintings/sunflowers--vincent-van-gogh.webp
+Galleries: 04-impressionism-post-impressionism
+A vase of sunflowers in varied stages of bloom stands against a yellow background. This is the 1888 London National Gallery version (NG3863), one of Van Gogh’s series of sunflower still lifes.
+Image: 1623 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Sunflowers (National Gallery version) — Vincent van Gogh; image: Vincent van Gogh; Public domain; https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_127.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Specific National Gallery version identified from source credit.
+Catalog note: Series; verify selected canvas
+
+43. The Night Café
+Artist: Vincent van Gogh | Date: 1888
+Asset: paintings/the-night-cafe--vincent-van-gogh.webp
+Galleries: 04-impressionism-post-impressionism
+An intensely colored café interior expresses unease through exaggerated perspective and contrasting hues.
+Image: 2048 × 1617 px | artwork-reproduction | Default display: yes
+Attribution: The Night Café — Vincent van Gogh; image: Vincent van Gogh; Public domain; https://commons.wikimedia.org/wiki/File:Van_Gogh_-_The_Night_Caf%C3%A9_(1888).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+44. Wheatfield with Crows
+Artist: Vincent van Gogh | Date: 1890
+Asset: paintings/wheatfield-with-crows--vincent-van-gogh.webp
+Galleries: 04-impressionism-post-impressionism
+A turbulent sky, wheat fields and dark birds create a powerful late landscape.
+Image: 2048 × 981 px | artwork-reproduction | Default display: yes
+Attribution: Wheatfield with Crows — Vincent van Gogh; image: Vincent van Gogh; Public domain; https://commons.wikimedia.org/wiki/File:Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+45. Luncheon of the Boating Party
+Artist: Pierre-Auguste Renoir | Date: 1880–1881
+Asset: paintings/luncheon-of-the-boating-party--pierre-auguste-renoir.webp
+Galleries: 04-impressionism-post-impressionism
+Friends gather around a table on a sunny terrace in an intimate study of social life and color.
+Image: 2048 × 1517 px | artwork-reproduction | Default display: yes
+Attribution: Luncheon of the Boating Party — Pierre-Auguste Renoir; image: Pierre-Auguste Renoir; Public domain; https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+46. The Card Players (Musée d’Orsay version)
+Artist: Paul Cézanne | Date: 1890s
+Asset: paintings/the-card-players--paul-cezanne.webp
+Galleries: 04-impressionism-post-impressionism
+Two men sit across a small table playing cards, with a bottle between them. Cézanne builds the composition from restrained color and solid geometric forms. This is the Musée d’Orsay version of the series.
+Image: 2048 × 1680 px | artwork-reproduction | Default display: yes
+Attribution: The Card Players (Musée d’Orsay version) — Paul Cézanne; image: Paul Cézanne; Public domain; https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Source identifies the Musée d’Orsay version; retain the catalog’s decade-level date because dating varies.
+Catalog note: Series; verify selected canvas
+
+47. Nighthawks
+Artist: Edward Hopper | Date: 1942
+Asset: paintings/nighthawks--edward-hopper.webp
+Galleries: 05-modern-surrealism
+Late-night customers occupy a brightly lit diner surrounded by an empty urban street.
+Image: 2048 × 1118 px | artwork-reproduction | Default display: yes
+Attribution: Nighthawks — Edward Hopper; image: Edward Hopper; Public domain; https://commons.wikimedia.org/wiki/File:Nighthawks_by_Edward_Hopper_1942.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+48. American Gothic
+Artist: Grant Wood | Date: 1930
+Asset: paintings/american-gothic--grant-wood.webp
+Galleries: 05-modern-surrealism
+A stern pair stands before a Gothic-windowed house in an iconic image of rural American identity.
+Image: 1694 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: American Gothic — Grant Wood; image: Grant Wood; Public domain; https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+49. Black Square
+Artist: Kazimir Malevich | Date: 1915
+Asset: paintings/black-square--kazimir-malevich.webp
+Galleries: 05-modern-surrealism
+A black square on a pale ground radically reduces painting to a nonrepresentational statement.
+Image: 1718 × 1718 px | artwork-reproduction | Default display: yes
+Attribution: Black Square — Kazimir Malevich; image: Kazimir Malevich; Public domain; https://commons.wikimedia.org/wiki/File:Kazimir_Malevich,_1915,_Black_Suprematic_Square,_oil_on_linen_canvas,_79.5_x_79.5_cm,_Tretyakov_Gallery,_Moscow.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+50. The Great Wave off Kanagawa
+Artist: Katsushika Hokusai | Date: c. 1831
+Asset: paintings/the-great-wave-off-kanagawa--katsushika-hokusai.webp
+Galleries: 06-world-art
+An enormous wave towers over boats and distant Mount Fuji in a celebrated Japanese woodblock print.
+Image: 2048 × 1377 px | woodblock-print | Default display: yes
+Attribution: The Great Wave off Kanagawa — Katsushika Hokusai; image: Katsushika Hokusai; Public domain; https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+51. Along the River During the Qingming Festival (city gate detail)
+Artist: Zhang Zeduan | Date: 12th century
+Asset: paintings/along-the-river-during-the-qingming-festival--zhang-zeduan.webp
+Galleries: 06-world-art
+This excerpt from Zhang Zeduan’s Song-dynasty handscroll shows a city gate and the activity surrounding it. The complete scroll traces daily life across rural and urban settings; only one section is reproduced here.
+Image: 2048 × 1467 px | artwork-detail | Default display: yes
+Attribution: Along the River During the Qingming Festival (city gate detail) — Zhang Zeduan; image: Zhang Zeduan; Public domain; https://commons.wikimedia.org/wiki/File:Bianjing_city_gate.JPG. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Partial handscroll, not the complete painting.
+
+52. A Thousand Li of Rivers and Mountains (detail)
+Artist: Wang Ximeng | Date: 1113
+Asset: paintings/a-thousand-li-of-rivers-and-mountains--wang-ximeng.webp
+Galleries: 06-world-art
+A section of Wang Ximeng’s blue-green landscape handscroll, featuring layered mountain forms, water and inscriptions. The original is a long panoramic composition; this image is an excerpt.
+Image: 690 × 482 px | artwork-detail | Default display: yes
+Attribution: A Thousand Li of Rivers and Mountains (detail) — Wang Ximeng; image: Ximeng Wang; Public domain; https://commons.wikimedia.org/wiki/File:A_Thousand_Li_of_Rivers_and_Mountains_part.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: Partial handscroll; source image is only 690 × 482 pixels.
+
+53. Red Fuji
+Artist: Katsushika Hokusai | Date: c. 1830–1832
+Asset: paintings/red-fuji--katsushika-hokusai.webp
+Galleries: 06-world-art
+Mount Fuji glows red beneath a patterned sky in one of Hokusai's celebrated woodblock views.
+Image: 2048 × 1412 px | woodblock-print | Default display: yes
+Attribution: Red Fuji — Katsushika Hokusai; image: Katsushika Hokusai; CC0; https://commons.wikimedia.org/wiki/File:%E3%80%8C%E5%AF%8C%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E5%87%B1%E9%A2%A8%E5%BF%AB%E6%99%B4%E3%80%8D-South_Wind,_Clear_Sky_(Gaif%C5%AB_kaisei),_also_known_as_Red_Fuji,_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141062.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package. License: http://creativecommons.org/publicdomain/zero/1.0/deed.en.
+
+54. Red and White Plum Blossoms
+Artist: Ogata Kōrin | Date: c. 1710s
+Asset: paintings/red-and-white-plum-blossoms--ogata-korin.webp
+Galleries: 06-world-art
+Flowering trees flank a stylized stream across a pair of richly decorative Japanese screens.
+Image: 2048 × 899 px | screen-painting | Default display: yes
+Attribution: Red and White Plum Blossoms — Ogata Kōrin; image: Ogata Kōrin; Public domain; https://commons.wikimedia.org/wiki/File:Ogata_Korin_-_RED_AND_WHITE_PLUM_BLOSSOMS_(National_Treasure)_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+55. Shakuntala
+Artist: Raja Ravi Varma | Date: Late 19th century (exact date unverified)
+Asset: paintings/shakuntala--raja-ravi-varma.webp
+Galleries: 06-world-art
+Shakuntala, a heroine of Sanskrit literature, turns back as her companions stand nearby in a wooded setting. The painting evokes the story of her love for King Dushyanta.
+Image: 1250 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Shakuntala — Raja Ravi Varma; image: Raja Ravi Varma; Public domain; https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Note: The source file has been categorized as 1898; the earlier catalog gave 1870. Exact date requires confirmation.
+
+56. The Tortoise Trainer
+Artist: Osman Hamdi Bey | Date: 1906
+Asset: paintings/the-tortoise-trainer--osman-hamdi-bey.webp
+Galleries: 06-world-art
+A figure attends to tortoises in a tiled interior, a scene often interpreted in relation to reform and patience.
+Image: 1095 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Tortoise Trainer — Osman Hamdi Bey; image: Osman Hamdi Bey; Public domain; https://commons.wikimedia.org/wiki/File:Osman_Hamdi_Bey_-_The_Tortoise_Trainer_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+57. Dream of a Sunday Afternoon in Alameda Central (detail)
+Artist: Diego Rivera | Date: 1947
+Asset: paintings/dream-of-a-sunday-afternoon-in-alameda-central--diego-rivera.webp
+Galleries: 06-world-art
+A photograph of the central section of Rivera’s mural, featuring La Catrina, the artist as a child and Frida Kahlo. The larger mural brings together figures from Mexican history and culture; this file does not show the full composition.
+Image: 420 × 560 px | mural-detail-photo | Default display: no
+Attribution: Dream of a Sunday Afternoon in Alameda Central (detail) — Diego Rivera; image: momo from Hong Kong; CC BY 2.0; https://commons.wikimedia.org/wiki/File:The_Kid_-_Diego_Rivera.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package. License: https://creativecommons.org/licenses/by/2.0.
+Note: The CC BY 2.0 metadata refers to the photograph. Confirm rights to the underlying mural before public exhibition.
+
+58. Spoliarium
+Artist: Juan Luna | Date: 1884
+Asset: paintings/spoliarium--juan-luna.webp
+Galleries: 07-philippine-art
+Fallen gladiators are dragged into a Roman arena's service area in a monumental image of suffering and injustice.
+Image: 2048 × 1104 px | artwork-reproduction | Default display: yes
+Attribution: Spoliarium — Juan Luna; image: Juan Luna; Public domain; https://commons.wikimedia.org/wiki/File:Spoliarium.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+59. The Parisian Life
+Artist: Juan Luna | Date: 1892
+Asset: paintings/the-parisian-life--juan-luna.webp
+Galleries: 07-philippine-art
+A woman sits in a Parisian café near a group of men in an enigmatic scene of metropolitan life.
+Image: 1002 × 706 px | artwork-reproduction | Default display: yes
+Attribution: The Parisian Life — Juan Luna; image: Juan Luna; Public domain; https://commons.wikimedia.org/wiki/File:The_Parisian_Life_by_Juan_Luna.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+60. Las Virgenes Cristianas Expuestas al Populacho
+Artist: Félix Resurrección Hidalgo | Date: 1884
+Asset: paintings/las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo.webp
+Galleries: 07-philippine-art
+Christian women face public humiliation in an academic historical painting of persecution.
+Image: 1024 × 768 px | artwork-reproduction | Default display: yes
+Attribution: Las Virgenes Cristianas Expuestas al Populacho — Félix Resurrección Hidalgo; image: Félix Resurrección Hidalgo; Public domain; https://commons.wikimedia.org/wiki/File:Las_Virgenes_Cristianas_Expuestas_Al_Populacho_(The_Christian_Virgins_Being_Exposed_to_the_Populace)_by_Felix_Ressureccion_Hidalgo_1884.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+61. A Philosopher Lecturing on the Orrery
+Artist: Joseph Wright of Derby | Date: 1766
+Asset: paintings/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp
+Galleries: 08-science-discovery
+A group watches a model of the solar system illuminated by an artificial sun, dramatizing Enlightenment curiosity.
+Image: 2048 × 1437 px | artwork-reproduction | Default display: yes
+Attribution: A Philosopher Lecturing on the Orrery — Joseph Wright of Derby; image: Joseph Wright of Derby; Public domain; https://commons.wikimedia.org/wiki/File:Wright_of_Derby,_The_Orrery.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+62. The Alchemist Discovering Phosphorus
+Artist: Joseph Wright of Derby | Date: 1771
+Asset: paintings/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp
+Galleries: 08-science-discovery
+An alchemist encounters luminous phosphorus, making a historical discovery the focus of dramatic illumination.
+Image: 1579 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Alchemist Discovering Phosphorus — Joseph Wright of Derby; image: Joseph Wright of Derby; Public domain; https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_The_Alchemist.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+63. An Experiment on a Bird in the Air Pump
+Artist: Joseph Wright of Derby | Date: 1768
+Asset: paintings/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp
+Galleries: 08-science-discovery
+Observers respond to an air-pump demonstration, raising questions about experimentation and scientific ethics.
+Image: 2048 × 1535 px | artwork-reproduction | Default display: yes
+Attribution: An Experiment on a Bird in the Air Pump — Joseph Wright of Derby; image: Joseph Wright of Derby; Public domain; https://commons.wikimedia.org/wiki/File:An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+64. The Astronomer
+Artist: Johannes Vermeer | Date: 1668
+Asset: paintings/the-astronomer--johannes-vermeer.webp
+Galleries: 08-science-discovery
+A scholar examines a celestial globe in a quiet interior devoted to astronomical study.
+Image: 1803 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Astronomer — Johannes Vermeer; image: Johannes Vermeer; Public domain; https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Astronomer_-_1668.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+65. The Geographer
+Artist: Johannes Vermeer | Date: 1669
+Asset: paintings/the-geographer--johannes-vermeer.webp
+Galleries: 08-science-discovery
+A scholar pauses over maps and instruments in a study of observation and geographical knowledge.
+Image: 1827 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Geographer — Johannes Vermeer; image: Johannes Vermeer; Public domain; https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+66. Portrait of the Lavoisiers
+Artist: Jacques-Louis David | Date: 1788
+Asset: paintings/portrait-of-the-lavoisiers--jacques-louis-david.webp
+Galleries: 08-science-discovery
+The chemist Antoine Lavoisier and Marie-Anne Paulze Lavoisier appear with laboratory instruments, emphasizing scientific partnership.
+Image: 1536 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Portrait of the Lavoisiers — Jacques-Louis David; image: Jacques-Louis David; Public domain; https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+67. Newton
+Artist: William Blake | Date: 1795–c. 1805
+Asset: paintings/newton--william-blake.webp
+Galleries: 09-philosophy-reason
+Newton bends over a geometric diagram with a compass, absorbed in measurement. Blake’s image can be read as a critique of a worldview restricted to rational calculation. It is a color print finished by hand, not a conventional oil portrait.
+Image: 2048 × 1575 px | color-print | Default display: yes
+Attribution: Newton — William Blake; image: William Blake; Public domain; https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Catalog note: Color print
+
+68. Philosopher in Meditation
+Artist: Rembrandt | Date: 1632
+Asset: paintings/philosopher-in-meditation--rembrandt.webp
+Galleries: 09-philosophy-reason
+A quiet interior with a spiral staircase and a seated figure evokes contemplation; the traditional philosopher title is interpretive.
+Image: 1013 × 841 px | artwork-reproduction | Default display: yes
+Attribution: Philosopher in Meditation — Rembrandt; image: Rembrandt; Public domain; https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Philosopher_in_Meditation.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+69. Vitruvian Man
+Artist: Leonardo da Vinci | Date: c. 1490
+Asset: paintings/vitruvian-man--leonardo-da-vinci.webp
+Galleries: 09-philosophy-reason
+Leonardo's pen-and-ink study places the human body inside a circle and square, connecting anatomy and geometry.
+Image: 1506 × 2048 px | drawing | Default display: yes
+Attribution: Vitruvian Man — Leonardo da Vinci; image: Leonardo da Vinci; Public domain; https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Catalog note: Drawing
+
+70. The Gross Clinic
+Artist: Thomas Eakins | Date: 1875
+Asset: paintings/the-gross-clinic--thomas-eakins.webp
+Galleries: 11-mathematics-engineering-medicine
+A surgeon leads an operation before students in a striking representation of medical teaching.
+Image: 1651 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: The Gross Clinic — Thomas Eakins; image: Thomas Eakins, American, 1844 - 1916 (1844 - 1916) – Artist/Maker (American) Born in Philadelphia, Pennsylvania, United States. Died in Philadelphia, Pennsylvania, United States. Details on Google Art Project; Public domain; https://commons.wikimedia.org/wiki/File:Thomas_Eakins,_American_-_Portrait_of_Dr._Samuel_D._Gross_(The_Gross_Clinic)_-_Google_Art_Project.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+71. Portrait of Albert Einstein (1917)
+Artist: Erich Büttner | Date: 1917
+Asset: paintings/portrait-of-albert-einstein-1917--erich-buttner.webp
+Galleries: 12-einstein
+A historical portrait of Albert Einstein from the years immediately following his formulation of general relativity.
+Image: 588 × 700 px | artwork-reproduction | Default display: yes
+Attribution: Portrait of Albert Einstein (1917) — Erich Büttner; image: Erich Büttner; Public domain; https://commons.wikimedia.org/wiki/File:Erich_B%C3%BCttner_-_Portrait_of_Albert_Einstein,_1917.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Catalog note: Berlin State Museums object 966106
+
+72. Albert Einstein (1924)
+Artist: Leonid Pasternak | Date: 1924
+Asset: paintings/albert-einstein-1924--leonid-pasternak.webp
+Galleries: 12-einstein
+Leonid Pasternak's portrait offers an artistic interpretation of Einstein during his years of scientific prominence.
+Image: 1545 × 1943 px | artwork-reproduction | Default display: yes
+Attribution: Albert Einstein (1924) — Leonid Pasternak; image: Leonid Pasternak; Public domain; https://commons.wikimedia.org/wiki/File:Leonid_Pasternak_-_Albert_Einstein_(1924).jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+Catalog note: Hebrew University collection
+
+73. Isaac Newton
+Artist: Godfrey Kneller | Date: 1689
+Asset: paintings/isaac-newton--godfrey-kneller.webp
+Galleries: 13-architects-of-reality
+A portrait of the mathematician and physicist whose laws of motion and gravitation shaped classical mechanics.
+Image: 1364 × 1916 px | artwork-reproduction | Default display: yes
+Attribution: Isaac Newton — Godfrey Kneller; image: Godfrey Kneller; Public domain; https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package.
+
+74. Nikola Tesla (Blue Portrait)
+Artist: Vilma Lwoff-Parlaghy | Date: 1916
+Asset: paintings/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp
+Galleries: 13-architects-of-reality
+A portrait of the inventor known for contributions to alternating-current power and electrical engineering.
+Image: 1446 × 2048 px | artwork-reproduction | Default display: yes
+Attribution: Nikola Tesla (Blue Portrait) — Vilma Lwoff-Parlaghy; image: The Nikola Tesla Museum; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Blue_Portrait_-_Nikola_Tesla.jpg. Source image resized/encoded as WebP by the original downloader; unchanged in this package. License: https://creativecommons.org/licenses/by-sa/4.0.
+Note: Digital image supplied by the Nikola Tesla Museum under CC BY-SA 4.0; retain its credit and license when distributing.
+

@@ -1,0 +1,1099 @@
+{
+  "schema": "anyo-texture-profiles@1",
+  "profiles": {
+    "mobile": {
+      "maxEdge": 1024,
+      "images": [
+        {
+          "source": "assets/museum/paintings/mona-lisa--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/mona-lisa--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/mona-lisa--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/mona-lisa--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-last-supper--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/the-last-supper--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-last-supper--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/the-last-supper--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-creation-of-adam--michelangelo.webp",
+          "file": "assets/museum/variants/mobile/the-creation-of-adam--michelangelo.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-creation-of-adam--michelangelo.webp",
+          "file": "assets/museum/variants/mobile/the-creation-of-adam--michelangelo.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-school-of-athens--raphael.webp",
+          "file": "assets/museum/variants/mobile/the-school-of-athens--raphael.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-school-of-athens--raphael.webp",
+          "file": "assets/museum/variants/mobile/the-school-of-athens--raphael.webp"
+        },
+        {
+          "source": "assets/museum/paintings/primavera--sandro-botticelli.webp",
+          "file": "assets/museum/variants/mobile/primavera--sandro-botticelli.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/primavera--sandro-botticelli.webp",
+          "file": "assets/museum/variants/mobile/primavera--sandro-botticelli.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-arnolfini-portrait--jan-van-eyck.webp",
+          "file": "assets/museum/variants/mobile/the-arnolfini-portrait--jan-van-eyck.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-arnolfini-portrait--jan-van-eyck.webp",
+          "file": "assets/museum/variants/mobile/the-arnolfini-portrait--jan-van-eyck.webp"
+        },
+        {
+          "source": "assets/museum/paintings/lady-with-an-ermine--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/lady-with-an-ermine--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/lady-with-an-ermine--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/lady-with-an-ermine--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/sistine-madonna--raphael.webp",
+          "file": "assets/museum/variants/mobile/sistine-madonna--raphael.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/sistine-madonna--raphael.webp",
+          "file": "assets/museum/variants/mobile/sistine-madonna--raphael.webp"
+        },
+        {
+          "source": "assets/museum/paintings/venus-of-urbino--titian.webp",
+          "file": "assets/museum/variants/mobile/venus-of-urbino--titian.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/venus-of-urbino--titian.webp",
+          "file": "assets/museum/variants/mobile/venus-of-urbino--titian.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-annunciation--fra-angelico.webp",
+          "file": "assets/museum/variants/mobile/the-annunciation--fra-angelico.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-annunciation--fra-angelico.webp",
+          "file": "assets/museum/variants/mobile/the-annunciation--fra-angelico.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-lamentation--giotto.webp",
+          "file": "assets/museum/variants/mobile/the-lamentation--giotto.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-lamentation--giotto.webp",
+          "file": "assets/museum/variants/mobile/the-lamentation--giotto.webp"
+        },
+        {
+          "source": "assets/museum/paintings/girl-with-a-pearl-earring--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/girl-with-a-pearl-earring--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/girl-with-a-pearl-earring--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/girl-with-a-pearl-earring--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-night-watch--rembrandt.webp",
+          "file": "assets/museum/variants/mobile/the-night-watch--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-night-watch--rembrandt.webp",
+          "file": "assets/museum/variants/mobile/the-night-watch--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-calling-of-saint-matthew--caravaggio.webp",
+          "file": "assets/museum/variants/mobile/the-calling-of-saint-matthew--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-calling-of-saint-matthew--caravaggio.webp",
+          "file": "assets/museum/variants/mobile/the-calling-of-saint-matthew--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-milkmaid--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-milkmaid--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-milkmaid--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-milkmaid--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+          "file": "assets/museum/variants/mobile/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+          "file": "assets/museum/variants/mobile/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/judith-beheading-holofernes--artemisia-gentileschi.webp",
+          "file": "assets/museum/variants/mobile/judith-beheading-holofernes--artemisia-gentileschi.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/judith-beheading-holofernes--artemisia-gentileschi.webp",
+          "file": "assets/museum/variants/mobile/judith-beheading-holofernes--artemisia-gentileschi.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+          "file": "assets/museum/variants/mobile/the-storm-on-the-sea-of-galilee--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+          "file": "assets/museum/variants/mobile/the-storm-on-the-sea-of-galilee--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-swing--jean-honore-fragonard.webp",
+          "file": "assets/museum/variants/mobile/the-swing--jean-honore-fragonard.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-swing--jean-honore-fragonard.webp",
+          "file": "assets/museum/variants/mobile/the-swing--jean-honore-fragonard.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-elevation-of-the-cross--peter-paul-rubens.webp",
+          "file": "assets/museum/variants/mobile/the-elevation-of-the-cross--peter-paul-rubens.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-elevation-of-the-cross--peter-paul-rubens.webp",
+          "file": "assets/museum/variants/mobile/the-elevation-of-the-cross--peter-paul-rubens.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-supper-at-emmaus--caravaggio.webp",
+          "file": "assets/museum/variants/mobile/the-supper-at-emmaus--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-supper-at-emmaus--caravaggio.webp",
+          "file": "assets/museum/variants/mobile/the-supper-at-emmaus--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-art-of-painting--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-art-of-painting--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-art-of-painting--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-art-of-painting--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-rokeby-venus--diego-velazquez.webp",
+          "file": "assets/museum/variants/mobile/the-rokeby-venus--diego-velazquez.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-rokeby-venus--diego-velazquez.webp",
+          "file": "assets/museum/variants/mobile/the-rokeby-venus--diego-velazquez.webp"
+        },
+        {
+          "source": "assets/museum/paintings/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+          "file": "assets/museum/variants/mobile/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+          "file": "assets/museum/variants/mobile/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp"
+        },
+        {
+          "source": "assets/museum/paintings/liberty-leading-the-people--eugene-delacroix.webp",
+          "file": "assets/museum/variants/mobile/liberty-leading-the-people--eugene-delacroix.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/liberty-leading-the-people--eugene-delacroix.webp",
+          "file": "assets/museum/variants/mobile/liberty-leading-the-people--eugene-delacroix.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-raft-of-the-medusa--theodore-gericault.webp",
+          "file": "assets/museum/variants/mobile/the-raft-of-the-medusa--theodore-gericault.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-raft-of-the-medusa--theodore-gericault.webp",
+          "file": "assets/museum/variants/mobile/the-raft-of-the-medusa--theodore-gericault.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-death-of-socrates--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/the-death-of-socrates--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-death-of-socrates--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/the-death-of-socrates--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/saturn-devouring-his-son--francisco-goya.webp",
+          "file": "assets/museum/variants/mobile/saturn-devouring-his-son--francisco-goya.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/saturn-devouring-his-son--francisco-goya.webp",
+          "file": "assets/museum/variants/mobile/saturn-devouring-his-son--francisco-goya.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-nightmare--henry-fuseli.webp",
+          "file": "assets/museum/variants/mobile/the-nightmare--henry-fuseli.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-nightmare--henry-fuseli.webp",
+          "file": "assets/museum/variants/mobile/the-nightmare--henry-fuseli.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-oath-of-the-horatii--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/the-oath-of-the-horatii--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-oath-of-the-horatii--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/the-oath-of-the-horatii--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-death-of-marat--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/the-death-of-marat--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-death-of-marat--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/the-death-of-marat--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-fighting-temeraire--j-m-w-turner.webp",
+          "file": "assets/museum/variants/mobile/the-fighting-temeraire--j-m-w-turner.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-fighting-temeraire--j-m-w-turner.webp",
+          "file": "assets/museum/variants/mobile/the-fighting-temeraire--j-m-w-turner.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-hay-wain--john-constable.webp",
+          "file": "assets/museum/variants/mobile/the-hay-wain--john-constable.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-hay-wain--john-constable.webp",
+          "file": "assets/museum/variants/mobile/the-hay-wain--john-constable.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-gleaners--jean-francois-millet.webp",
+          "file": "assets/museum/variants/mobile/the-gleaners--jean-francois-millet.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-gleaners--jean-francois-millet.webp",
+          "file": "assets/museum/variants/mobile/the-gleaners--jean-francois-millet.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-ninth-wave--ivan-aivazovsky.webp",
+          "file": "assets/museum/variants/mobile/the-ninth-wave--ivan-aivazovsky.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-ninth-wave--ivan-aivazovsky.webp",
+          "file": "assets/museum/variants/mobile/the-ninth-wave--ivan-aivazovsky.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-scream--edvard-munch.webp",
+          "file": "assets/museum/variants/mobile/the-scream--edvard-munch.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-scream--edvard-munch.webp",
+          "file": "assets/museum/variants/mobile/the-scream--edvard-munch.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-kiss--gustav-klimt.webp",
+          "file": "assets/museum/variants/mobile/the-kiss--gustav-klimt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-kiss--gustav-klimt.webp",
+          "file": "assets/museum/variants/mobile/the-kiss--gustav-klimt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/impression-sunrise--claude-monet.webp",
+          "file": "assets/museum/variants/mobile/impression-sunrise--claude-monet.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/impression-sunrise--claude-monet.webp",
+          "file": "assets/museum/variants/mobile/impression-sunrise--claude-monet.webp"
+        },
+        {
+          "source": "assets/museum/paintings/cafe-terrace-at-night--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/cafe-terrace-at-night--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/cafe-terrace-at-night--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/cafe-terrace-at-night--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/starry-night-over-the-rhone--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/starry-night-over-the-rhone--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/starry-night-over-the-rhone--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/starry-night-over-the-rhone--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/sunflowers--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/sunflowers--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/sunflowers--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/sunflowers--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-night-cafe--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/the-night-cafe--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-night-cafe--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/the-night-cafe--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/wheatfield-with-crows--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/wheatfield-with-crows--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/wheatfield-with-crows--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile/wheatfield-with-crows--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+          "file": "assets/museum/variants/mobile/luncheon-of-the-boating-party--pierre-auguste-renoir.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+          "file": "assets/museum/variants/mobile/luncheon-of-the-boating-party--pierre-auguste-renoir.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-card-players--paul-cezanne.webp",
+          "file": "assets/museum/variants/mobile/the-card-players--paul-cezanne.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-card-players--paul-cezanne.webp",
+          "file": "assets/museum/variants/mobile/the-card-players--paul-cezanne.webp"
+        },
+        {
+          "source": "assets/museum/paintings/nighthawks--edward-hopper.webp",
+          "file": "assets/museum/variants/mobile/nighthawks--edward-hopper.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/nighthawks--edward-hopper.webp",
+          "file": "assets/museum/variants/mobile/nighthawks--edward-hopper.webp"
+        },
+        {
+          "source": "assets/museum/paintings/american-gothic--grant-wood.webp",
+          "file": "assets/museum/variants/mobile/american-gothic--grant-wood.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/american-gothic--grant-wood.webp",
+          "file": "assets/museum/variants/mobile/american-gothic--grant-wood.webp"
+        },
+        {
+          "source": "assets/museum/paintings/black-square--kazimir-malevich.webp",
+          "file": "assets/museum/variants/mobile/black-square--kazimir-malevich.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/black-square--kazimir-malevich.webp",
+          "file": "assets/museum/variants/mobile/black-square--kazimir-malevich.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile/the-great-wave-off-kanagawa--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile/the-great-wave-off-kanagawa--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/paintings/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+          "file": "assets/museum/variants/mobile/along-the-river-during-the-qingming-festival--zhang-zeduan.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+          "file": "assets/museum/variants/mobile/along-the-river-during-the-qingming-festival--zhang-zeduan.webp"
+        },
+        {
+          "source": "assets/museum/paintings/red-fuji--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile/red-fuji--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/red-fuji--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile/red-fuji--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/paintings/red-and-white-plum-blossoms--ogata-korin.webp",
+          "file": "assets/museum/variants/mobile/red-and-white-plum-blossoms--ogata-korin.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/red-and-white-plum-blossoms--ogata-korin.webp",
+          "file": "assets/museum/variants/mobile/red-and-white-plum-blossoms--ogata-korin.webp"
+        },
+        {
+          "source": "assets/museum/paintings/shakuntala--raja-ravi-varma.webp",
+          "file": "assets/museum/variants/mobile/shakuntala--raja-ravi-varma.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/shakuntala--raja-ravi-varma.webp",
+          "file": "assets/museum/variants/mobile/shakuntala--raja-ravi-varma.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-tortoise-trainer--osman-hamdi-bey.webp",
+          "file": "assets/museum/variants/mobile/the-tortoise-trainer--osman-hamdi-bey.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-tortoise-trainer--osman-hamdi-bey.webp",
+          "file": "assets/museum/variants/mobile/the-tortoise-trainer--osman-hamdi-bey.webp"
+        },
+        {
+          "source": "assets/museum/paintings/spoliarium--juan-luna.webp",
+          "file": "assets/museum/variants/mobile/spoliarium--juan-luna.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/spoliarium--juan-luna.webp",
+          "file": "assets/museum/variants/mobile/spoliarium--juan-luna.webp"
+        },
+        {
+          "source": "assets/museum/paintings/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/paintings/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-astronomer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-astronomer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-astronomer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-astronomer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-geographer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-geographer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-geographer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile/the-geographer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/portrait-of-the-lavoisiers--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile/portrait-of-the-lavoisiers--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/newton--william-blake.webp",
+          "file": "assets/museum/variants/mobile/newton--william-blake.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/newton--william-blake.webp",
+          "file": "assets/museum/variants/mobile/newton--william-blake.webp"
+        },
+        {
+          "source": "assets/museum/paintings/vitruvian-man--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/vitruvian-man--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/vitruvian-man--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile/vitruvian-man--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-gross-clinic--thomas-eakins.webp",
+          "file": "assets/museum/variants/mobile/the-gross-clinic--thomas-eakins.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-gross-clinic--thomas-eakins.webp",
+          "file": "assets/museum/variants/mobile/the-gross-clinic--thomas-eakins.webp"
+        },
+        {
+          "source": "assets/museum/paintings/albert-einstein-1924--leonid-pasternak.webp",
+          "file": "assets/museum/variants/mobile/albert-einstein-1924--leonid-pasternak.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/albert-einstein-1924--leonid-pasternak.webp",
+          "file": "assets/museum/variants/mobile/albert-einstein-1924--leonid-pasternak.webp"
+        },
+        {
+          "source": "assets/museum/paintings/isaac-newton--godfrey-kneller.webp",
+          "file": "assets/museum/variants/mobile/isaac-newton--godfrey-kneller.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/isaac-newton--godfrey-kneller.webp",
+          "file": "assets/museum/variants/mobile/isaac-newton--godfrey-kneller.webp"
+        },
+        {
+          "source": "assets/museum/paintings/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+          "file": "assets/museum/variants/mobile/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+          "file": "assets/museum/variants/mobile/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp"
+        }
+      ]
+    },
+    "mobile-low": {
+      "maxEdge": 768,
+      "images": [
+        {
+          "source": "assets/museum/paintings/mona-lisa--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/mona-lisa--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/mona-lisa--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/mona-lisa--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-last-supper--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/the-last-supper--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-last-supper--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/the-last-supper--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-creation-of-adam--michelangelo.webp",
+          "file": "assets/museum/variants/mobile-low/the-creation-of-adam--michelangelo.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-creation-of-adam--michelangelo.webp",
+          "file": "assets/museum/variants/mobile-low/the-creation-of-adam--michelangelo.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-school-of-athens--raphael.webp",
+          "file": "assets/museum/variants/mobile-low/the-school-of-athens--raphael.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-school-of-athens--raphael.webp",
+          "file": "assets/museum/variants/mobile-low/the-school-of-athens--raphael.webp"
+        },
+        {
+          "source": "assets/museum/paintings/primavera--sandro-botticelli.webp",
+          "file": "assets/museum/variants/mobile-low/primavera--sandro-botticelli.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/primavera--sandro-botticelli.webp",
+          "file": "assets/museum/variants/mobile-low/primavera--sandro-botticelli.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-arnolfini-portrait--jan-van-eyck.webp",
+          "file": "assets/museum/variants/mobile-low/the-arnolfini-portrait--jan-van-eyck.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-arnolfini-portrait--jan-van-eyck.webp",
+          "file": "assets/museum/variants/mobile-low/the-arnolfini-portrait--jan-van-eyck.webp"
+        },
+        {
+          "source": "assets/museum/paintings/lady-with-an-ermine--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/lady-with-an-ermine--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/lady-with-an-ermine--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/lady-with-an-ermine--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/sistine-madonna--raphael.webp",
+          "file": "assets/museum/variants/mobile-low/sistine-madonna--raphael.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/sistine-madonna--raphael.webp",
+          "file": "assets/museum/variants/mobile-low/sistine-madonna--raphael.webp"
+        },
+        {
+          "source": "assets/museum/paintings/venus-of-urbino--titian.webp",
+          "file": "assets/museum/variants/mobile-low/venus-of-urbino--titian.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/venus-of-urbino--titian.webp",
+          "file": "assets/museum/variants/mobile-low/venus-of-urbino--titian.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-annunciation--fra-angelico.webp",
+          "file": "assets/museum/variants/mobile-low/the-annunciation--fra-angelico.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-annunciation--fra-angelico.webp",
+          "file": "assets/museum/variants/mobile-low/the-annunciation--fra-angelico.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-lamentation--giotto.webp",
+          "file": "assets/museum/variants/mobile-low/the-lamentation--giotto.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-lamentation--giotto.webp",
+          "file": "assets/museum/variants/mobile-low/the-lamentation--giotto.webp"
+        },
+        {
+          "source": "assets/museum/paintings/girl-with-a-pearl-earring--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/girl-with-a-pearl-earring--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/girl-with-a-pearl-earring--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/girl-with-a-pearl-earring--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-night-watch--rembrandt.webp",
+          "file": "assets/museum/variants/mobile-low/the-night-watch--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-night-watch--rembrandt.webp",
+          "file": "assets/museum/variants/mobile-low/the-night-watch--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-calling-of-saint-matthew--caravaggio.webp",
+          "file": "assets/museum/variants/mobile-low/the-calling-of-saint-matthew--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-calling-of-saint-matthew--caravaggio.webp",
+          "file": "assets/museum/variants/mobile-low/the-calling-of-saint-matthew--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-milkmaid--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-milkmaid--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-milkmaid--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-milkmaid--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+          "file": "assets/museum/variants/mobile-low/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp",
+          "file": "assets/museum/variants/mobile-low/the-anatomy-lesson-of-dr-nicolaes-tulp--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/judith-beheading-holofernes--artemisia-gentileschi.webp",
+          "file": "assets/museum/variants/mobile-low/judith-beheading-holofernes--artemisia-gentileschi.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/judith-beheading-holofernes--artemisia-gentileschi.webp",
+          "file": "assets/museum/variants/mobile-low/judith-beheading-holofernes--artemisia-gentileschi.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+          "file": "assets/museum/variants/mobile-low/the-storm-on-the-sea-of-galilee--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-storm-on-the-sea-of-galilee--rembrandt.webp",
+          "file": "assets/museum/variants/mobile-low/the-storm-on-the-sea-of-galilee--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-swing--jean-honore-fragonard.webp",
+          "file": "assets/museum/variants/mobile-low/the-swing--jean-honore-fragonard.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-swing--jean-honore-fragonard.webp",
+          "file": "assets/museum/variants/mobile-low/the-swing--jean-honore-fragonard.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-elevation-of-the-cross--peter-paul-rubens.webp",
+          "file": "assets/museum/variants/mobile-low/the-elevation-of-the-cross--peter-paul-rubens.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-elevation-of-the-cross--peter-paul-rubens.webp",
+          "file": "assets/museum/variants/mobile-low/the-elevation-of-the-cross--peter-paul-rubens.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-supper-at-emmaus--caravaggio.webp",
+          "file": "assets/museum/variants/mobile-low/the-supper-at-emmaus--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-supper-at-emmaus--caravaggio.webp",
+          "file": "assets/museum/variants/mobile-low/the-supper-at-emmaus--caravaggio.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-art-of-painting--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-art-of-painting--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-art-of-painting--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-art-of-painting--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-rokeby-venus--diego-velazquez.webp",
+          "file": "assets/museum/variants/mobile-low/the-rokeby-venus--diego-velazquez.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-rokeby-venus--diego-velazquez.webp",
+          "file": "assets/museum/variants/mobile-low/the-rokeby-venus--diego-velazquez.webp"
+        },
+        {
+          "source": "assets/museum/paintings/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+          "file": "assets/museum/variants/mobile-low/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp",
+          "file": "assets/museum/variants/mobile-low/wanderer-above-the-sea-of-fog--caspar-david-friedrich.webp"
+        },
+        {
+          "source": "assets/museum/paintings/liberty-leading-the-people--eugene-delacroix.webp",
+          "file": "assets/museum/variants/mobile-low/liberty-leading-the-people--eugene-delacroix.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/liberty-leading-the-people--eugene-delacroix.webp",
+          "file": "assets/museum/variants/mobile-low/liberty-leading-the-people--eugene-delacroix.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-raft-of-the-medusa--theodore-gericault.webp",
+          "file": "assets/museum/variants/mobile-low/the-raft-of-the-medusa--theodore-gericault.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-raft-of-the-medusa--theodore-gericault.webp",
+          "file": "assets/museum/variants/mobile-low/the-raft-of-the-medusa--theodore-gericault.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-death-of-socrates--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/the-death-of-socrates--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-death-of-socrates--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/the-death-of-socrates--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/saturn-devouring-his-son--francisco-goya.webp",
+          "file": "assets/museum/variants/mobile-low/saturn-devouring-his-son--francisco-goya.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/saturn-devouring-his-son--francisco-goya.webp",
+          "file": "assets/museum/variants/mobile-low/saturn-devouring-his-son--francisco-goya.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-nightmare--henry-fuseli.webp",
+          "file": "assets/museum/variants/mobile-low/the-nightmare--henry-fuseli.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-nightmare--henry-fuseli.webp",
+          "file": "assets/museum/variants/mobile-low/the-nightmare--henry-fuseli.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-oath-of-the-horatii--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/the-oath-of-the-horatii--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-oath-of-the-horatii--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/the-oath-of-the-horatii--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-death-of-marat--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/the-death-of-marat--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-death-of-marat--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/the-death-of-marat--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-fighting-temeraire--j-m-w-turner.webp",
+          "file": "assets/museum/variants/mobile-low/the-fighting-temeraire--j-m-w-turner.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-fighting-temeraire--j-m-w-turner.webp",
+          "file": "assets/museum/variants/mobile-low/the-fighting-temeraire--j-m-w-turner.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-hay-wain--john-constable.webp",
+          "file": "assets/museum/variants/mobile-low/the-hay-wain--john-constable.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-hay-wain--john-constable.webp",
+          "file": "assets/museum/variants/mobile-low/the-hay-wain--john-constable.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-gleaners--jean-francois-millet.webp",
+          "file": "assets/museum/variants/mobile-low/the-gleaners--jean-francois-millet.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-gleaners--jean-francois-millet.webp",
+          "file": "assets/museum/variants/mobile-low/the-gleaners--jean-francois-millet.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-ninth-wave--ivan-aivazovsky.webp",
+          "file": "assets/museum/variants/mobile-low/the-ninth-wave--ivan-aivazovsky.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-ninth-wave--ivan-aivazovsky.webp",
+          "file": "assets/museum/variants/mobile-low/the-ninth-wave--ivan-aivazovsky.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-scream--edvard-munch.webp",
+          "file": "assets/museum/variants/mobile-low/the-scream--edvard-munch.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-scream--edvard-munch.webp",
+          "file": "assets/museum/variants/mobile-low/the-scream--edvard-munch.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-kiss--gustav-klimt.webp",
+          "file": "assets/museum/variants/mobile-low/the-kiss--gustav-klimt.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-kiss--gustav-klimt.webp",
+          "file": "assets/museum/variants/mobile-low/the-kiss--gustav-klimt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/impression-sunrise--claude-monet.webp",
+          "file": "assets/museum/variants/mobile-low/impression-sunrise--claude-monet.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/impression-sunrise--claude-monet.webp",
+          "file": "assets/museum/variants/mobile-low/impression-sunrise--claude-monet.webp"
+        },
+        {
+          "source": "assets/museum/paintings/cafe-terrace-at-night--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/cafe-terrace-at-night--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/cafe-terrace-at-night--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/cafe-terrace-at-night--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/starry-night-over-the-rhone--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/starry-night-over-the-rhone--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/starry-night-over-the-rhone--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/starry-night-over-the-rhone--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/sunflowers--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/sunflowers--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/sunflowers--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/sunflowers--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-night-cafe--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/the-night-cafe--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-night-cafe--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/the-night-cafe--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/wheatfield-with-crows--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/wheatfield-with-crows--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/wheatfield-with-crows--vincent-van-gogh.webp",
+          "file": "assets/museum/variants/mobile-low/wheatfield-with-crows--vincent-van-gogh.webp"
+        },
+        {
+          "source": "assets/museum/paintings/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+          "file": "assets/museum/variants/mobile-low/luncheon-of-the-boating-party--pierre-auguste-renoir.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/luncheon-of-the-boating-party--pierre-auguste-renoir.webp",
+          "file": "assets/museum/variants/mobile-low/luncheon-of-the-boating-party--pierre-auguste-renoir.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-card-players--paul-cezanne.webp",
+          "file": "assets/museum/variants/mobile-low/the-card-players--paul-cezanne.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-card-players--paul-cezanne.webp",
+          "file": "assets/museum/variants/mobile-low/the-card-players--paul-cezanne.webp"
+        },
+        {
+          "source": "assets/museum/paintings/nighthawks--edward-hopper.webp",
+          "file": "assets/museum/variants/mobile-low/nighthawks--edward-hopper.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/nighthawks--edward-hopper.webp",
+          "file": "assets/museum/variants/mobile-low/nighthawks--edward-hopper.webp"
+        },
+        {
+          "source": "assets/museum/paintings/american-gothic--grant-wood.webp",
+          "file": "assets/museum/variants/mobile-low/american-gothic--grant-wood.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/american-gothic--grant-wood.webp",
+          "file": "assets/museum/variants/mobile-low/american-gothic--grant-wood.webp"
+        },
+        {
+          "source": "assets/museum/paintings/black-square--kazimir-malevich.webp",
+          "file": "assets/museum/variants/mobile-low/black-square--kazimir-malevich.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/black-square--kazimir-malevich.webp",
+          "file": "assets/museum/variants/mobile-low/black-square--kazimir-malevich.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile-low/the-great-wave-off-kanagawa--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-great-wave-off-kanagawa--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile-low/the-great-wave-off-kanagawa--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/paintings/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+          "file": "assets/museum/variants/mobile-low/along-the-river-during-the-qingming-festival--zhang-zeduan.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/along-the-river-during-the-qingming-festival--zhang-zeduan.webp",
+          "file": "assets/museum/variants/mobile-low/along-the-river-during-the-qingming-festival--zhang-zeduan.webp"
+        },
+        {
+          "source": "assets/museum/paintings/red-fuji--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile-low/red-fuji--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/red-fuji--katsushika-hokusai.webp",
+          "file": "assets/museum/variants/mobile-low/red-fuji--katsushika-hokusai.webp"
+        },
+        {
+          "source": "assets/museum/paintings/red-and-white-plum-blossoms--ogata-korin.webp",
+          "file": "assets/museum/variants/mobile-low/red-and-white-plum-blossoms--ogata-korin.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/red-and-white-plum-blossoms--ogata-korin.webp",
+          "file": "assets/museum/variants/mobile-low/red-and-white-plum-blossoms--ogata-korin.webp"
+        },
+        {
+          "source": "assets/museum/paintings/shakuntala--raja-ravi-varma.webp",
+          "file": "assets/museum/variants/mobile-low/shakuntala--raja-ravi-varma.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/shakuntala--raja-ravi-varma.webp",
+          "file": "assets/museum/variants/mobile-low/shakuntala--raja-ravi-varma.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-tortoise-trainer--osman-hamdi-bey.webp",
+          "file": "assets/museum/variants/mobile-low/the-tortoise-trainer--osman-hamdi-bey.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-tortoise-trainer--osman-hamdi-bey.webp",
+          "file": "assets/museum/variants/mobile-low/the-tortoise-trainer--osman-hamdi-bey.webp"
+        },
+        {
+          "source": "assets/museum/paintings/spoliarium--juan-luna.webp",
+          "file": "assets/museum/variants/mobile-low/spoliarium--juan-luna.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/spoliarium--juan-luna.webp",
+          "file": "assets/museum/variants/mobile-low/spoliarium--juan-luna.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-parisian-life--juan-luna.webp",
+          "file": "assets/museum/variants/mobile-low/the-parisian-life--juan-luna.webp"
+        },
+        {
+          "source": "assets/museum/paintings/las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo.webp",
+          "file": "assets/museum/variants/mobile-low/las-virgenes-cristianas-expuestas-al-populacho--felix-resurreccion-hidalgo.webp"
+        },
+        {
+          "source": "assets/museum/paintings/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile-low/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile-low/a-philosopher-lecturing-on-the-orrery--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile-low/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile-low/the-alchemist-discovering-phosphorus--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/paintings/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile-low/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp",
+          "file": "assets/museum/variants/mobile-low/an-experiment-on-a-bird-in-the-air-pump--joseph-wright-of-derby.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-astronomer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-astronomer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-astronomer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-astronomer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-geographer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-geographer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-geographer--johannes-vermeer.webp",
+          "file": "assets/museum/variants/mobile-low/the-geographer--johannes-vermeer.webp"
+        },
+        {
+          "source": "assets/museum/paintings/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/portrait-of-the-lavoisiers--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/portrait-of-the-lavoisiers--jacques-louis-david.webp",
+          "file": "assets/museum/variants/mobile-low/portrait-of-the-lavoisiers--jacques-louis-david.webp"
+        },
+        {
+          "source": "assets/museum/paintings/newton--william-blake.webp",
+          "file": "assets/museum/variants/mobile-low/newton--william-blake.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/newton--william-blake.webp",
+          "file": "assets/museum/variants/mobile-low/newton--william-blake.webp"
+        },
+        {
+          "source": "assets/museum/paintings/philosopher-in-meditation--rembrandt.webp",
+          "file": "assets/museum/variants/mobile-low/philosopher-in-meditation--rembrandt.webp"
+        },
+        {
+          "source": "assets/museum/paintings/vitruvian-man--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/vitruvian-man--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/vitruvian-man--leonardo-da-vinci.webp",
+          "file": "assets/museum/variants/mobile-low/vitruvian-man--leonardo-da-vinci.webp"
+        },
+        {
+          "source": "assets/museum/paintings/the-gross-clinic--thomas-eakins.webp",
+          "file": "assets/museum/variants/mobile-low/the-gross-clinic--thomas-eakins.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/the-gross-clinic--thomas-eakins.webp",
+          "file": "assets/museum/variants/mobile-low/the-gross-clinic--thomas-eakins.webp"
+        },
+        {
+          "source": "assets/museum/paintings/albert-einstein-1924--leonid-pasternak.webp",
+          "file": "assets/museum/variants/mobile-low/albert-einstein-1924--leonid-pasternak.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/albert-einstein-1924--leonid-pasternak.webp",
+          "file": "assets/museum/variants/mobile-low/albert-einstein-1924--leonid-pasternak.webp"
+        },
+        {
+          "source": "assets/museum/paintings/isaac-newton--godfrey-kneller.webp",
+          "file": "assets/museum/variants/mobile-low/isaac-newton--godfrey-kneller.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/isaac-newton--godfrey-kneller.webp",
+          "file": "assets/museum/variants/mobile-low/isaac-newton--godfrey-kneller.webp"
+        },
+        {
+          "source": "assets/museum/paintings/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+          "file": "assets/museum/variants/mobile-low/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp"
+        },
+        {
+          "source": "assets/museum/variants/balanced/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp",
+          "file": "assets/museum/variants/mobile-low/nikola-tesla-blue-portrait--vilma-lwoff-parlaghy.webp"
+        }
+      ]
+    }
+  }
+}

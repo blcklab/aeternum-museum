@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Antoine and Marie-Anne Lavoisier",
+    "summary": "Their collaboration helped transform chemistry into a quantitative experimental discipline. Marie-Anne translated scientific work and produced illustrations of apparatus for the 1789 chemistry textbook. David’s double portrait connects scientific instruments with the public identity of the researchers.",
+    "reference": "https://www.sciencehistory.org/stories/magazine/revolutionary-instruments-lavoisiers-tools-as-objets-dart/",
+    "works": [
+      "portrait-of-the-lavoisiers--jacques-louis-david"
+    ]
+  },
+  {
+    "name": "Isaac Newton",
+    "summary": "Newton formulated laws of motion and universal gravitation and made major contributions to optics and mathematics. The Kneller portrait presents Newton as a historical person, whereas Blake uses him as a symbolic figure to explore the limits of rational measurement.",
+    "works": [
+      "newton--william-blake",
+      "isaac-newton--godfrey-kneller"
+    ]
+  },
+  {
+    "name": "Albert Einstein",
+    "summary": "Einstein developed special and general relativity, reshaping the understanding of space, time and gravity. His work on the photoelectric effect also helped establish quantum physics and was singled out in the 1921 Nobel Prize in Physics. The two portraits document distinct artistic interpretations of the same physicist.",
+    "reference": "https://educationalgames.nobelprize.org/educational/physics/quantised_world/waves-particles-2.html",
+    "works": [
+      "portrait-of-albert-einstein-1917--erich-buttner",
+      "albert-einstein-1924--leonid-pasternak"
+    ]
+  },
+  {
+    "name": "Nikola Tesla",
+    "summary": "Tesla contributed to alternating-current power systems, including polyphase motors, and experimented with high-frequency electrical phenomena. His Blue Portrait offers an unusual point of contact between portraiture and electrically controlled illumination.",
+    "reference": "https://tesla-museum.org/en/qr-en/exhibit-059/",
+    "works": [
+      "nikola-tesla-blue-portrait--vilma-lwoff-parlaghy"
+    ]
+  }
+]
